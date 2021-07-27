@@ -709,14 +709,4 @@ MOMO追剧台,p2p://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e.ts
 龙华戏剧,p2p://ns2.hellotvvod.com:9906/56913632fcb64d0dbfaab87d8406fb4d.ts
 靖天戏剧台,p2p://ns2.hellotvvod.com:9906/f1ebb8aafc2d4cc2b66fb60875d78d72.ts
 靖洋戏剧台,p2p://ns2.hellotvvod.com:9906/2f6df88a991a4b5ba5025a408044b624.ts
-彩虹e台,p2p://ns2.hellotvvod.com:9906/ab28eda4b4024e5d9317c3d9d0d65c0b.ts
-彩虹电影台,p2p://ns2.hellotvvod.com:9906/76cb25d18a9347aba9230274f8bfbd2b.ts
-LOOK TV,p2p://ns2.hellotvvod.com:9906/51852e02eb4740efab4baeff6bc53842.ts
-潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/755dc5a5a4394930b8a799be70bf3397.ts
-惊艳成人电影台,p2p://ns2.hellotvvod.com:9906/bf8d3123bc4a490690c4734c43f80b63.ts
-松视1台,p2p://ns2.hellotvvod.com:9906/d4d64d15dbaf45a5af7fdf2a290269c9.ts
-松视2台,p2p://ns2.hellotvvod.com:9906/4e915b6a4ded4e0f87b8b9b2641f243c.ts
-潘朵啦粉红台,p2p://ns2.hellotvvod.com:9906/76f139520e3d4987b5c9d05edf04c7b8.ts
-PLAYBOY,p2p://ns2.hellotvvod.com:9906/e2d4fe13c4bb4b258cb65d1f07060c48.ts
-香蕉台,p2p://ns2.hellotvvod.com:9906/9361dcb402cd48e1ab02faa5a168bf4d.ts
-HOT,p2p://ns2.hellotvvod.com:9906/9ffee0bd03e844568016cae4c1a2075b.ts
+
