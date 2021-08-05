@@ -1,5 +1,4 @@
 港台,#genre#
-
 翡翠,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
 无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 明珠,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
@@ -184,7 +183,6 @@ Golf_Plus_(博斯高球二台),tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn
 歷史頻道,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ
 台視新聞,tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
 新马,#genre#
-
 Drama Sangat,tvbus://6HGzP5kU6fKUDbV1nNMaCqFjpA2uE3U4xh5EjdAoU1agwMQnCryQkLD5xboCF
 ASTRO_WARNA,tvbus://6DP2zC8zfpj7qRFtRowFTyj8DvGJTgb9m17iJ522n85QFjsF4H7oLFU3pMwtV
 卫视卡式台,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
@@ -293,7 +291,6 @@ ABS_CBN_Sports_Action,tvbus://5kswnqvy8d77X3NX9erPicAQXYPhBb9KAGjuV9o3ZgMytM2ksa
 GMA_News_TV,tvbus://68cFzKEA8em3Bxqzj9GvKHd6je6thMZ9Yxt6s5z6UDMtoBiBf2NFQZCuyoZMa
 Bloomberg_TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
 新闻电影,#genre#
-
 壹電視新聞台,tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP
 年代新聞_HD,tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
 東森新聞_HD,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
