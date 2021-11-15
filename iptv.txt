@@ -1,1333 +1,378 @@
-凤凰香港,http://206.119.163.187/lxtv/sbtv.php?id=358
-凤凰卫视,http://206.119.163.187/lxtv/sbtv.php?id=357
-凤凰卫视,http://206.119.163.187/lxtv/sbtv.php?id=2291
-凤凰资讯,http://206.119.163.187/lxtv/sbtv.php?id=359
-凤凰资讯,http://206.119.163.187/lxtv/sbtv.php?id=2292
-凤凰电影,http://206.119.163.187/lxtv/sbtv.php?id=19
-澳门莲花,http://206.119.163.187/lxtv/sbtv.php?id=70
-港台31,http://206.119.163.187/lxtv/sbtv.php?id=353
-香港开电视,http://206.119.163.187/lxtv/sbtv.php?id=17
-澳亚卫视,http://206.119.163.187/lxtv/sbtv.php?id=85
-澳门资讯,http://206.119.163.187/lxtv/sbtv.php?id=399
-澳视澳门,http://206.119.163.187/lxtv/sbtv.php?id=23
-澳视葡语,http://206.119.163.187/lxtv/sbtv.php?id=24
-澳门Macau,http://206.119.163.187/lxtv/sbtv.php?id=364
-TVB翡翠,http://206.119.163.187/lxtv/sbtv.php?id=30
-TVB翡翠,http://206.119.163.187/lxtv/sbtv.php?id=390
-TVB无线财经,http://206.119.163.187/lxtv/sbtv.php?id=393
-TVB J2,http://206.119.163.187/lxtv/sbtv.php?id=392
-TVB明珠,http://206.119.163.187/lxtv/sbtv.php?id=391
-无线新闻,http://206.119.163.187/lxtv/sbtv.php?id=45
-无线新闻,http://206.119.163.187/lxtv/sbtv.php?id=394
-有线新闻,http://206.119.163.187/lxtv/sbtv.php?id=395
-Viu TV,http://206.119.163.187/lxtv/sbtv.php?id=2334
-Viutv,http://206.119.163.187/lxtv/sbtv.php?id=72
-NOW新闻,http://206.119.163.187/lxtv/sbtv.php?id=396
-NOW直播,http://206.119.163.187/lxtv/sbtv.php?id=400
-HKC娱乐,http://206.119.163.187/lxtv/sbtv.php?id=2293
-HKC电影,http://206.119.163.187/lxtv/sbtv.php?id=354
-HKC体育1,http://206.119.163.187/lxtv/sbtv.php?id=401
-HKC体育2,http://206.119.163.187/lxtv/sbtv.php?id=356
-有线603,http://206.119.163.187/lxtv/sbtv.php?id=398
-18台,http://206.119.163.187/lxtv/sbtv.php?id=44
-Viutv 6,http://206.119.163.187/lxtv/sbtv.php?id=176
-TVB1,http://206.119.163.187/lxtv/sbtv.php?id=1242
-TVB DRAMA,http://206.119.163.187/lxtv/sbtv.php?id=1243
-TVBJ1,http://206.119.163.187/lxtv/sbtv.php?id=1244
-TVBE,http://206.119.163.187/lxtv/sbtv.php?id=1245
-TVB Jade,http://206.119.163.187/lxtv/sbtv.php?id=1084
-TVB 娱乐新闻台,http://206.119.163.196/twtv2255.php?id=1871
-TVB经典,http://206.119.163.187/lxtv/sbtv.php?id=1083
-TVB星河,http://206.119.163.187/lxtv/sbtv.php?id=1079
-TVB 星河HD,http://206.119.163.187/lxtv/sbtv.php?id=1872
-星空卫视,http://206.119.163.187/lxtv/sbtv.php?id=56
-龙华电影,http://206.119.163.187/lxtv/sbtv.php?id=311
-东森电影,http://206.119.163.187/lxtv/sbtv.php?id=350
-纬来电影,http://206.119.163.187/lxtv/sbtv.php?id=96
-美亚电影,http://206.119.163.187/lxtv/sbtv.php?id=375
-龙翔时代,http://206.119.163.187/lxtv/sbtv.php?id=373
-星卫电影,http://154.31.7.160/twtv188.php?id=496
-卫视电影,http://206.119.163.187/lxtv/sbtv.php?id=93
-天映频道,http://206.119.163.187/lxtv/sbtv.php?id=441
-天映经典,http://206.119.163.187/lxtv/sbtv.php?id=2289
-卫视卡式台,http://206.119.163.187/lxtv/sbtv.php?id=1085
-卫视卡式台,http://206.119.163.187/lxtv/sbtv.php?id=2366
-经典电影,http://206.119.163.187/lxtv/sbtv.php?id=2227
-CHC高清电影,http://206.119.163.187/lxtv/sbtv.php?id=1345
-CHC动作电影,http://206.119.163.187/lxtv/sbtv.php?id=1346
-CHC家庭影院,http://206.119.163.187/lxtv/sbtv.php?id=1347
-CBN每日影院,http://206.119.163.187/lxtv/sbtv.php?id=1348
-采昌影剧,http://206.119.163.187/lxtv/sbtv.php?id=62
-影迷数位电影,http://206.119.163.187/lxtv/sbtv.php?id=497
-壹电影,http://206.119.163.187/lxtv/sbtv.php?id=2284
-好莱坞电影,http://206.119.163.187/lxtv/sbtv.php?id=37
-AXN台湾,http://206.119.163.187/lxtv/sbtv.php?id=423
-AXN亚洲,http://206.119.163.187/lxtv/sbtv.php?id=1066
-Trill恐怖电影,http://206.119.163.187/lxtv/sbtv.php?id=18
-卫视西片,http://206.119.163.187/lxtv/sbtv.php?id=369
-靖天电影,http://206.119.163.187/lxtv/sbtv.php?id=110
-靖天映画,http://206.119.163.187/lxtv/sbtv.php?id=349
-靖洋戏剧,http://206.119.163.187/lxtv/sbtv.php?id=319
-靖天戏剧,http://206.119.163.187/lxtv/sbtv.php?id=109
-靖天国际,http://206.119.163.187/lxtv/sbtv.php?id=345
-靖天日本,http://206.119.163.187/lxtv/sbtv.php?id=108
-靖天欢乐,http://206.119.163.187/lxtv/sbtv.php?id=51
-靖天资讯,http://206.119.163.187/lxtv/sbtv.php?id=49
-靖天综合,http://206.119.163.187/lxtv/sbtv.php?id=308
-靖天卡通,http://206.119.163.187/lxtv/sbtv.php?id=344
-东风卫视,http://206.119.163.187/lxtv/sbtv.php?id=2152
-民视,http://206.119.163.187/lxtv/sbtv.php?id=26
-民视,http://206.119.163.187/lxtv/sbtv.php?id=336
-台视,http://206.119.163.187/lxtv/sbtv.php?id=27
-台视,http://206.119.163.187/lxtv/sbtv.php?id=326
-台视测试,http://206.119.163.187/lxtv/sbtv.php?id=312
-中视,http://206.119.163.187/lxtv/sbtv.php?id=333
-中视,http://206.119.163.187/lxtv/sbtv.php?id=28
-中视测试,http://206.119.163.187/lxtv/sbtv.php?id=1041
-华视,http://206.119.163.187/lxtv/sbtv.php?id=32
-华视,http://206.119.163.187/lxtv/sbtv.php?id=327
-华视测试,http://206.119.163.187/lxtv/sbtv.php?id=2282
-公视,http://206.119.163.187/lxtv/sbtv.php?id=86
-公视测试,http://206.119.163.187/lxtv/sbtv.php?id=2302
-公视3台,http://206.119.163.187/lxtv/sbtv.php?id=1340
-公视戏剧,http://206.119.163.187/lxtv/sbtv.php?id=69
-台视新闻,http://206.119.163.187/lxtv/sbtv.php?id=1
-台视综合,http://206.119.163.187/lxtv/sbtv.php?id=309
-台视财经,http://206.119.163.187/lxtv/sbtv.php?id=300
-华视新闻,http://206.119.163.187/lxtv/sbtv.php?id=6
-中视菁采,http://206.119.163.187/lxtv/sbtv.php?id=74
-中视新闻,http://206.119.163.187/lxtv/sbtv.php?id=7
-中视经典,http://206.119.163.187/lxtv/sbtv.php?id=185
-民视影剧,http://206.119.163.187/lxtv/sbtv.php?id=1023
-民视综艺,http://206.119.163.187/lxtv/sbtv.php?id=98
-民视第一台,http://206.119.163.187/lxtv/sbtv.php?id=34
-民视台湾,http://206.119.163.187/lxtv/sbtv.php?id=36
-民视新闻,http://206.119.163.187/lxtv/sbtv.php?id=13
-东森新闻,http://206.119.163.187/lxtv/sbtv.php?id=1016
-东森购物3,http://206.119.163.187/lxtv/sbtv.php?id=1584
-东森综合,http://206.119.163.187/lxtv/sbtv.php?id=372
-东森超视,http://206.119.163.187/lxtv/sbtv.php?id=80
-东森购物2,http://206.119.163.187/lxtv/sbtv.php?id=1156
-东森戏剧,http://206.119.163.187/lxtv/sbtv.php?id=321
-东森财经,http://206.119.163.187/lxtv/sbtv.php?id=12
-东森洋片,http://206.119.163.187/lxtv/sbtv.php?id=1128
-东森幼幼,http://206.119.163.187/lxtv/sbtv.php?id=371
-纬来戏剧,http://206.119.163.187/lxtv/sbtv.php?id=339
-纬来综合,http://206.119.163.187/lxtv/sbtv.php?id=340
-纬来育乐,http://206.119.163.187/lxtv/sbtv.php?id=338
-纬来日本,http://206.119.163.187/lxtv/sbtv.php?id=337
-纬来日本,http://206.119.163.187/lxtv/sbtv.php?id=46
-龙华戏剧,http://206.119.163.187/lxtv/sbtv.php?id=365
-龙华经典,http://206.119.163.187/lxtv/sbtv.php?id=100
-龙华偶像,http://206.119.163.187/lxtv/sbtv.php?id=347
-龙华日韩,http://206.119.163.187/lxtv/sbtv.php?id=382
-龙华洋片,http://206.119.163.187/lxtv/sbtv.php?id=341
-龙华动画,http://206.119.163.187/lxtv/sbtv.php?id=366
-中天新闻,http://206.119.163.187/lxtv/sbtv.php?id=3
-中天亚洲,http://206.119.163.187/lxtv/sbtv.php?id=322
-中天综合,http://206.119.163.187/lxtv/sbtv.php?id=54
-中天娱乐,http://206.119.163.187/lxtv/sbtv.php?id=324
-八大第一,http://206.119.163.187/lxtv/sbtv.php?id=318
-八大综合,http://206.119.163.187/lxtv/sbtv.php?id=325
-八大综合,http://206.119.163.187/lxtv/sbtv.php?id=2286
-八大娱乐,http://206.119.163.187/lxtv/sbtv.php?id=105
-八大精彩,http://206.119.163.187/lxtv/sbtv.php?id=1024
-八大戏剧,http://206.119.163.187/lxtv/sbtv.php?id=81
-三立新闻,http://206.119.163.187/lxtv/sbtv.php?id=4
-三立台湾,http://206.119.163.187/lxtv/sbtv.php?id=35
-三立台湾,http://206.119.163.187/lxtv/sbtv.php?id=21
-三立都会,http://206.119.163.187/lxtv/sbtv.php?id=38
-三立都会,http://206.119.163.187/lxtv/sbtv.php?id=1001
-三立综合,http://206.119.163.187/lxtv/sbtv.php?id=315
-三立iNEWS,http://206.119.163.187/lxtv/sbtv.php?id=8
-三立国际,http://206.119.163.187/lxtv/sbtv.php?id=2285
-三立戏剧,http://206.119.163.187/lxtv/sbtv.php?id=64
-TVBS新闻,http://206.119.163.187/lxtv/sbtv.php?id=2
-TVBS欢乐,http://206.119.163.187/lxtv/sbtv.php?id=40
-TVBS欢乐,http://206.119.163.187/lxtv/sbtv.php?id=1358
-TVBS,http://206.119.163.187/lxtv/sbtv.php?id=2273
-TVBS精采,http://206.119.163.187/lxtv/sbtv.php?id=66
-爱尔达影剧,http://206.119.163.187/lxtv/sbtv.php?id=500
-ELTA娱乐台,http://206.119.163.187/lxtv/sbtv.php?id=351
-ELTA综合,http://206.119.163.187/lxtv/sbtv.php?id=1137
-EYE戏剧,http://206.119.163.187/lxtv/sbtv.php?id=191
-EYE旅游,http://206.119.163.187/lxtv/sbtv.php?id=1494
-霹雳台湾,http://206.119.163.187/lxtv/sbtv.php?id=1339
-金光布袋戏,http://206.119.163.187/lxtv/sbtv.php?id=1060
-寰宇新闻,http://206.119.163.187/lxtv/sbtv.php?id=304
-寰宇台湾,http://206.119.163.187/lxtv/sbtv.php?id=87
-寰宇综合,http://206.119.163.187/lxtv/sbtv.php?id=190
-年代新闻,http://206.119.163.187/lxtv/sbtv.php?id=1099
-壹新闻,http://206.119.163.187/lxtv/sbtv.php?id=494
-华艺综合,http://206.119.163.187/lxtv/sbtv.php?id=310
-年代much,http://206.119.163.187/lxtv/sbtv.php?id=1359
-非凡新闻,http://206.119.163.187/lxtv/sbtv.php?id=314
-卫视中文台,http://206.119.163.187/lxtv/sbtv.php?id=2365
-卫视中文,http://206.119.163.187/lxtv/sbtv.php?id=342
-MOMO综合,http://206.119.163.187/lxtv/sbtv.php?id=14
-亚洲旅游,http://206.119.163.187/lxtv/sbtv.php?id=2299
-国家地理,http://206.119.163.187/lxtv/sbtv.php?id=302
-探索频道,http://206.119.163.187/lxtv/sbtv.php?id=1035
-动物星球,http://206.119.163.187/lxtv/sbtv.php?id=367
-民视旅游,http://206.119.163.187/lxtv/sbtv.php?id=78
-探索亚洲,http://206.119.163.187/lxtv/sbtv.php?id=306
-探索科学,http://206.119.163.187/lxtv/sbtv.php?id=343
-国家野生,http://206.119.163.187/lxtv/sbtv.php?id=1038
-探索EVE,http://206.119.163.187/lxtv/sbtv.php?id=1036
-视纳华仁纪实,http://206.119.163.187/lxtv/sbtv.php?id=91
-美食星球,http://206.119.163.187/lxtv/sbtv.php?id=1360
-亚洲美食AFN,http://206.119.163.187/lxtv/sbtv.php?id=307
-探索动力DMAX,http://206.119.163.187/lxtv/sbtv.php?id=335
-国家人文,http://206.119.163.187/lxtv/sbtv.php?id=334
-国家地理悠人,http://206.119.163.187/lxtv/sbtv.php?id=114
-MOMO亲子台,http://206.119.163.187/lxtv/sbtv.php?id=1149
-MOMO亲子,http://206.119.163.187/lxtv/sbtv.php?id=1126
-YOYO TV,http://206.119.163.187/lxtv/sbtv.php?id=293
-CN卡通,http://206.119.163.187/lxtv/sbtv.php?id=107
-BabyFirst,http://206.119.163.187/lxtv/sbtv.php?id=173
-ELTV生活英语,http://206.119.163.187/lxtv/sbtv.php?id=323
-Baby TV,http://206.119.163.187/lxtv/sbtv.php?id=1129
-大爱一台,http://206.119.163.187/lxtv/sbtv.php?id=11
-JET综合,http://206.119.163.187/lxtv/sbtv.php?id=41
-国兴卫视,http://206.119.163.187/lxtv/sbtv.php?id=65
-好消息2,http://206.119.163.187/lxtv/sbtv.php?id=363
-高点综合,http://206.119.163.187/lxtv/sbtv.php?id=99
-猪哥亮歌厅秀,http://206.119.163.187/lxtv/sbtv.php?id=75
-韩国娱乐,http://206.119.163.187/lxtv/sbtv.php?id=73
-星卫娱乐,http://206.119.163.187/lxtv/sbtv.php?id=89
-Animax,http://206.119.163.187/lxtv/sbtv.php?id=59
-经典卡通,http://206.119.163.187/lxtv/sbtv.php?id=313
-i-Fun动漫,http://206.119.163.187/lxtv/sbtv.php?id=1127
-爱放2,http://206.119.163.187/lxtv/sbtv.php?id=299
-达文西,http://206.119.163.187/lxtv/sbtv.php?id=68
-法国时装,http://206.119.163.187/lxtv/sbtv.php?id=2287
-TVN台湾版,http://206.119.163.187/lxtv/sbtv.php?id=2288
-世新综合,http://206.119.163.187/lxtv/sbtv.php?id=1048
-MOMO购物1,http://206.119.163.187/lxtv/sbtv.php?id=1585
-MOMO购物2,http://206.119.163.187/lxtv/sbtv.php?id=1586
-天良综合,http://206.119.163.187/lxtv/sbtv.php?id=1587
-诚心电视,http://206.119.163.187/lxtv/sbtv.php?id=1590
-好消息,http://206.119.163.187/lxtv/sbtv.php?id=104
-客家电视,http://206.119.163.187/lxtv/sbtv.php?id=76
-美好购物1,http://206.119.163.187/lxtv/sbtv.php?id=1591
-美好购物2,http://206.119.163.187/lxtv/sbtv.php?id=1592
-非凡商业,http://206.119.163.187/lxtv/sbtv.php?id=187
-FRANCE 24,http://206.119.163.187/lxtv/sbtv.php?id=1042
-CBN News,http://206.119.163.187/lxtv/sbtv.php?id=499
-第1商业,http://206.119.163.187/lxtv/sbtv.php?id=186
-半岛国际新闻,http://206.119.163.187/lxtv/sbtv.php?id=1498
-佛卫慈悲台,http://206.119.163.187/lxtv/sbtv.php?id=1306
-华藏电视,http://206.119.163.187/lxtv/sbtv.php?id=1053
-音乐电台,http://206.119.163.187/lxtv/sbtv.php?id=1602
-自然の音,http://206.119.163.187/lxtv/sbtv.php?id=1138
-大爱二台,http://206.119.163.187/lxtv/sbtv.php?id=197
-M2O,http://206.119.163.187/lxtv/sbtv.php?id=94
-Baroque Live Music,http://206.119.163.187/lxtv/sbtv.php?id=1027
-希望电视,http://206.119.163.187/lxtv/sbtv.php?id=67
-唯心电视,http://206.119.163.187/lxtv/sbtv.php?id=1150
-人间卫视,http://206.119.163.187/lxtv/sbtv.php?id=101
-Good Life Radio,http://206.119.163.187/lxtv/sbtv.php?id=1152
-大爱海外,http://206.119.163.187/lxtv/sbtv.php?id=184
-纬来体育,http://206.119.163.187/lxtv/sbtv.php?id=52
-Eleven Sport 1,http://206.119.163.187/lxtv/sbtv.php?id=1133
-Eleven Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=301
-ELEVEN SPORTS PLUS,http://206.119.163.187/lxtv/sbtv.php?id=419
-ELTA体育1,http://206.119.163.187/lxtv/sbtv.php?id=192
-ELTA体育2,http://206.119.163.187/lxtv/sbtv.php?id=193
-ELTA体育3,http://206.119.163.187/lxtv/sbtv.php?id=194
-Z频道,http://206.119.163.187/lxtv/sbtv.php?id=1130
-博斯无限,http://206.119.163.187/lxtv/sbtv.php?id=381
-博斯无限2,http://206.119.163.187/lxtv/sbtv.php?id=426
-博斯运动1,http://206.119.163.187/lxtv/sbtv.php?id=379
-博斯运动2,http://206.119.163.187/lxtv/sbtv.php?id=380
-纬来体育,http://206.119.163.187/lxtv/sbtv.php?id=118
-FOX Sport 1,http://206.119.163.187/lxtv/sbtv.php?id=1131
-FOX Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=1132
-FOX Sport 3,http://206.119.163.187/lxtv/sbtv.php?id=376
-ELTA奥运1,http://206.119.163.187/lxtv/sbtv.php?id=1143
-ELTA奥运2,http://206.119.163.187/lxtv/sbtv.php?id=2427
-ELTA奥运3,http://206.119.163.187/lxtv/sbtv.php?id=1216
-博斯网球,http://206.119.163.187/lxtv/sbtv.php?id=498
-博斯高球1,http://206.119.163.187/lxtv/sbtv.php?id=377
-博斯高球2,http://206.119.163.187/lxtv/sbtv.php?id=378
-博斯魅力,http://206.119.163.187/lxtv/sbtv.php?id=175
-TRACE Sport Stars,http://206.119.163.187/lxtv/sbtv.php?id=1037
-智林体育,http://206.119.163.187/lxtv/sbtv.php?id=82
-时尚运动X,http://206.119.163.187/lxtv/sbtv.php?id=71
-欧洲体育,http://206.119.163.187/lxtv/sbtv.php?id=1342
-BeIN Sport News,http://206.119.163.187/lxtv/sbtv.php?id=2402
-BeIN Sport 1,http://206.119.163.187/lxtv/sbtv.php?id=2403
-BeIN Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=2404
-BeIN Sport 3,http://206.119.163.187/lxtv/sbtv.php?id=2405
-BeIN Sport 4,http://206.119.163.187/lxtv/sbtv.php?id=2406
-BeIN Sport 5,http://206.119.163.187/lxtv/sbtv.php?id=2407
-BeIN Sport 6,http://206.119.163.187/lxtv/sbtv.php?id=2408
-BeIN Sport 7,http://206.119.163.187/lxtv/sbtv.php?id=2409
-BeIN Sport 8,http://206.119.163.187/lxtv/sbtv.php?id=2410
-BeIN Sport 9,http://206.119.163.187/lxtv/sbtv.php?id=2411
-BeIN Sport 10,http://206.119.163.187/lxtv/sbtv.php?id=2412
-BeIN Sport 11,http://206.119.163.187/lxtv/sbtv.php?id=2413
-BeIN Sport 12,http://206.119.163.187/lxtv/sbtv.php?id=2414
-Bein Sport 13,http://206.119.163.187/lxtv/sbtv.php?id=2415
-Bein Sport 15,http://206.119.163.187/lxtv/sbtv.php?id=2416
-Bein Sport,http://206.119.163.187/lxtv/sbtv.php?id=2417
-Bein Sport 14,http://206.119.163.187/lxtv/sbtv.php?id=2418
-广东体育,http://206.119.163.187/lxtv/sbtv.php?id=463
-魅力足球,http://206.119.163.187/lxtv/sbtv.php?id=464
-J SPORTS 1,http://206.119.163.187/lxtv/sbtv.php?id=129
-J SPORTS 3,http://206.119.163.187/lxtv/sbtv.php?id=131
-J SPORTS 2,http://206.119.163.187/lxtv/sbtv.php?id=130
-J SPORTS 4,http://206.119.163.187/lxtv/sbtv.php?id=132
-Spotv,http://206.119.163.187/lxtv/sbtv.php?id=266
-Spotv2,http://206.119.163.187/lxtv/sbtv.php?id=267
-SBS Sports,http://206.119.163.187/lxtv/sbtv.php?id=487
-Fox Business,http://206.119.163.187/lxtv/sbtv.php?id=1511
-Mlb net,http://206.119.163.187/lxtv/sbtv.php?id=1523
-Fight network,http://206.119.163.187/lxtv/sbtv.php?id=1527
-Diy network,http://206.119.163.187/lxtv/sbtv.php?id=1528
-NHL net,http://206.119.163.187/lxtv/sbtv.php?id=1534
-NBC Golf,http://206.119.163.187/lxtv/sbtv.php?id=1539
-Goltv,http://206.119.163.187/lxtv/sbtv.php?id=1542
-TVG,http://206.119.163.187/lxtv/sbtv.php?id=1543
-Game Show Network,http://206.119.163.187/lxtv/sbtv.php?id=1562
-Atlanta,http://206.119.163.187/lxtv/sbtv.php?id=1055
-CBS Sport,http://206.119.163.187/lxtv/sbtv.php?id=1364
-ESPN 1,http://206.119.163.187/lxtv/sbtv.php?id=1182
-ESPN 2,http://206.119.163.187/lxtv/sbtv.php?id=1183
-NBC Sport,http://206.119.163.187/lxtv/sbtv.php?id=1184
-NBA TV US,http://206.119.163.187/lxtv/sbtv.php?id=1185
-Fox Sport 1,http://206.119.163.187/lxtv/sbtv.php?id=1186
-Fox Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=1187
-NFL Network,http://206.119.163.187/lxtv/sbtv.php?id=1189
-Golf,http://206.119.163.187/lxtv/sbtv.php?id=1190
-WWE,http://206.119.163.187/lxtv/sbtv.php?id=1191
-UFC PASS,http://206.119.163.187/lxtv/sbtv.php?id=1192
-Bein Sports USA,http://206.119.163.187/lxtv/sbtv.php?id=1195
-ESPN U,http://206.119.163.187/lxtv/sbtv.php?id=1196
-WE TV,http://206.119.163.187/lxtv/sbtv.php?id=1229
-TSN 3,http://206.119.163.187/lxtv/sbtv.php?id=1275
-TSN 4,http://206.119.163.187/lxtv/sbtv.php?id=1276
-TSN 5,http://206.119.163.187/lxtv/sbtv.php?id=1277
-SportNet ON,http://206.119.163.187/lxtv/sbtv.php?id=1278
-SportNet One,http://206.119.163.187/lxtv/sbtv.php?id=1279
-SportNet World,http://206.119.163.187/lxtv/sbtv.php?id=1280
-SportNet 360,http://206.119.163.187/lxtv/sbtv.php?id=1281
-NBA CA,http://206.119.163.187/lxtv/sbtv.php?id=1282
-TSN 2,http://206.119.163.187/lxtv/sbtv.php?id=1274
-TSN 1,http://206.119.163.187/lxtv/sbtv.php?id=1273
-E ent,http://206.119.163.187/lxtv/sbtv.php?id=1392
-Freesports,http://206.119.163.187/lxtv/sbtv.php?id=1412
-BT Sport ESPN,http://206.119.163.187/lxtv/sbtv.php?id=168
-BT Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=166
-BT Sport 3,http://206.119.163.187/lxtv/sbtv.php?id=167
-BT Sport 1,http://206.119.163.187/lxtv/sbtv.php?id=165
-Sky Sport 2,http://206.119.163.187/lxtv/sbtv.php?id=171
-Sky Sports 1,http://206.119.163.187/lxtv/sbtv.php?id=172
-Sky Sports F1,http://206.119.163.187/lxtv/sbtv.php?id=182
-Sky Sport 3,http://206.119.163.187/lxtv/sbtv.php?id=183
-Sky Sport 4,http://206.119.163.187/lxtv/sbtv.php?id=417
-Sky Sport 5,http://206.119.163.187/lxtv/sbtv.php?id=418
-Sky sport uno,http://206.119.163.187/lxtv/sbtv.php?id=1597
-Rai Sport,http://206.119.163.187/lxtv/sbtv.php?id=1613
-Suria,http://206.119.163.187/lxtv/sbtv.php?id=434
-Astro Sp1,http://206.119.163.187/lxtv/sbtv.php?id=444
-Astro Sp2,http://206.119.163.187/lxtv/sbtv.php?id=445
-Astro Sp3,http://206.119.163.187/lxtv/sbtv.php?id=446
-Astro Sp4,http://206.119.163.187/lxtv/sbtv.php?id=447
-ASTRO ARENA HD,http://206.119.163.187/lxtv/sbtv.php?id=1934
-EUROSPORT HD,http://206.119.163.187/lxtv/sbtv.php?id=1942
-WWE NETWORK,http://206.119.163.187/lxtv/sbtv.php?id=1943
-GOLF CHANNEL HD,http://206.119.163.187/lxtv/sbtv.php?id=1944
-Fox Sports 1 HD,http://206.119.163.187/lxtv/sbtv.php?id=2094
-Fox Sports 3 HD,http://206.119.163.187/lxtv/sbtv.php?id=2095
-Fox Sports 2 HD,http://206.119.163.187/lxtv/sbtv.php?id=2096
-BeIN Sport 1 ID,http://206.119.163.187/lxtv/sbtv.php?id=2097
-BeIN Sport 2 ID,http://206.119.163.187/lxtv/sbtv.php?id=2098
-Fight Sports,http://206.119.163.187/lxtv/sbtv.php?id=2147
-NBA TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2149
-ASSP1_HD,http://206.119.163.187/lxtv/sbtv.php?id=1070
-ASSP2_HD,http://206.119.163.187/lxtv/sbtv.php?id=1071
-ASSP3_HD,http://206.119.163.187/lxtv/sbtv.php?id=1072
-ASSP4_HD,http://206.119.163.187/lxtv/sbtv.php?id=1074
-新馬頻道-KIX,http://206.119.163.187/lxtv/sbtv.php?id=430
-新马-AOD,http://206.119.163.187/lxtv/sbtv.php?id=428
-新马-全佳,http://206.119.163.187/lxtv/sbtv.php?id=427
-新马-双星,http://206.119.163.187/lxtv/sbtv.php?id=1086
-新马-欢喜台,http://206.119.163.187/lxtv/sbtv.php?id=432
-新馬頻道-華麗,http://206.119.163.187/lxtv/sbtv.php?id=429
-新馬頻道-小太陽,http://206.119.163.187/lxtv/sbtv.php?id=443
-新马TV1,http://206.119.163.187/lxtv/sbtv.php?id=435
-新马TV2,http://206.119.163.187/lxtv/sbtv.php?id=436
-新马TV3,http://206.119.163.187/lxtv/sbtv.php?id=437
-新马-天映,http://206.119.163.187/lxtv/sbtv.php?id=1874
-新马NTV7 Awani,http://206.119.163.187/lxtv/sbtv.php?id=439
-新马TV8,http://206.119.163.187/lxtv/sbtv.php?id=442
-新马TV9,http://206.119.163.187/lxtv/sbtv.php?id=438
-新马Astro Awani,http://206.119.163.187/lxtv/sbtv.php?id=440
-新马Channel5,http://206.119.163.187/lxtv/sbtv.php?id=141
-新马Channel8,http://206.119.163.187/lxtv/sbtv.php?id=142
-新马Channel U,http://206.119.163.187/lxtv/sbtv.php?id=1077
-新马CERIA,http://206.119.163.187/lxtv/sbtv.php?id=1875
-新马AOD351,http://206.119.163.187/lxtv/sbtv.php?id=1876
-新马AOD352,http://206.119.163.187/lxtv/sbtv.php?id=1877
-新马AOD353,http://206.119.163.187/lxtv/sbtv.php?id=1878
-新马AOD354,http://206.119.163.187/lxtv/sbtv.php?id=1879
-新马AOD355,http://206.119.163.187/lxtv/sbtv.php?id=1880
-新马WWE,http://206.119.163.187/lxtv/sbtv.php?id=1191
-新马AEC HD,http://206.119.163.187/lxtv/sbtv.php?id=1864
-新马BERNAMA,http://206.119.163.187/lxtv/sbtv.php?id=1930
-新马ASTRO RIA HD,http://206.119.163.187/lxtv/sbtv.php?id=1844
-新马ASTRO PRIMA HD,http://206.119.163.187/lxtv/sbtv.php?id=1845
-新马ASTRO OASIS HD,http://206.119.163.187/lxtv/sbtv.php?id=1846
-新马ASTRO WARNA HD,http://206.119.163.187/lxtv/sbtv.php?id=1847
-新马ASTRO NAURA,http://206.119.163.187/lxtv/sbtv.php?id=1848
-新马TV ALHIJRAH,http://206.119.163.187/lxtv/sbtv.php?id=1849
-新马GO SHOP RUUMA,http://206.119.163.187/lxtv/sbtv.php?id=1850
-新马GO SHOP GAAYA,http://206.119.163.187/lxtv/sbtv.php?id=1851
-新马SUN MUSIC,http://206.119.163.187/lxtv/sbtv.php?id=1852
-新马CHUTTI TV,http://206.119.163.187/lxtv/sbtv.php?id=1853
-新马ADITHYA,http://206.119.163.187/lxtv/sbtv.php?id=1854
-新马ZEE Tamil HD,http://206.119.163.187/lxtv/sbtv.php?id=1855
-新马VINMEEN HD,http://206.119.163.187/lxtv/sbtv.php?id=1856
-新马STAR VIJAY HD,http://206.119.163.187/lxtv/sbtv.php?id=1857
-新马COLORS TAMIL,http://206.119.163.187/lxtv/sbtv.php?id=1858
-新马SUN TV HD,http://206.119.163.187/lxtv/sbtv.php?id=1859
-新马BOLLYONE HD,http://206.119.163.187/lxtv/sbtv.php?id=1860
-新马GO SHOP 2,http://206.119.163.187/lxtv/sbtv.php?id=1862
-Channel 3,http://206.119.163.187/lxtv/sbtv.php?id=2315
-3 HD,http://206.119.163.187/lxtv/sbtv.php?id=2230
-Channel 5,http://206.119.163.187/lxtv/sbtv.php?id=2316
-Channel 7,http://206.119.163.187/lxtv/sbtv.php?id=2317
-7HD,http://206.119.163.187/lxtv/sbtv.php?id=2228
-MCOT HD,http://206.119.163.187/lxtv/sbtv.php?id=2318
-ch8,http://206.119.163.187/lxtv/sbtv.php?id=2321
-Channel 8,http://206.119.163.187/lxtv/sbtv.php?id=1140
-8 channel,http://206.119.163.187/lxtv/sbtv.php?id=2234
-Gmm one,http://206.119.163.187/lxtv/sbtv.php?id=2322
-One HD,http://206.119.163.187/lxtv/sbtv.php?id=2229
-TV 8 HD,http://206.119.163.187/lxtv/sbtv.php?id=2373
-KANAL 7 HD,http://206.119.163.187/lxtv/sbtv.php?id=2379
-全佳,http://206.119.163.187/lxtv/sbtv.php?id=427
-KIX,http://206.119.163.187/lxtv/sbtv.php?id=430
-欢喜,http://206.119.163.187/lxtv/sbtv.php?id=432
-双星,http://206.119.163.187/lxtv/sbtv.php?id=431
-AEC,http://206.119.163.187/lxtv/sbtv.php?id=433
-小太阳,http://206.119.163.187/lxtv/sbtv.php?id=443
-华丽,http://206.119.163.187/lxtv/sbtv.php?id=429
-TV1,http://206.119.163.187/lxtv/sbtv.php?id=435
-TV2,http://206.119.163.187/lxtv/sbtv.php?id=436
-TV3,http://206.119.163.187/lxtv/sbtv.php?id=437
-TV9,http://206.119.163.187/lxtv/sbtv.php?id=438
-NTV7,http://206.119.163.187/lxtv/sbtv.php?id=439
-TV8,http://206.119.163.187/lxtv/sbtv.php?id=442
-AOD,http://206.119.163.187/lxtv/sbtv.php?id=428
-BERNAMA,http://206.119.163.187/lxtv/sbtv.php?id=1930
-ASTRO RIA HD,http://206.119.163.187/lxtv/sbtv.php?id=1844
-ASTRO PRIMA HD,http://206.119.163.187/lxtv/sbtv.php?id=1845
-ASTRO OASIS HD,http://206.119.163.187/lxtv/sbtv.php?id=1846
-ASTRO WARNA HD,http://206.119.163.187/lxtv/sbtv.php?id=1847
-ASTRO NAURA,http://206.119.163.187/lxtv/sbtv.php?id=1848
-TV ALHIJRAH,http://206.119.163.187/lxtv/sbtv.php?id=1849
-GO SHOP RUUMA,http://206.119.163.187/lxtv/sbtv.php?id=1850
-GO SHOP GAAYA,http://206.119.163.187/lxtv/sbtv.php?id=1851
-SUN MUSIC,http://206.119.163.187/lxtv/sbtv.php?id=1852
-CHUTTI TV,http://206.119.163.187/lxtv/sbtv.php?id=1853
-ADITHYA,http://206.119.163.187/lxtv/sbtv.php?id=1854
-ZEE Tamil HD,http://206.119.163.187/lxtv/sbtv.php?id=1855
-VINMEEN HD,http://206.119.163.187/lxtv/sbtv.php?id=1856
-STAR VIJAY HD,http://206.119.163.187/lxtv/sbtv.php?id=1857
-COLORS TAMIL,http://206.119.163.187/lxtv/sbtv.php?id=1858
-SUN TV HD,http://206.119.163.187/lxtv/sbtv.php?id=1859
-BOLLYONE HD,http://206.119.163.187/lxtv/sbtv.php?id=1860
-爱奇艺 HD,http://206.119.163.187/lxtv/sbtv.php?id=1861
-GO SHOP 2,http://206.119.163.187/lxtv/sbtv.php?id=1862
-小太阳 HD,http://206.119.163.187/lxtv/sbtv.php?id=1863
-AEC HD,http://206.119.163.187/lxtv/sbtv.php?id=1864
-双星 HD,http://206.119.163.187/lxtv/sbtv.php?id=1865
-全佳 HD,http://206.119.163.187/lxtv/sbtv.php?id=1866
-CELESTIAL HD,http://206.119.163.187/lxtv/sbtv.php?id=1867
-TVB JADE,http://206.119.163.187/lxtv/sbtv.php?id=1868
-AOD 351 HD,http://206.119.163.187/lxtv/sbtv.php?id=1869
-CTI ASIA,http://206.119.163.187/lxtv/sbtv.php?id=1870
-TVB E-NEWS,http://206.119.163.187/lxtv/sbtv.php?id=1871
-TVBS ASIA HD,http://206.119.163.187/lxtv/sbtv.php?id=1873
-CCM,http://206.119.163.187/lxtv/sbtv.php?id=1874
-HUA HEE DAI HD,http://206.119.163.187/lxtv/sbtv.php?id=1875
-AOD 351 HD,http://206.119.163.187/lxtv/sbtv.php?id=1876
-AOD 352 HD,http://206.119.163.187/lxtv/sbtv.php?id=1877
-AOD 353 HD,http://206.119.163.187/lxtv/sbtv.php?id=1878
-AOD 354 HD,http://206.119.163.187/lxtv/sbtv.php?id=1879
-AOD 355 HD,http://206.119.163.187/lxtv/sbtv.php?id=1880
-KBS World HD,http://206.119.163.187/lxtv/sbtv.php?id=1881
-ONE HD,http://206.119.163.187/lxtv/sbtv.php?id=1882
-Oh!K HD,http://206.119.163.187/lxtv/sbtv.php?id=1883
-tvN HD,http://206.119.163.187/lxtv/sbtv.php?id=1884
-HITS MOVIES HD,http://206.119.163.187/lxtv/sbtv.php?id=1885
-HBO HD,http://206.119.163.187/lxtv/sbtv.php?id=1886
-CINEMAX HD,http://206.119.163.187/lxtv/sbtv.php?id=1887
-tvN Movies,http://206.119.163.187/lxtv/sbtv.php?id=1888
-ASTRO AWANI,http://206.119.163.187/lxtv/sbtv.php?id=1889
-BNC,http://206.119.163.187/lxtv/sbtv.php?id=1890
-CGTN,http://206.119.163.187/lxtv/sbtv.php?id=1891
-CNN HD,http://206.119.163.187/lxtv/sbtv.php?id=1892
-BBC News HD,http://206.119.163.187/lxtv/sbtv.php?id=1893
-AL JAZEERA HD,http://206.119.163.187/lxtv/sbtv.php?id=1894
-SKY NEWS HD,http://206.119.163.187/lxtv/sbtv.php?id=1895
-CNA HD,http://206.119.163.187/lxtv/sbtv.php?id=1896
-CNBC,http://206.119.163.187/lxtv/sbtv.php?id=1897
-BLOOMBERG TV,http://206.119.163.187/lxtv/sbtv.php?id=1898
-ABC AUSTRALIA,http://206.119.163.187/lxtv/sbtv.php?id=1899
-NGW HD,http://206.119.163.187/lxtv/sbtv.php?id=1900
-NAT GEO HD,http://206.119.163.187/lxtv/sbtv.php?id=1901
-DISCOVERY HD,http://206.119.163.187/lxtv/sbtv.php?id=1902
-DISCOVERY ASIA,http://206.119.163.187/lxtv/sbtv.php?id=1903
-DISC SCI HD,http://206.119.163.187/lxtv/sbtv.php?id=1904
-HISTORY HD,http://206.119.163.187/lxtv/sbtv.php?id=1905
-ANIMAL PLANET HD,http://206.119.163.187/lxtv/sbtv.php?id=1906
-TUTOR TV UPSR,http://206.119.163.187/lxtv/sbtv.php?id=1907
-TUTOR TV PT3,http://206.119.163.187/lxtv/sbtv.php?id=1908
-TUTOR TV SPM,http://206.119.163.187/lxtv/sbtv.php?id=1909
-TVIQ,http://206.119.163.187/lxtv/sbtv.php?id=1910
-ASTRO CERIA HD,http://206.119.163.187/lxtv/sbtv.php?id=1911
-DISNEY XD HD,http://206.119.163.187/lxtv/sbtv.php?id=1912
-DISNEY JUNIOR,http://206.119.163.187/lxtv/sbtv.php?id=1913
-DISNEY CHANNEL HD,http://206.119.163.187/lxtv/sbtv.php?id=1914
-CARTOON NTWK HD,http://206.119.163.187/lxtv/sbtv.php?id=1915
-NICKELODEON HD,http://206.119.163.187/lxtv/sbtv.php?id=1916
-NICK JR,http://206.119.163.187/lxtv/sbtv.php?id=1917
-AXN HD,http://206.119.163.187/lxtv/sbtv.php?id=1918
-ASTRO HELLO,http://206.119.163.187/lxtv/sbtv.php?id=1919
-KIX HD,http://206.119.163.187/lxtv/sbtv.php?id=1920
-HITS HD,http://206.119.163.187/lxtv/sbtv.php?id=1921
-TLC HD,http://206.119.163.187/lxtv/sbtv.php?id=1922
-FOOD NTWK HD,http://206.119.163.187/lxtv/sbtv.php?id=1923
-AFN HD,http://206.119.163.187/lxtv/sbtv.php?id=1924
-NATGEO PEOPLE,http://206.119.163.187/lxtv/sbtv.php?id=1925
-WARNER TV,http://206.119.163.187/lxtv/sbtv.php?id=1926
-C&I HD,http://206.119.163.187/lxtv/sbtv.php?id=1927
-HGTV HD,http://206.119.163.187/lxtv/sbtv.php?id=1928
-DMAX HD,http://206.119.163.187/lxtv/sbtv.php?id=1929
-MTV,http://206.119.163.187/lxtv/sbtv.php?id=1931
-ANIMAX,http://206.119.163.187/lxtv/sbtv.php?id=1932
-eGG Network,http://206.119.163.187/lxtv/sbtv.php?id=1933
-COLORS HD,http://206.119.163.187/lxtv/sbtv.php?id=1935
-VAANAVIL,http://206.119.163.187/lxtv/sbtv.php?id=1936
-FOX SPORTS HD,http://206.119.163.187/lxtv/sbtv.php?id=1937
-FOX SPORTS 2 HD,http://206.119.163.187/lxtv/sbtv.php?id=1938
-FOX SPORTS 3 HD,http://206.119.163.187/lxtv/sbtv.php?id=1939
-beIN SPORTS,http://206.119.163.187/lxtv/sbtv.php?id=1940
-bEIN MAX,http://206.119.163.187/lxtv/sbtv.php?id=1941
-ASTRO RUGBY PASS TV,http://206.119.163.187/lxtv/sbtv.php?id=1945
-ASTRO CRICKET,http://206.119.163.187/lxtv/sbtv.php?id=1946
-KPLUS HD,http://206.119.163.187/lxtv/sbtv.php?id=1948
-DW HD,http://206.119.163.187/lxtv/sbtv.php?id=1949
-FRANCE24 HD,http://206.119.163.187/lxtv/sbtv.php?id=1950
-FOX Action Movies,http://206.119.163.187/lxtv/sbtv.php?id=1951
-FOX HD,http://206.119.163.187/lxtv/sbtv.php?id=1952
-FOX Family Movies,http://206.119.163.187/lxtv/sbtv.php?id=1953
-TV1,http://206.119.163.187/lxtv/sbtv.php?id=1954
-TV2,http://206.119.163.187/lxtv/sbtv.php?id=1955
-BBC Lifestyle,http://206.119.163.187/lxtv/sbtv.php?id=1958
-Blue Ant Entertainment,http://206.119.163.187/lxtv/sbtv.php?id=1959
-Blue Ant Extreme,http://206.119.163.187/lxtv/sbtv.php?id=1960
-Boomerang HD,http://206.119.163.187/lxtv/sbtv.php?id=1961
-Colors Cineplex,http://206.119.163.187/lxtv/sbtv.php?id=1963
-Dreamworks HD,http://206.119.163.187/lxtv/sbtv.php?id=1964
-FOX Life HD,http://206.119.163.187/lxtv/sbtv.php?id=1965
-FOX Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=1966
-Jaya Max,http://206.119.163.187/lxtv/sbtv.php?id=1967
-MTV Asia,http://206.119.163.187/lxtv/sbtv.php?id=1968
-Paramount Channel,http://206.119.163.187/lxtv/sbtv.php?id=1970
-Sony SAB,http://206.119.163.187/lxtv/sbtv.php?id=1971
-Sony SetMAX,http://206.119.163.187/lxtv/sbtv.php?id=1972
-Sony TV,http://206.119.163.187/lxtv/sbtv.php?id=1973
-Astro Rania HD,http://206.119.163.187/lxtv/sbtv.php?id=1975
-Astro Aura HD,http://206.119.163.187/lxtv/sbtv.php?id=1976
-NET TV,http://206.119.163.187/lxtv/sbtv.php?id=1978
-ANTV,http://206.119.163.187/lxtv/sbtv.php?id=1979
-SCTV,http://206.119.163.187/lxtv/sbtv.php?id=1980
-Trans TV,http://206.119.163.187/lxtv/sbtv.php?id=1981
-Trans 7,http://206.119.163.187/lxtv/sbtv.php?id=1982
-Rajawali TV,http://206.119.163.187/lxtv/sbtv.php?id=1983
-NET TV FHD,http://206.119.163.187/lxtv/sbtv.php?id=1984
-SCTV HD,http://206.119.163.187/lxtv/sbtv.php?id=1990
-U Channel,http://206.119.163.187/lxtv/sbtv.php?id=1991
-Indosiar,http://206.119.163.187/lxtv/sbtv.php?id=1995
-Hope Channel,http://206.119.163.187/lxtv/sbtv.php?id=1999
-Antara TV,http://206.119.163.187/lxtv/sbtv.php?id=2000
-TV ONE,http://206.119.163.187/lxtv/sbtv.php?id=2001
-Kompas TV,http://206.119.163.187/lxtv/sbtv.php?id=2002
-TVRI,http://206.119.163.187/lxtv/sbtv.php?id=2003
-CNN Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=2004
-Metro TV,http://206.119.163.187/lxtv/sbtv.php?id=2005
-Berita Satu News,http://206.119.163.187/lxtv/sbtv.php?id=2006
-CNBC Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=2007
-Thrill,http://206.119.163.187/lxtv/sbtv.php?id=2010
-Celestial Movies,http://206.119.163.187/lxtv/sbtv.php?id=2011
-KIX HD,http://206.119.163.187/lxtv/sbtv.php?id=2013
-AXN,http://206.119.163.187/lxtv/sbtv.php?id=2014
-韩国KBS1,http://206.119.163.187/lxtv/sbtv.php?id=174
-韩国KBS2,http://206.119.163.187/lxtv/sbtv.php?id=250
-韩国OBS TV,http://206.119.163.187/lxtv/sbtv.php?id=2347
-韩国KBS1,http://206.119.163.187/lxtv/sbtv.php?id=2348
-韩国MBC,http://206.119.163.187/lxtv/sbtv.php?id=2349
-韩国MBC Every1,http://206.119.163.187/lxtv/sbtv.php?id=2350
-韩国I.NET,http://206.119.163.187/lxtv/sbtv.php?id=2351
-韩国SkySports,http://206.119.163.187/lxtv/sbtv.php?id=2352
-韩国KBSN Sports,http://206.119.163.187/lxtv/sbtv.php?id=2353
-韩国SBS Sports,http://206.119.163.187/lxtv/sbtv.php?id=2354
-韩国FTV,http://206.119.163.187/lxtv/sbtv.php?id=2355
-韩国TV,http://206.119.163.187/lxtv/sbtv.php?id=2356
-韩国OCN Thrills,http://206.119.163.187/lxtv/sbtv.php?id=2357
-韩国NGC Korea,http://206.119.163.187/lxtv/sbtv.php?id=2358
-韩国Discovery,http://206.119.163.187/lxtv/sbtv.php?id=2359
-韩国Tooniverse 39,http://206.119.163.187/lxtv/sbtv.php?id=2360
-韩国TVN,http://206.119.163.187/lxtv/sbtv.php?id=295
-韩国TV,http://206.119.163.187/lxtv/sbtv.php?id=1039
-韩国YTN,http://206.119.163.187/lxtv/sbtv.php?id=1061
-韩国MBC,http://206.119.163.187/lxtv/sbtv.php?id=251
-韩国SBS,http://206.119.163.187/lxtv/sbtv.php?id=252
-韩国MBN,http://206.119.163.187/lxtv/sbtv.php?id=257
-韩国KBS24,http://206.119.163.187/lxtv/sbtv.php?id=260
-韩国KBS WORLD,http://206.119.163.187/lxtv/sbtv.php?id=1100
-韩国Channel A,http://206.119.163.187/lxtv/sbtv.php?id=258
-韩国SBS PLus,http://206.119.163.187/lxtv/sbtv.php?id=262
-韩国KBSNLife,http://206.119.163.187/lxtv/sbtv.php?id=263
-韩国KBSKids,http://206.119.163.187/lxtv/sbtv.php?id=1582
-韩国MBC,http://206.119.163.187/lxtv/sbtv.php?id=265
-韩国JTBC,http://206.119.163.187/lxtv/sbtv.php?id=268
-韩国JTBC,http://206.119.163.187/lxtv/sbtv.php?id=253
-韩国KBS joy,http://206.119.163.187/lxtv/sbtv.php?id=1154
-韩国OCN,http://206.119.163.187/lxtv/sbtv.php?id=488
-韩国iNet,http://206.119.163.187/lxtv/sbtv.php?id=490
-韩国CTS,http://206.119.163.187/lxtv/sbtv.php?id=491
-韩国THE K-POP,http://206.119.163.187/lxtv/sbtv.php?id=493
-韩国SBS,http://206.119.163.187/lxtv/sbtv.php?id=486
-韩国TV,http://206.119.163.187/lxtv/sbtv.php?id=1065
-韩国YTN ,http://206.119.163.187/lxtv/sbtv.php?id=1605
-韩国Arirang TV World,http://206.119.163.187/lxtv/sbtv.php?id=256
-韩国OCNMOVIES,http://206.119.163.187/lxtv/sbtv.php?id=1020
-韩国TV CHOSUN,http://206.119.163.187/lxtv/sbtv.php?id=2333
-韩国KBS Story,http://206.119.163.187/lxtv/sbtv.php?id=489
-韩国Mnet,http://206.119.163.187/lxtv/sbtv.php?id=1136
-韩国MBCevery1,http://206.119.163.187/lxtv/sbtv.php?id=476
-韩国Tconvers,http://206.119.163.187/lxtv/sbtv.php?id=1134
-韩国KBS Drama,http://206.119.163.187/lxtv/sbtv.php?id=1062
-韩国A,http://206.119.163.187/lxtv/sbtv.php?id=1092
-韩国SBS Star,http://206.119.163.187/lxtv/sbtv.php?id=1101
-韩国MTN,http://206.119.163.187/lxtv/sbtv.php?id=1504
-韩国TV,http://206.119.163.187/lxtv/sbtv.php?id=1544
-韩国TV,http://206.119.163.187/lxtv/sbtv.php?id=1554
-FOXHD,http://206.119.163.187/lxtv/sbtv.php?id=1506
-CNN,http://206.119.163.187/lxtv/sbtv.php?id=1507
-ABC News,http://206.119.163.187/lxtv/sbtv.php?id=1508
-NBC,http://206.119.163.187/lxtv/sbtv.php?id=1509
-Fox News,http://206.119.163.187/lxtv/sbtv.php?id=1510
-Hbo Family,http://206.119.163.187/lxtv/sbtv.php?id=1512
-Hbo East,http://206.119.163.187/lxtv/sbtv.php?id=1513
-Hbo One,http://206.119.163.187/lxtv/sbtv.php?id=1514
-Travel ch,http://206.119.163.187/lxtv/sbtv.php?id=1515
-Cooking,http://206.119.163.187/lxtv/sbtv.php?id=1516
-Bloomberg,http://206.119.163.187/lxtv/sbtv.php?id=1517
-Cinemax,http://206.119.163.187/lxtv/sbtv.php?id=1518
-Tennis chan,http://206.119.163.187/lxtv/sbtv.php?id=1519
-Nat Geo,http://206.119.163.187/lxtv/sbtv.php?id=1520
-Nat Geo Wild,http://206.119.163.187/lxtv/sbtv.php?id=1521
-Babytv,http://206.119.163.187/lxtv/sbtv.php?id=1522
-TNT,http://206.119.163.187/lxtv/sbtv.php?id=1524
-Bravo,http://206.119.163.187/lxtv/sbtv.php?id=1525
-Discovery,http://206.119.163.187/lxtv/sbtv.php?id=1529
-History,http://206.119.163.187/lxtv/sbtv.php?id=1530
-World Fishing,http://206.119.163.187/lxtv/sbtv.php?id=1531
-VH1,http://206.119.163.187/lxtv/sbtv.php?id=1532
-TLC,http://206.119.163.187/lxtv/sbtv.php?id=1533
-Hallmark,http://206.119.163.187/lxtv/sbtv.php?id=1535
-E,http://206.119.163.187/lxtv/sbtv.php?id=1536
-Syfy,http://206.119.163.187/lxtv/sbtv.php?id=1537
-HGTV,http://206.119.163.187/lxtv/sbtv.php?id=1538
-law and crime,http://206.119.163.187/lxtv/sbtv.php?id=1540
-Msnbc,http://206.119.163.187/lxtv/sbtv.php?id=1541
-TBS,http://206.119.163.187/lxtv/sbtv.php?id=1545
-MTV,http://206.119.163.187/lxtv/sbtv.php?id=1546
-PBS,http://206.119.163.187/lxtv/sbtv.php?id=1547
-FX,http://206.119.163.187/lxtv/sbtv.php?id=1551
-Lifetime,http://206.119.163.187/lxtv/sbtv.php?id=1553
-CNBC,http://206.119.163.187/lxtv/sbtv.php?id=1555
-CW,http://206.119.163.187/lxtv/sbtv.php?id=1557
-Animal,http://206.119.163.187/lxtv/sbtv.php?id=1558
-AE,http://206.119.163.187/lxtv/sbtv.php?id=1559
-Freeform,http://206.119.163.187/lxtv/sbtv.php?id=1560
-Investigation Discovery,http://206.119.163.187/lxtv/sbtv.php?id=1564
-Lifetime Movie Network,http://206.119.163.187/lxtv/sbtv.php?id=1565
-Showtime,http://206.119.163.187/lxtv/sbtv.php?id=1568
-StarZ,http://206.119.163.187/lxtv/sbtv.php?id=1569
-USA Network,http://206.119.163.187/lxtv/sbtv.php?id=1571
-Newsmax,http://206.119.163.187/lxtv/sbtv.php?id=156
-American Horrors,http://206.119.163.187/lxtv/sbtv.php?id=1054
-30A TV,http://206.119.163.187/lxtv/sbtv.php?id=1052
-Panama City,http://206.119.163.187/lxtv/sbtv.php?id=1056
-Pawleys Island,http://206.119.163.187/lxtv/sbtv.php?id=1057
-HGTV,http://206.119.163.187/lxtv/sbtv.php?id=2311
-National Geographic,http://206.119.163.187/lxtv/sbtv.php?id=2312
-Nat Geo Wild,http://206.119.163.187/lxtv/sbtv.php?id=2313
-Cinemax,http://206.119.163.187/lxtv/sbtv.php?id=2314
-NESN,http://206.119.163.187/lxtv/sbtv.php?id=2431
-ken5,http://206.119.163.187/lxtv/sbtv.php?id=2429
-woai,http://206.119.163.187/lxtv/sbtv.php?id=2430
-ksat12,http://206.119.163.187/lxtv/sbtv.php?id=2428
-IFC,http://206.119.163.187/lxtv/sbtv.php?id=1362
-ESPN NEWS,http://206.119.163.187/lxtv/sbtv.php?id=1363
-Fight Box,http://206.119.163.187/lxtv/sbtv.php?id=1365
-Outdoor,http://206.119.163.187/lxtv/sbtv.php?id=1368
-SEC Network,http://206.119.163.187/lxtv/sbtv.php?id=1369
-PBS Kids,http://206.119.163.187/lxtv/sbtv.php?id=1370
-WGN,http://206.119.163.187/lxtv/sbtv.php?id=1372
-HBO HD,http://206.119.163.187/lxtv/sbtv.php?id=1663
-HBO HD,http://206.119.163.187/lxtv/sbtv.php?id=332
-HBO Hits,http://206.119.163.187/lxtv/sbtv.php?id=330
-HBO Family,http://206.119.163.187/lxtv/sbtv.php?id=331
-HBO Comedy,http://206.119.163.187/lxtv/sbtv.php?id=1109
-HBO 1 US,http://206.119.163.187/lxtv/sbtv.php?id=1110
-HBO 2 US,http://206.119.163.187/lxtv/sbtv.php?id=1111
-HBO Signature,http://206.119.163.187/lxtv/sbtv.php?id=1112
-HBO Family,http://206.119.163.187/lxtv/sbtv.php?id=1113
-FOX MOVIES,http://206.119.163.187/lxtv/sbtv.php?id=387
-CineMAX,http://206.119.163.187/lxtv/sbtv.php?id=346
-FOX,http://206.119.163.187/lxtv/sbtv.php?id=384
-FOX ACTION,http://206.119.163.187/lxtv/sbtv.php?id=385
-FOX CRIME,http://206.119.163.187/lxtv/sbtv.php?id=386
-FOX Family,http://206.119.163.187/lxtv/sbtv.php?id=383
-华纳电影,http://206.119.163.187/lxtv/sbtv.php?id=83
-CI罪案侦查,http://206.119.163.187/lxtv/sbtv.php?id=2303
-History 2,http://206.119.163.187/lxtv/sbtv.php?id=1158
-History,http://206.119.163.187/lxtv/sbtv.php?id=116
-TOKYO MX 1,http://206.119.163.187/lxtv/sbtv.php?id=2204
-TOKYO MX 2,http://206.119.163.187/lxtv/sbtv.php?id=2205
-GB News,http://206.119.163.187/lxtv/sbtv.php?id=77
-DW德国之声,http://206.119.163.187/lxtv/sbtv.php?id=1059
-VOA美国之音,http://206.119.163.187/lxtv/sbtv.php?id=495
-FRANCE 24 English,http://206.119.163.187/lxtv/sbtv.php?id=2231
-THE WORLD,http://206.119.163.187/lxtv/sbtv.php?id=1013
-RT UK News,http://206.119.163.187/lxtv/sbtv.php?id=1025
-TRTWORLD,http://206.119.163.187/lxtv/sbtv.php?id=1022
-Bloomberg Financial,http://206.119.163.187/lxtv/sbtv.php?id=1046
-Al Jazeera,http://206.119.163.187/lxtv/sbtv.php?id=1144
-Bloomberg Quicktake,http://206.119.163.187/lxtv/sbtv.php?id=370
-CNN头条新闻,http://206.119.163.187/lxtv/sbtv.php?id=43
-CNN国际新闻,http://206.119.163.187/lxtv/sbtv.php?id=420
-BBC World News,http://206.119.163.187/lxtv/sbtv.php?id=421
-运通财经,http://206.119.163.187/lxtv/sbtv.php?id=79
-SBN全球财经,http://206.119.163.187/lxtv/sbtv.php?id=1497
-AMC,http://206.119.163.187/lxtv/sbtv.php?id=92
-CATCHPLAY,http://206.119.163.187/lxtv/sbtv.php?id=362
-SETONE,http://206.119.163.187/lxtv/sbtv.php?id=1349
-GEM,http://206.119.163.187/lxtv/sbtv.php?id=1350
-FOX Life HD,http://206.119.163.187/lxtv/sbtv.php?id=2015
-FOX HD,http://206.119.163.187/lxtv/sbtv.php?id=2016
-FOX Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=2017
-FOX Action Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=2018
-HBO HD,http://206.119.163.187/lxtv/sbtv.php?id=2019
-HBO Hits HD,http://206.119.163.187/lxtv/sbtv.php?id=2021
-HBO Family HD,http://206.119.163.187/lxtv/sbtv.php?id=2022
-Star Chinese Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=2025
-Blue Ant Extreme HD,http://206.119.163.187/lxtv/sbtv.php?id=2026
-LifeTime HD,http://206.119.163.187/lxtv/sbtv.php?id=2027
-Bioskop Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=2029
-Warner TV ID HD,http://206.119.163.187/lxtv/sbtv.php?id=2036
-Star Chinese Movies Legend,http://206.119.163.187/lxtv/sbtv.php?id=2037
-Cinemax ID,http://206.119.163.187/lxtv/sbtv.php?id=2039
-HBO Hits FHD,http://206.119.163.187/lxtv/sbtv.php?id=2042
-FOX Family Movies ID,http://206.119.163.187/lxtv/sbtv.php?id=2043
-HBO Signature SD,http://206.119.163.187/lxtv/sbtv.php?id=2046
-HBO Family SD,http://206.119.163.187/lxtv/sbtv.php?id=2047
-FLIK HD,http://206.119.163.187/lxtv/sbtv.php?id=2049
-Galaxy Premium SD,http://206.119.163.187/lxtv/sbtv.php?id=2050
-Galaxy SD,http://206.119.163.187/lxtv/sbtv.php?id=2051
-ATV,http://206.119.163.187/lxtv/sbtv.php?id=2052
-HBO Family FHD,http://206.119.163.187/lxtv/sbtv.php?id=2053
-Nat Geo HD,http://206.119.163.187/lxtv/sbtv.php?id=2056
-Nat Geo Wild HD,http://206.119.163.187/lxtv/sbtv.php?id=2057
-Discovery Channel HD,http://206.119.163.187/lxtv/sbtv.php?id=2058
-Nat Geo People HD,http://206.119.163.187/lxtv/sbtv.php?id=2063
-History HD,http://206.119.163.187/lxtv/sbtv.php?id=2064
-History FHD,http://206.119.163.187/lxtv/sbtv.php?id=2066
-Lingua Channel,http://206.119.163.187/lxtv/sbtv.php?id=2067
-Da Vinci Learning,http://206.119.163.187/lxtv/sbtv.php?id=2069
-TV Edukasi,http://206.119.163.187/lxtv/sbtv.php?id=2071
-Aniplus,http://206.119.163.187/lxtv/sbtv.php?id=2073
-Animax,http://206.119.163.187/lxtv/sbtv.php?id=2074
-Disney Junior,http://206.119.163.187/lxtv/sbtv.php?id=2076
-Boomerang ID,http://206.119.163.187/lxtv/sbtv.php?id=2078
-Nick Jr ID,http://206.119.163.187/lxtv/sbtv.php?id=2080
-Cartoon Network ID HD,http://206.119.163.187/lxtv/sbtv.php?id=2081
-Nickelodeon ID,http://206.119.163.187/lxtv/sbtv.php?id=2083
-Baby First,http://206.119.163.187/lxtv/sbtv.php?id=2085
-My Kidz,http://206.119.163.187/lxtv/sbtv.php?id=2086
-Disney Channel ID,http://206.119.163.187/lxtv/sbtv.php?id=2088
-Horee,http://206.119.163.187/lxtv/sbtv.php?id=2090
-Dream Works HD,http://206.119.163.187/lxtv/sbtv.php?id=2091
-CBeebies,http://206.119.163.187/lxtv/sbtv.php?id=2093
-Fashion TV,http://206.119.163.187/lxtv/sbtv.php?id=2104
-HGTV,http://206.119.163.187/lxtv/sbtv.php?id=2106
-Waku Waku Japan HD,http://206.119.163.187/lxtv/sbtv.php?id=2107
-AFN HD,http://206.119.163.187/lxtv/sbtv.php?id=2108
-Citra Drama,http://206.119.163.187/lxtv/sbtv.php?id=2109
-Blue Ant Entertainment HD,http://206.119.163.187/lxtv/sbtv.php?id=2111
-Insert,http://206.119.163.187/lxtv/sbtv.php?id=2112
-Eat & Go,http://206.119.163.187/lxtv/sbtv.php?id=2113
-K Plus,http://206.119.163.187/lxtv/sbtv.php?id=2116
-Sony ONE,http://206.119.163.187/lxtv/sbtv.php?id=2117
-TVN ID,http://206.119.163.187/lxtv/sbtv.php?id=2118
-S GEM HD,http://206.119.163.187/lxtv/sbtv.php?id=2119
-tVN Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=2120
-KBS World HD,http://206.119.163.187/lxtv/sbtv.php?id=2121
-Channel V HD,http://206.119.163.187/lxtv/sbtv.php?id=2123
-Prambors TV,http://206.119.163.187/lxtv/sbtv.php?id=2124
-ONE African TV,http://206.119.163.187/lxtv/sbtv.php?id=2125
-Citra Dangdut,http://206.119.163.187/lxtv/sbtv.php?id=2126
-MTV LIVE HD,http://206.119.163.187/lxtv/sbtv.php?id=2127
-Makkah TV,http://206.119.163.187/lxtv/sbtv.php?id=2129
-Madina TV,http://206.119.163.187/lxtv/sbtv.php?id=2131
-TV Mu,http://206.119.163.187/lxtv/sbtv.php?id=2132
-France 24,http://206.119.163.187/lxtv/sbtv.php?id=2137
-CNN Int,http://206.119.163.187/lxtv/sbtv.php?id=2140
-CGTN News,http://206.119.163.187/lxtv/sbtv.php?id=2141
-BOO,http://206.119.163.187/lxtv/sbtv.php?id=1437
-CCM,http://206.119.163.187/lxtv/sbtv.php?id=1438
-Citra,http://206.119.163.187/lxtv/sbtv.php?id=1440
-KIX,http://206.119.163.187/lxtv/sbtv.php?id=1446
-PRIMA,http://206.119.163.187/lxtv/sbtv.php?id=1448
-SCM,http://206.119.163.187/lxtv/sbtv.php?id=1450
-sony_one,http://206.119.163.187/lxtv/sbtv.php?id=1451
-TV8,http://206.119.163.187/lxtv/sbtv.php?id=1455
-Channel8,http://206.119.163.187/lxtv/sbtv.php?id=142
-Channel5,http://206.119.163.187/lxtv/sbtv.php?id=141
-AFN,http://206.119.163.187/lxtv/sbtv.php?id=195
-Channel U,http://206.119.163.187/lxtv/sbtv.php?id=1077
-Vasantham,http://206.119.163.187/lxtv/sbtv.php?id=1078
-FX,http://206.119.163.187/lxtv/sbtv.php?id=1373
-Fuse,http://206.119.163.187/lxtv/sbtv.php?id=1376
-FX Movie,http://206.119.163.187/lxtv/sbtv.php?id=1380
-Comet,http://206.119.163.187/lxtv/sbtv.php?id=1381
-CNN USA,http://206.119.163.187/lxtv/sbtv.php?id=1102
-NBC,http://206.119.163.187/lxtv/sbtv.php?id=1217
-FOX,http://206.119.163.187/lxtv/sbtv.php?id=1218
-CNBC,http://206.119.163.187/lxtv/sbtv.php?id=1106
-5 Star Max,http://206.119.163.187/lxtv/sbtv.php?id=1174
-Action Max,http://206.119.163.187/lxtv/sbtv.php?id=1175
-MoreMax,http://206.119.163.187/lxtv/sbtv.php?id=1176
-Hallmark Movie,http://206.119.163.187/lxtv/sbtv.php?id=1179
-TCM,http://206.119.163.187/lxtv/sbtv.php?id=1180
-Starz in Black,http://206.119.163.187/lxtv/sbtv.php?id=1181
-Discovery Channel,http://206.119.163.187/lxtv/sbtv.php?id=1198
-National Geographic,http://206.119.163.187/lxtv/sbtv.php?id=1200
-Animal Planet,http://206.119.163.187/lxtv/sbtv.php?id=1203
-SMITHSONIAN,http://206.119.163.187/lxtv/sbtv.php?id=1205
-Disney,http://206.119.163.187/lxtv/sbtv.php?id=1208
-Disney XD,http://206.119.163.187/lxtv/sbtv.php?id=1209
-Disney Junior,http://206.119.163.187/lxtv/sbtv.php?id=1210
-Cartoon Network US,http://206.119.163.187/lxtv/sbtv.php?id=1211
-Nick Junior,http://206.119.163.187/lxtv/sbtv.php?id=1213
-Boomerang,http://206.119.163.187/lxtv/sbtv.php?id=1214
-Universal Kids,http://206.119.163.187/lxtv/sbtv.php?id=1215
-CBS,http://206.119.163.187/lxtv/sbtv.php?id=1219
-CW,http://206.119.163.187/lxtv/sbtv.php?id=1220
-E!,http://206.119.163.187/lxtv/sbtv.php?id=1222
-LifeTime US,http://206.119.163.187/lxtv/sbtv.php?id=1226
-Arts and Entertainment,http://206.119.163.187/lxtv/sbtv.php?id=1227
-USA Network,http://206.119.163.187/lxtv/sbtv.php?id=1230
-VH-1,http://206.119.163.187/lxtv/sbtv.php?id=1233
-OWN US,http://206.119.163.187/lxtv/sbtv.php?id=1235
-GSN,http://206.119.163.187/lxtv/sbtv.php?id=1236
-Cooking Channel,http://206.119.163.187/lxtv/sbtv.php?id=1238
-FYI,http://206.119.163.187/lxtv/sbtv.php?id=1240
-NOWTV,http://206.119.163.187/lxtv/sbtv.php?id=1246
-MSNBC,http://206.119.163.187/lxtv/sbtv.php?id=1104
-The Weather Nation,http://206.119.163.187/lxtv/sbtv.php?id=1105
-Bloomberg,http://206.119.163.187/lxtv/sbtv.php?id=1107
-Fox Business,http://206.119.163.187/lxtv/sbtv.php?id=1108
-ShowTime 1,http://206.119.163.187/lxtv/sbtv.php?id=1114
-ShowTime 2,http://206.119.163.187/lxtv/sbtv.php?id=1115
-ShowCase US,http://206.119.163.187/lxtv/sbtv.php?id=1116
-Starz Comedy,http://206.119.163.187/lxtv/sbtv.php?id=1118
-Starz Edge,http://206.119.163.187/lxtv/sbtv.php?id=1119
-Starz Kids Family,http://206.119.163.187/lxtv/sbtv.php?id=1120
-Starz Encore,http://206.119.163.187/lxtv/sbtv.php?id=1121
-Starz Encore Westerns,http://206.119.163.187/lxtv/sbtv.php?id=1122
-CP 24 Canada,http://206.119.163.187/lxtv/sbtv.php?id=1247
-The Weather Network,http://206.119.163.187/lxtv/sbtv.php?id=1251
-CBC,http://206.119.163.187/lxtv/sbtv.php?id=1252
-CTV,http://206.119.163.187/lxtv/sbtv.php?id=1253
-CHCH,http://206.119.163.187/lxtv/sbtv.php?id=1256
-CTV 2,http://206.119.163.187/lxtv/sbtv.php?id=1257
-OMNI 1,http://206.119.163.187/lxtv/sbtv.php?id=1258
-OMNI 2,http://206.119.163.187/lxtv/sbtv.php?id=1259
-TVO,http://206.119.163.187/lxtv/sbtv.php?id=1260
-Discovery Canada,http://206.119.163.187/lxtv/sbtv.php?id=1261
-TLC Canada,http://206.119.163.187/lxtv/sbtv.php?id=1262
-Love Nature,http://206.119.163.187/lxtv/sbtv.php?id=1263
-Cooking Channel Canada,http://206.119.163.187/lxtv/sbtv.php?id=1266
-CTV Comedy,http://206.119.163.187/lxtv/sbtv.php?id=1267
-CTV Sci-Fi,http://206.119.163.187/lxtv/sbtv.php?id=1268
-Crave 1,http://206.119.163.187/lxtv/sbtv.php?id=1269
-Crave 2,http://206.119.163.187/lxtv/sbtv.php?id=1270
-Crave 3,http://206.119.163.187/lxtv/sbtv.php?id=1271
-TreeHouse,http://206.119.163.187/lxtv/sbtv.php?id=1283
-Teletoon,http://206.119.163.187/lxtv/sbtv.php?id=1284
-YTV,http://206.119.163.187/lxtv/sbtv.php?id=1285
-Global,http://206.119.163.187/lxtv/sbtv.php?id=1254
-City,http://206.119.163.187/lxtv/sbtv.php?id=1255
-HGTV Canada,http://206.119.163.187/lxtv/sbtv.php?id=1264
-Business Network News,http://206.119.163.187/lxtv/sbtv.php?id=1250
-CTV News,http://206.119.163.187/lxtv/sbtv.php?id=1249
-CBC News,http://206.119.163.187/lxtv/sbtv.php?id=1248
-Crave 4,http://206.119.163.187/lxtv/sbtv.php?id=1272
-BBC one,http://206.119.163.187/lxtv/sbtv.php?id=1382
-BBC four cbeebies,http://206.119.163.187/lxtv/sbtv.php?id=1383
-BBC three cbbc,http://206.119.163.187/lxtv/sbtv.php?id=1384
-BBC two,http://206.119.163.187/lxtv/sbtv.php?id=1385
-True entertainment,http://206.119.163.187/lxtv/sbtv.php?id=1386
-Discovery turbo,http://206.119.163.187/lxtv/sbtv.php?id=1387
-Sky greats,http://206.119.163.187/lxtv/sbtv.php?id=1388
-BBC red button,http://206.119.163.187/lxtv/sbtv.php?id=1393
-E4,http://206.119.163.187/lxtv/sbtv.php?id=1397
-Alibi,http://206.119.163.187/lxtv/sbtv.php?id=1398
-CBS action,http://206.119.163.187/lxtv/sbtv.php?id=1399
-5 star,http://206.119.163.187/lxtv/sbtv.php?id=1400
-Itv 1,http://206.119.163.187/lxtv/sbtv.php?id=1401
-Itv 2,http://206.119.163.187/lxtv/sbtv.php?id=1402
-Itv 3,http://206.119.163.187/lxtv/sbtv.php?id=1403
-Itv 4,http://206.119.163.187/lxtv/sbtv.php?id=1404
-Sky docu,http://206.119.163.187/lxtv/sbtv.php?id=1406
-Russia Today,http://206.119.163.187/lxtv/sbtv.php?id=1407
-Comedy Central,http://206.119.163.187/lxtv/sbtv.php?id=1408
-Rte1,http://206.119.163.187/lxtv/sbtv.php?id=1409
-Rte2,http://206.119.163.187/lxtv/sbtv.php?id=1410
-Premiersp,http://206.119.163.187/lxtv/sbtv.php?id=1411
-History,http://206.119.163.187/lxtv/sbtv.php?id=1413
-CNBC,http://206.119.163.187/lxtv/sbtv.php?id=1414
-Aljazeera,http://206.119.163.187/lxtv/sbtv.php?id=1415
-Tv3 virgin,http://206.119.163.187/lxtv/sbtv.php?id=1416
-Home,http://206.119.163.187/lxtv/sbtv.php?id=1417
-Dave,http://206.119.163.187/lxtv/sbtv.php?id=1418
-Film 4,http://206.119.163.187/lxtv/sbtv.php?id=1419
-More 4,http://206.119.163.187/lxtv/sbtv.php?id=1420
-Gold,http://206.119.163.187/lxtv/sbtv.php?id=1422
-Syfy,http://206.119.163.187/lxtv/sbtv.php?id=1423
-Discovery,http://206.119.163.187/lxtv/sbtv.php?id=1424
-Discovery science,http://206.119.163.187/lxtv/sbtv.php?id=1425
-Discovery investigation,http://206.119.163.187/lxtv/sbtv.php?id=1426
-Tg4,http://206.119.163.187/lxtv/sbtv.php?id=1427
-Real live,http://206.119.163.187/lxtv/sbtv.php?id=1428
-Cartoonito,http://206.119.163.187/lxtv/sbtv.php?id=1429
-Watch,http://206.119.163.187/lxtv/sbtv.php?id=1430
-Challenge,http://206.119.163.187/lxtv/sbtv.php?id=1431
-Vault,http://206.119.163.187/lxtv/sbtv.php?id=1432
-Pick,http://206.119.163.187/lxtv/sbtv.php?id=1433
-Nat Geo Wild,http://206.119.163.187/lxtv/sbtv.php?id=1434
-Nick jr,http://206.119.163.187/lxtv/sbtv.php?id=1435
-Quest,http://206.119.163.187/lxtv/sbtv.php?id=1436
-Sky News,http://206.119.163.187/lxtv/sbtv.php?id=169
-BBC News,http://206.119.163.187/lxtv/sbtv.php?id=164
-Rai News 24,http://206.119.163.187/lxtv/sbtv.php?id=2162
-TOP CALCIO 24,http://206.119.163.187/lxtv/sbtv.php?id=1595
-Inter TV,http://206.119.163.187/lxtv/sbtv.php?id=1599
-Deejay TV,http://206.119.163.187/lxtv/sbtv.php?id=1601
-Italia 1,http://206.119.163.187/lxtv/sbtv.php?id=1616
-CNA 24,http://206.119.163.187/lxtv/sbtv.php?id=15
-CERIA,http://206.119.163.187/lxtv/sbtv.php?id=1161
-TVN,http://206.119.163.187/lxtv/sbtv.php?id=1170
-Arena,http://206.119.163.187/lxtv/sbtv.php?id=1172
-CRICKET,http://206.119.163.187/lxtv/sbtv.php?id=1173
-Astro Awani,http://206.119.163.187/lxtv/sbtv.php?id=440
-Fox Sports 1 HD,http://206.119.163.187/lxtv/sbtv.php?id=1738
-Fox Sports 3 HD,http://206.119.163.187/lxtv/sbtv.php?id=1739
-Fox Sports 2 HD,http://206.119.163.187/lxtv/sbtv.php?id=1740
-BeIN Sport 1 ID,http://206.119.163.187/lxtv/sbtv.php?id=1741
-BeIN Sport 2 ID,http://206.119.163.187/lxtv/sbtv.php?id=1742
-Fight Sports,http://206.119.163.187/lxtv/sbtv.php?id=1791
-NBA TV HD,http://206.119.163.187/lxtv/sbtv.php?id=1793
-TLC,http://206.119.163.187/lxtv/sbtv.php?id=2275
-Fashion One,http://206.119.163.187/lxtv/sbtv.php?id=113
-HGTV,http://206.119.163.187/lxtv/sbtv.php?id=1159
-BBC Lifestyle,http://206.119.163.187/lxtv/sbtv.php?id=424
-BBC EARTH,http://206.119.163.187/lxtv/sbtv.php?id=97
-LUXE,http://206.119.163.187/lxtv/sbtv.php?id=112
-Pet Club,http://206.119.163.187/lxtv/sbtv.php?id=368
-NASA TV,http://206.119.163.187/lxtv/sbtv.php?id=25
-Earth Views,http://206.119.163.187/lxtv/sbtv.php?id=1017
-NASA Live,http://206.119.163.187/lxtv/sbtv.php?id=196
-Astronaut Spacewalk Earth,http://206.119.163.187/lxtv/sbtv.php?id=1026
-Smithsonian,http://206.119.163.187/lxtv/sbtv.php?id=291
-LiveABC,http://206.119.163.187/lxtv/sbtv.php?id=115
-Food network 美,http://206.119.163.187/lxtv/sbtv.php?id=1526
-History,http://206.119.163.187/lxtv/sbtv.php?id=1204
-TLC,http://206.119.163.187/lxtv/sbtv.php?id=1206
-Food Network Canada,http://206.119.163.187/lxtv/sbtv.php?id=1265
-Food Network 英,http://206.119.163.187/lxtv/sbtv.php?id=1421
-History FHD,http://206.119.163.187/lxtv/sbtv.php?id=1710
-Power Rangers,http://206.119.163.187/lxtv/sbtv.php?id=1008
-PJ Masks,http://206.119.163.187/lxtv/sbtv.php?id=352
-ABCs Songs,http://206.119.163.187/lxtv/sbtv.php?id=2283
-BBC CBeebies,http://206.119.163.187/lxtv/sbtv.php?id=1588
-Nick Jr.,http://206.119.163.187/lxtv/sbtv.php?id=50
-PAW Patrol,http://206.119.163.187/lxtv/sbtv.php?id=2226
-Dreamworks,http://206.119.163.187/lxtv/sbtv.php?id=48
-BabyBus,http://206.119.163.187/lxtv/sbtv.php?id=2150
-Talking Tom,http://206.119.163.187/lxtv/sbtv.php?id=20
-Peppa Pig,http://206.119.163.187/lxtv/sbtv.php?id=1344
-Treehouse,http://206.119.163.187/lxtv/sbtv.php?id=55
-Nickj,http://206.119.163.187/lxtv/sbtv.php?id=53
-Disney,http://206.119.163.187/lxtv/sbtv.php?id=5
-Disneyxd,http://206.119.163.187/lxtv/sbtv.php?id=31
-Disneyj,http://206.119.163.187/lxtv/sbtv.php?id=47
-Boomerang,http://206.119.163.187/lxtv/sbtv.php?id=57
-Disney Junior,http://206.119.163.187/lxtv/sbtv.php?id=460
-BabyTV,http://206.119.163.187/lxtv/sbtv.php?id=1241
-lofi hip hop,http://206.119.163.187/lxtv/sbtv.php?id=1594
-Relaxing Music,http://206.119.163.187/lxtv/sbtv.php?id=151
-Relaxing Jazz Piano,http://206.119.163.187/lxtv/sbtv.php?id=1351
-Beautiful Piano Music,http://206.119.163.187/lxtv/sbtv.php?id=1361
-One World Radio,http://206.119.163.187/lxtv/sbtv.php?id=1153
-Mezzo Live,http://206.119.163.187/lxtv/sbtv.php?id=60
-4K Nature,http://206.119.163.187/lxtv/sbtv.php?id=1015
-Coffee Jazz,http://206.119.163.187/lxtv/sbtv.php?id=1019
-Space Ambient,http://206.119.163.187/lxtv/sbtv.php?id=1005
-Rolling Cam Venice,http://206.119.163.187/lxtv/sbtv.php?id=1007
-Medici Arts,http://206.119.163.187/lxtv/sbtv.php?id=188
-MTV Live,http://206.119.163.187/lxtv/sbtv.php?id=106
-Rainy Jazz,http://206.119.163.187/lxtv/sbtv.php?id=1089
-Tropical House,http://206.119.163.187/lxtv/sbtv.php?id=1090
-Relaxing Music,http://206.119.163.187/lxtv/sbtv.php?id=1087
-Calm Piano Music,http://206.119.163.187/lxtv/sbtv.php?id=1088
-Trace Urban,http://206.119.163.187/lxtv/sbtv.php?id=1003
-WOWOWプライム,http://206.119.163.187/lxtv/sbtv.php?id=133
-WOWOWライブ,http://206.119.163.187/lxtv/sbtv.php?id=134
-WOWOWシネマ,http://206.119.163.187/lxtv/sbtv.php?id=135
-日テレニュース24,http://206.119.163.187/lxtv/sbtv.php?id=292
-フジone,http://206.119.163.187/lxtv/sbtv.php?id=2300
-フジ two,http://206.119.163.187/lxtv/sbtv.php?id=2301
-日テレG ,http://206.119.163.187/lxtv/sbtv.php?id=2298
-NHK综合,http://206.119.163.187/lxtv/sbtv.php?id=121
-NHK Eテレ,http://206.119.163.187/lxtv/sbtv.php?id=120
-NHK BS1,http://206.119.163.187/lxtv/sbtv.php?id=239
-テレ朝チャンネル1,http://206.119.163.187/lxtv/sbtv.php?id=2271
-テレ朝チャンネル2,http://206.119.163.187/lxtv/sbtv.php?id=2344
-日テレジータス,http://206.119.163.187/lxtv/sbtv.php?id=2343
-読売テレビ,http://206.119.163.187/lxtv/sbtv.php?id=198
-関西テレビ,http://206.119.163.187/lxtv/sbtv.php?id=235
-BS日テレ,http://206.119.163.187/lxtv/sbtv.php?id=240
-BS朝日,http://206.119.163.187/lxtv/sbtv.php?id=241
-BS-TBS,http://206.119.163.187/lxtv/sbtv.php?id=242
-BSテレビ东京,http://206.119.163.187/lxtv/sbtv.php?id=243
-BSフジ,http://206.119.163.187/lxtv/sbtv.php?id=244
-旅チャンネル,http://206.119.163.187/lxtv/sbtv.php?id=2304
-サンテレビ,http://206.119.163.187/lxtv/sbtv.php?id=238
-朝日放送テレビ,http://206.119.163.187/lxtv/sbtv.php?id=237
-时代剧専门チャンネル,http://206.119.163.187/lxtv/sbtv.php?id=287
-TV Tokyo,http://206.119.163.187/lxtv/sbtv.php?id=123
-ABC朝日,http://206.119.163.187/lxtv/sbtv.php?id=127
-FU JI,http://206.119.163.187/lxtv/sbtv.php?id=122
-テレビ东京,http://206.119.163.187/lxtv/sbtv.php?id=2202
-フジテレビ,http://206.119.163.187/lxtv/sbtv.php?id=2203
-テレビ朝日,http://206.119.163.187/lxtv/sbtv.php?id=125
-大阪TV,http://206.119.163.187/lxtv/sbtv.php?id=126
-スターチャンネル1,http://206.119.163.187/lxtv/sbtv.php?id=136
-スターチャンネル2,http://206.119.163.187/lxtv/sbtv.php?id=137
-スターチャンネル3,http://206.119.163.187/lxtv/sbtv.php?id=138
-日本テレビ,http://206.119.163.187/lxtv/sbtv.php?id=119
-毎日放送,http://206.119.163.187/lxtv/sbtv.php?id=199
-ゴルフネットワーク,http://206.119.163.187/lxtv/sbtv.php?id=249
-HTB北海道,http://206.119.163.187/lxtv/sbtv.php?id=39
-GAORA SPORTS,http://206.119.163.187/lxtv/sbtv.php?id=296
-JapaNews24,http://206.119.163.187/lxtv/sbtv.php?id=1043
-TBS,http://206.119.163.187/lxtv/sbtv.php?id=124
-アニマックス,http://206.119.163.187/lxtv/sbtv.php?id=139
-グリーンチャンネル,http://206.119.163.187/lxtv/sbtv.php?id=140
-キッズステーション,http://206.119.163.187/lxtv/sbtv.php?id=289
-ファミリ一剧场,http://206.119.163.187/lxtv/sbtv.php?id=298
-KBC NEWS24,http://206.119.163.187/lxtv/sbtv.php?id=297
-カートゥーンネットワーク,http://206.119.163.187/lxtv/sbtv.php?id=1296
-MUSIC ON! TV,http://206.119.163.187/lxtv/sbtv.php?id=288
-TBS,http://206.119.163.187/lxtv/sbtv.php?id=2201
-BSスカパー,http://206.119.163.187/lxtv/sbtv.php?id=2218
-BS日本映画専门Ch,http://206.119.163.187/lxtv/sbtv.php?id=2219
-ディスカバリーチャンネル,http://206.119.163.187/lxtv/sbtv.php?id=290
-卫星剧场,http://206.119.163.187/lxtv/sbtv.php?id=2345
-Suria,http://206.119.163.187/lxtv/sbtv.php?id=1076
-OKEY,http://206.119.163.187/lxtv/sbtv.php?id=1075
-AXN,http://206.119.163.187/lxtv/sbtv.php?id=1044
-BNC,http://206.119.163.187/lxtv/sbtv.php?id=1045
-TV5,http://206.119.163.187/lxtv/sbtv.php?id=2310
-CinemaOne,http://206.119.163.187/lxtv/sbtv.php?id=1333
-GMA,http://206.119.163.187/lxtv/sbtv.php?id=1337
-Channel 3,http://206.119.163.187/lxtv/sbtv.php?id=2315
-3 HD,http://206.119.163.187/lxtv/sbtv.php?id=2230
-Channel 5,http://206.119.163.187/lxtv/sbtv.php?id=2316
-Channel 7,http://206.119.163.187/lxtv/sbtv.php?id=2317
-7HD,http://206.119.163.187/lxtv/sbtv.php?id=2228
-MCOT HD,http://206.119.163.187/lxtv/sbtv.php?id=2318
-ch8,http://206.119.163.187/lxtv/sbtv.php?id=2321
-Channel 8,http://206.119.163.187/lxtv/sbtv.php?id=1140
-8 channel,http://206.119.163.187/lxtv/sbtv.php?id=2234
-Gmm one,http://206.119.163.187/lxtv/sbtv.php?id=2322
-One HD,http://206.119.163.187/lxtv/sbtv.php?id=2229
-Mono,http://206.119.163.187/lxtv/sbtv.php?id=2323
-MoNo,http://206.119.163.187/lxtv/sbtv.php?id=2237
-Thairath,http://206.119.163.187/lxtv/sbtv.php?id=2324
-TPBS,http://206.119.163.187/lxtv/sbtv.php?id=2325
-Workpoint,http://206.119.163.187/lxtv/sbtv.php?id=2326
-Gmm Channel,http://206.119.163.187/lxtv/sbtv.php?id=2327
-Nation,http://206.119.163.187/lxtv/sbtv.php?id=2328
-Tnn24,http://206.119.163.187/lxtv/sbtv.php?id=2329
-NBT,http://206.119.163.187/lxtv/sbtv.php?id=2330
-NBT Central,http://206.119.163.187/lxtv/sbtv.php?id=1609
-GMM25,http://206.119.163.187/lxtv/sbtv.php?id=2233
-New18,http://206.119.163.187/lxtv/sbtv.php?id=2331
-TPTV,http://206.119.163.187/lxtv/sbtv.php?id=2332
-Thairat,http://206.119.163.187/lxtv/sbtv.php?id=2235
-Amarin TV,http://206.119.163.187/lxtv/sbtv.php?id=2236
-Thaipbs,http://206.119.163.187/lxtv/sbtv.php?id=2238
-PPTV,http://206.119.163.187/lxtv/sbtv.php?id=2240
-PPTV,http://206.119.163.187/lxtv/sbtv.php?id=2319
-Police TV,http://206.119.163.187/lxtv/sbtv.php?id=2242
-Esan TV,http://206.119.163.187/lxtv/sbtv.php?id=2243
-RS Mall,http://206.119.163.187/lxtv/sbtv.php?id=2244
-Nation TV,http://206.119.163.187/lxtv/sbtv.php?id=2245
-M Channel,http://206.119.163.187/lxtv/sbtv.php?id=2246
-JKN,http://206.119.163.187/lxtv/sbtv.php?id=2247
-Thai PBS,http://206.119.163.187/lxtv/sbtv.php?id=1047
-Thairath TV,http://206.119.163.187/lxtv/sbtv.php?id=1139
-NEWS1,http://206.119.163.187/lxtv/sbtv.php?id=1608
-Thailand ch3,http://206.119.163.187/lxtv/sbtv.php?id=1839
-TVRI,http://206.119.163.187/lxtv/sbtv.php?id=1473
-Rcti,http://206.119.163.187/lxtv/sbtv.php?id=1474
-Kompass,http://206.119.163.187/lxtv/sbtv.php?id=1475
-Indosiar,http://206.119.163.187/lxtv/sbtv.php?id=1478
-Antv,http://206.119.163.187/lxtv/sbtv.php?id=1479
-TV9,http://206.119.163.187/lxtv/sbtv.php?id=1480
-Mnctv,http://206.119.163.187/lxtv/sbtv.php?id=1481
-Trans7,http://206.119.163.187/lxtv/sbtv.php?id=1482
-Transtv,http://206.119.163.187/lxtv/sbtv.php?id=1483
-JTV,http://206.119.163.187/lxtv/sbtv.php?id=1484
-Metrotv,http://206.119.163.187/lxtv/sbtv.php?id=1485
-Sctv,http://206.119.163.187/lxtv/sbtv.php?id=1486
-TVone,http://206.119.163.187/lxtv/sbtv.php?id=1487
-OChannel,http://206.119.163.187/lxtv/sbtv.php?id=1488
-TVMU,http://206.119.163.187/lxtv/sbtv.php?id=1490
-NET TV,http://206.119.163.187/lxtv/sbtv.php?id=1622
-ANTV,http://206.119.163.187/lxtv/sbtv.php?id=1623
-SCTV,http://206.119.163.187/lxtv/sbtv.php?id=1624
-Trans TV,http://206.119.163.187/lxtv/sbtv.php?id=1625
-Trans 7,http://206.119.163.187/lxtv/sbtv.php?id=1626
-Rajawali TV,http://206.119.163.187/lxtv/sbtv.php?id=1627
-NET TV FHD,http://206.119.163.187/lxtv/sbtv.php?id=1628
-SCTV HD,http://206.119.163.187/lxtv/sbtv.php?id=1634
-U Channel,http://206.119.163.187/lxtv/sbtv.php?id=1635
-Indosiar,http://206.119.163.187/lxtv/sbtv.php?id=1639
-Hope Channel,http://206.119.163.187/lxtv/sbtv.php?id=1643
-Antara TV,http://206.119.163.187/lxtv/sbtv.php?id=1644
-TV ONE,http://206.119.163.187/lxtv/sbtv.php?id=1645
-Kompas TV,http://206.119.163.187/lxtv/sbtv.php?id=1646
-TVRI,http://206.119.163.187/lxtv/sbtv.php?id=1647
-CNN Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=1648
-Metro TV,http://206.119.163.187/lxtv/sbtv.php?id=1649
-Berita Satu News,http://206.119.163.187/lxtv/sbtv.php?id=1650
-CNBC Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=1651
-Thrill,http://206.119.163.187/lxtv/sbtv.php?id=1654
-Celestial Movies,http://206.119.163.187/lxtv/sbtv.php?id=1655
-KIX HD,http://206.119.163.187/lxtv/sbtv.php?id=1657
-AXN,http://206.119.163.187/lxtv/sbtv.php?id=1658
-FOX Life HD,http://206.119.163.187/lxtv/sbtv.php?id=1659
-FOX HD,http://206.119.163.187/lxtv/sbtv.php?id=1660
-FOX Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=1661
-FOX Action Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=1662
-HBO Hits HD,http://206.119.163.187/lxtv/sbtv.php?id=1665
-HBO Family HD,http://206.119.163.187/lxtv/sbtv.php?id=1666
-Star Chinese Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=1669
-Blue Ant Extreme HD,http://206.119.163.187/lxtv/sbtv.php?id=1670
-LifeTime HD,http://206.119.163.187/lxtv/sbtv.php?id=1671
-HBO Signature HD,http://206.119.163.187/lxtv/sbtv.php?id=1672
-Bioskop Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=1673
-Warner TV ID HD,http://206.119.163.187/lxtv/sbtv.php?id=1680
-Star Chinese Movies Legend,http://206.119.163.187/lxtv/sbtv.php?id=1681
-Cinemax ID,http://206.119.163.187/lxtv/sbtv.php?id=1683
-HBO Hits FHD,http://206.119.163.187/lxtv/sbtv.php?id=1686
-FOX Family Movies ID,http://206.119.163.187/lxtv/sbtv.php?id=1687
-HBO Family SD,http://206.119.163.187/lxtv/sbtv.php?id=1691
-FLIK HD,http://206.119.163.187/lxtv/sbtv.php?id=1693
-Galaxy Premium SD,http://206.119.163.187/lxtv/sbtv.php?id=1694
-Galaxy SD,http://206.119.163.187/lxtv/sbtv.php?id=1695
-ATV,http://206.119.163.187/lxtv/sbtv.php?id=1696
-HBO Family FHD,http://206.119.163.187/lxtv/sbtv.php?id=1697
-Nat Geo HD,http://206.119.163.187/lxtv/sbtv.php?id=1700
-Nat Geo Wild HD,http://206.119.163.187/lxtv/sbtv.php?id=1701
-Discovery Channel HD,http://206.119.163.187/lxtv/sbtv.php?id=1702
-Nat Geo People HD,http://206.119.163.187/lxtv/sbtv.php?id=1707
-History HD,http://206.119.163.187/lxtv/sbtv.php?id=1708
-Lingua Channel,http://206.119.163.187/lxtv/sbtv.php?id=1711
-Da Vinci Learning,http://206.119.163.187/lxtv/sbtv.php?id=1713
-TV Edukasi,http://206.119.163.187/lxtv/sbtv.php?id=1715
-Aniplus,http://206.119.163.187/lxtv/sbtv.php?id=1717
-Animax,http://206.119.163.187/lxtv/sbtv.php?id=1718
-Disney Junior,http://206.119.163.187/lxtv/sbtv.php?id=1720
-Boomerang ID,http://206.119.163.187/lxtv/sbtv.php?id=1722
-Nick Jr ID,http://206.119.163.187/lxtv/sbtv.php?id=1724
-Cartoon Network ID HD,http://206.119.163.187/lxtv/sbtv.php?id=1725
-Nickelodeon ID,http://206.119.163.187/lxtv/sbtv.php?id=1727
-Baby First,http://206.119.163.187/lxtv/sbtv.php?id=1729
-My Kidz,http://206.119.163.187/lxtv/sbtv.php?id=1730
-Disney Channel ID,http://206.119.163.187/lxtv/sbtv.php?id=1732
-Horee,http://206.119.163.187/lxtv/sbtv.php?id=1734
-Dream Works HD,http://206.119.163.187/lxtv/sbtv.php?id=1735
-CBeebies,http://206.119.163.187/lxtv/sbtv.php?id=1737
-Fashion TV,http://206.119.163.187/lxtv/sbtv.php?id=1748
-HGTV,http://206.119.163.187/lxtv/sbtv.php?id=1750
-Waku Waku Japan HD,http://206.119.163.187/lxtv/sbtv.php?id=1751
-AFN HD,http://206.119.163.187/lxtv/sbtv.php?id=1752
-Citra Drama,http://206.119.163.187/lxtv/sbtv.php?id=1753
-Blue Ant Entertainment HD,http://206.119.163.187/lxtv/sbtv.php?id=1755
-Insert,http://206.119.163.187/lxtv/sbtv.php?id=1756
-Eat & Go,http://206.119.163.187/lxtv/sbtv.php?id=1757
-K Plus,http://206.119.163.187/lxtv/sbtv.php?id=1760
-Sony ONE,http://206.119.163.187/lxtv/sbtv.php?id=1761
-TVN ID,http://206.119.163.187/lxtv/sbtv.php?id=1762
-S GEM HD,http://206.119.163.187/lxtv/sbtv.php?id=1763
-tVN Movies HD,http://206.119.163.187/lxtv/sbtv.php?id=1764
-KBS World HD,http://206.119.163.187/lxtv/sbtv.php?id=1765
-K Drama,http://206.119.163.187/lxtv/sbtv.php?id=1766
-Channel V HD,http://206.119.163.187/lxtv/sbtv.php?id=1767
-Prambors TV,http://206.119.163.187/lxtv/sbtv.php?id=1768
-ONE African TV,http://206.119.163.187/lxtv/sbtv.php?id=1769
-Citra Dangdut,http://206.119.163.187/lxtv/sbtv.php?id=1770
-MTV LIVE HD,http://206.119.163.187/lxtv/sbtv.php?id=1771
-Makkah TV,http://206.119.163.187/lxtv/sbtv.php?id=1773
-Madina TV,http://206.119.163.187/lxtv/sbtv.php?id=1775
-TV Mu,http://206.119.163.187/lxtv/sbtv.php?id=1776
-BBC World News HD,http://206.119.163.187/lxtv/sbtv.php?id=1782
-CNN Int,http://206.119.163.187/lxtv/sbtv.php?id=1784
-CGTN News,http://206.119.163.187/lxtv/sbtv.php?id=1785
-Jakarta Globe,http://206.119.163.187/lxtv/sbtv.php?id=1142
-CNN Indonesia,http://206.119.163.187/lxtv/sbtv.php?id=1145
-HTV7 HD,http://206.119.163.187/lxtv/sbtv.php?id=2251
-HTV9 HD,http://206.119.163.187/lxtv/sbtv.php?id=2253
-HTV1,http://206.119.163.187/lxtv/sbtv.php?id=2254
-HTV2 HD,http://206.119.163.187/lxtv/sbtv.php?id=2255
-Max by HBO,http://206.119.163.187/lxtv/sbtv.php?id=2261
-Disney Chanel,http://206.119.163.187/lxtv/sbtv.php?id=2262
-Bóng á TV,http://206.119.163.187/lxtv/sbtv.php?id=2263
-PTP,http://206.119.163.187/lxtv/sbtv.php?id=1293
-QRT,http://206.119.163.187/lxtv/sbtv.php?id=1294
-ANTV,http://206.119.163.187/lxtv/sbtv.php?id=1300
-ANTV HD,http://206.119.163.187/lxtv/sbtv.php?id=1301
-HBTV,http://206.119.163.187/lxtv/sbtv.php?id=1302
-A SPOR,http://206.119.163.187/lxtv/sbtv.php?id=2367
-TRT 1 HD,http://206.119.163.187/lxtv/sbtv.php?id=2368
-SHOW TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2369
-STAR TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2370
-KANAL D HD,http://206.119.163.187/lxtv/sbtv.php?id=2371
-FOX HD,http://206.119.163.187/lxtv/sbtv.php?id=2372
-TV 8 HD,http://206.119.163.187/lxtv/sbtv.php?id=2373
-CNN TURK HD,http://206.119.163.187/lxtv/sbtv.php?id=2374
-HABER TURK HD,http://206.119.163.187/lxtv/sbtv.php?id=2375
-NTV HD,http://206.119.163.187/lxtv/sbtv.php?id=2376
-A HABER HD,http://206.119.163.187/lxtv/sbtv.php?id=2377
-BEYAZ TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2378
-TV 8 HD,http://206.119.163.187/lxtv/sbtv.php?id=2373
-KANAL 7 HD,http://206.119.163.187/lxtv/sbtv.php?id=2379
-KEMAL SUNAL TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2380
-ATV HD,http://206.119.163.187/lxtv/sbtv.php?id=2381
-HALK TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2382
-TGRT HABER HD,http://206.119.163.187/lxtv/sbtv.php?id=2383
-360 TV HD,http://206.119.163.187/lxtv/sbtv.php?id=2384
-DMAX HD,http://206.119.163.187/lxtv/sbtv.php?id=2385
-TRT BELGESEL HD,http://206.119.163.187/lxtv/sbtv.php?id=2386
-TRT COCUK HD,http://206.119.163.187/lxtv/sbtv.php?id=2387
-TRT SPOR HD,http://206.119.163.187/lxtv/sbtv.php?id=2388
-BEIN SPORTS 1 HD,http://206.119.163.187/lxtv/sbtv.php?id=2389
-BEIN SPORTS 2 HD,http://206.119.163.187/lxtv/sbtv.php?id=2390
-ULUSAL TV,http://206.119.163.187/lxtv/sbtv.php?id=2391
-IndiaTV,http://206.119.163.187/lxtv/sbtv.php?id=1607
-TV9 Hindi,http://206.119.163.187/lxtv/sbtv.php?id=2281
-Sun TV,http://206.119.163.187/lxtv/sbtv.php?id=1458
-Star Vijay,http://206.119.163.187/lxtv/sbtv.php?id=1459
-Zee Tamil,http://206.119.163.187/lxtv/sbtv.php?id=1460
-Zee Business,http://206.119.163.187/lxtv/sbtv.php?id=1461
-Thanthi TV,http://206.119.163.187/lxtv/sbtv.php?id=1462
-Raj Musix,http://206.119.163.187/lxtv/sbtv.php?id=1463
-Zee Actions,http://206.119.163.187/lxtv/sbtv.php?id=1464
-KTV Tamil,http://206.119.163.187/lxtv/sbtv.php?id=1465
-Zee TV HD,http://206.119.163.187/lxtv/sbtv.php?id=1466
-Zee Cinema HD,http://206.119.163.187/lxtv/sbtv.php?id=1467
-Colors HD,http://206.119.163.187/lxtv/sbtv.php?id=1468
-Starplus,http://206.119.163.187/lxtv/sbtv.php?id=1469
-Picture,http://206.119.163.187/lxtv/sbtv.php?id=1470
-Asianet,http://206.119.163.187/lxtv/sbtv.php?id=1471
-Times Now,http://206.119.163.187/lxtv/sbtv.php?id=1472
-ZeeNews,http://206.119.163.187/lxtv/sbtv.php?id=465
-CCTV1,http://206.119.163.187/lxtv/sbtv.php?id=2305
-CCTV1,http://206.119.163.187/lxtv/sbtv.php?id=200
-CCTV2,http://206.119.163.187/lxtv/sbtv.php?id=201
-CCTV3,http://206.119.163.187/lxtv/sbtv.php?id=202
-CCTV4,http://206.119.163.187/lxtv/sbtv.php?id=203
-CCTV5,http://206.119.163.187/lxtv/sbtv.php?id=204
-CCTV5plus,http://206.119.163.187/lxtv/sbtv.php?id=205
-CCTV6,http://206.119.163.187/lxtv/sbtv.php?id=206
-CCTV7,http://206.119.163.187/lxtv/sbtv.php?id=207
-CCTV8,http://206.119.163.187/lxtv/sbtv.php?id=208
-CCTV9,http://206.119.163.187/lxtv/sbtv.php?id=2308
-CCTV9,http://206.119.163.187/lxtv/sbtv.php?id=209
-CCTV10,http://206.119.163.187/lxtv/sbtv.php?id=210
-CCTV11,http://206.119.163.187/lxtv/sbtv.php?id=211
-CCTV12,http://206.119.163.187/lxtv/sbtv.php?id=212
-CCTV13,http://206.119.163.187/lxtv/sbtv.php?id=213
-CCTV14,http://206.119.163.187/lxtv/sbtv.php?id=214
-CCTV15,http://206.119.163.187/lxtv/sbtv.php?id=215
-福州电视,http://206.119.163.187/lxtv/sbtv.php?id=216
-南方卫视,http://206.119.163.187/lxtv/sbtv.php?id=219
-北京卫视,http://206.119.163.187/lxtv/sbtv.php?id=220
-CCTVNEWS,http://206.119.163.187/lxtv/sbtv.php?id=221
-CCTV娱乐,http://206.119.163.187/lxtv/sbtv.php?id=222
-东方卫视,http://206.119.163.187/lxtv/sbtv.php?id=224
-湖南卫视,http://206.119.163.187/lxtv/sbtv.php?id=226
-湖北卫视,http://206.119.163.187/lxtv/sbtv.php?id=227
-东南卫视,http://206.119.163.187/lxtv/sbtv.php?id=228
-辽宁卫视,http://206.119.163.187/lxtv/sbtv.php?id=229
-广东卫视,http://206.119.163.187/lxtv/sbtv.php?id=231
-安徽卫视,http://206.119.163.187/lxtv/sbtv.php?id=232
-四川卫视,http://206.119.163.187/lxtv/sbtv.php?id=233
-山东卫视,http://206.119.163.187/lxtv/sbtv.php?id=234
-福州电视台,http://206.119.163.187/lxtv/sbtv.php?id=2297
-青田电视台,http://206.119.163.187/lxtv/sbtv.php?id=2295
-温州电视台,http://206.119.163.187/lxtv/sbtv.php?id=2294
-广东珠江,http://206.119.163.187/lxtv/sbtv.php?id=1034
-岭南戏曲,http://206.119.163.187/lxtv/sbtv.php?id=1502
-广东影视,http://206.119.163.187/lxtv/sbtv.php?id=1499
-广东少儿,http://206.119.163.187/lxtv/sbtv.php?id=1500
-松视1,http://206.119.163.187/lxtv/sbtv.php?id=402
-松视2,http://206.119.163.187/lxtv/sbtv.php?id=403
-松视3,http://206.119.163.187/lxtv/sbtv.php?id=404
-香蕉台,http://206.119.163.187/lxtv/sbtv.php?id=408
-潘朵拉完美,http://206.119.163.187/lxtv/sbtv.php?id=410
-潘朵拉粉红,http://206.119.163.187/lxtv/sbtv.php?id=411
-彩虹电影,http://206.119.163.187/lxtv/sbtv.php?id=413
-彩虹K,http://206.119.163.187/lxtv/sbtv.php?id=406
-彩虹E,http://206.119.163.187/lxtv/sbtv.php?id=405
-一本道,http://206.119.163.187/lxtv/sbtv.php?id=414
-二本道,http://206.119.163.187/lxtv/sbtv.php?id=415
-东京热,http://206.119.163.187/lxtv/sbtv.php?id=416
-HOT,http://206.119.163.187/lxtv/sbtv.php?id=407
-happy,http://206.119.163.187/lxtv/sbtv.php?id=412
-惊艳台,http://206.119.163.187/lxtv/sbtv.php?id=409
-Erox HD,http://206.119.163.187/lxtv/sbtv.php?id=456
-Dorcel HD,http://206.119.163.187/lxtv/sbtv.php?id=454
-Babes TV HD,http://206.119.163.187/lxtv/sbtv.php?id=458
-Hustler HD,http://206.119.163.187/lxtv/sbtv.php?id=451
-SCT Classic,http://206.119.163.187/lxtv/sbtv.php?id=462
-Redlight HD,http://206.119.163.187/lxtv/sbtv.php?id=452
-SEX ATION HD,http://206.119.163.187/lxtv/sbtv.php?id=459
-Super One HD,http://206.119.163.187/lxtv/sbtv.php?id=457
-Prvate TV,http://206.119.163.187/lxtv/sbtv.php?id=453
-Passie,http://206.119.163.187/lxtv/sbtv.php?id=461
-Vivid Red HD,http://206.119.163.187/lxtv/sbtv.php?id=455
-Dorcel XXX,http://206.119.163.187/lxtv/sbtv.php?id=2248
+探索亚洲,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=37c6ad51
+國家野生,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=dc882466
+HBO-Hit,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=335d6895
+HBO-family,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1a67a2aa
+HBO原創,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3c54101b
+民视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=fd841196
+台视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0610e13c
+CNN,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9050ee2c
+中视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7b007f53
+大爱电视台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0fe40b1c
+华视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3d2107b0
+中视菁采台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=44aa1843
+公视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a98ccb72
+公视台语台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=49ab3435
+好消息,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9e23bf25
+原住民,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8d6f904e
+客家电视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6caa4479
+國家地理,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cab58bd3
+探索頻道,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=592cd26f
+動物星球,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=76011b82
+TLC,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3beb476b
+CN卡通,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7fb19ba9
+迪士尼卡通,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=4356c4fc
+MOMO親子,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e56e53b8
+東森YOYO,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=917ed93a
+緯來綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6bfaef10
+八大第一台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0c1c9c69
+八大綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=41bea7e4
+三立台灣,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=04cace76
+三立都會,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6fd6bcf8
+卫视中文台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3b15e6b2
+東森綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=d3cc16e5
+东森超视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=53633d87
+八大娛樂,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ae8d3762
+纬来育乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f1a7b27f
+中天綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cd862c57
+东风37,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c1809a12
+年代MUCH,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9755ce73
+中天娱乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8767613c
+東森戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=35bb9175
+八大戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ecd48897
+TVBS欢乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c9692259
+緯來戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f04a37c7
+高點綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9569303e
+JET综合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0c5bc08e
+壹综合HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f0546361
+纬来精彩HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9554fc33
+三立財經,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=5ff59fda
+壹新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cc4d59da
+年代新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3abbaa2d
+东森新闻,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1ecdeb5a
+寰宇新闻,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1fb0838b
+民视新闻HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ced345d4
+三立新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0ebc9684
+TVBS新聞HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ea10c602
+TVBS HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e9c339cc
+東森財經,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7a3a85b7
+非凡新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=2187f64b
+美亚电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=558343fa
+Fox HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=86d9ff6d
+卫视电影台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=2359ba51
+東森電影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=75d7613b
+緯來電影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=75966caf
+龙祥电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e4a13cc1
+HBO,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8fdeabec
+东森洋片,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=14561539
+AXN,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c1c18f78
+好萊塢,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a78680e4
+Fox Movies,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e2ca442c
+星卫HD电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cfcece47
+Cinemax,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=79be7824
+纬来体育,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=04a6b392
+Eleven Sports1Plus,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9eec5c46
+Eleven Sports2,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a4970c8d
+momo綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cb76e2e5
+纬来日本,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=b9c4ab9a
+一电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=4dcedbb6
+ELTA综合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=d28701e1
+ELTA影劇台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ac25b195
+ELTA娛樂台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=fbb3b50d
+ELTA体育1,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7046aa3f
+ELTA体育2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1d69687e
+ELTA体育3,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e35b6b75
+TRACE Urban,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=3268af10
+TRACE Sport Stars,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=62becbe3
+GINX Esports TV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b80dc7f1
+PET CLUB TV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=8f4e8a07
+信吉电视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9c15735d
+国兴卫视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9cd6fcae
+冠軍,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ca74b5ef
+全大电视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4237b2dc
+信大,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f154d9c3
+z頻道,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=12158ea6
+NHK,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=8f456766
+TvN,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c3efccf2
+WaKuWaku Japan,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ac1c130a
+星卫娱乐台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=2657344c
+博斯高球2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=331f6d9d
+亞洲旅遊,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9331c00b
+美食星球,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=00740cb7
+靖天日本,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=22b2a3c1
+靖天電影,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b6690265
+博斯高球1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=69e91b16
+AMIMAX,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4d696d82
+霹靂台灣台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7b8dd162
+人間衛視,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=20880537
+台视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c23f3737
+台视综合,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1364de9b
+公視3HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=a804122f
+民視台灣,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=2f2cc57a
+台视财经台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1088d24f
+华视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=091887ce
+历史H1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ff87afd1
+历史H2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=59d690d3
+亚洲美食,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=32fa8773
+LIFETIME,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f25a92cc
+Mezzo Live,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=a50f3005
+EYE旅游,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bb7e06ef
+HGTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=54506ff9
+NBA动态,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ec8e7fc2
+BBC LIFE,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=74fd4d2a
+BABYfIRST,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=d959b03
+BBC卡通,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e9151843
+BBC Earth,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ea553fec
+BabyTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=5c624ce4
+智林體育台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=93610f6d
+华纳WBTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9cb32ea0
+CI,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=aad39e7d
+KMTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6d88eabe
+三立戏剧,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e27df090
+卫视洋片,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=716adb39
+中视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=66836176
+博斯无限,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=da31cc90
+博斯網球,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bdec2954
+博斯运动,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=967c8913
+博斯运动2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=231c4866
+博斯魅力,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=5c2d477b
+靖天戏剧,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ec8952ba
+影迷數位電影台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=77dc798
+ETTODAY,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f21ef8bd
+中天新闻HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=0cb3ebf1
+龍華戲劇,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f1cf84b1
+龍華偶像,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=3e69e95a
+龍華電影,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6253d3a5
+龍華洋片,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6b96a86f
+龍華經典,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f6b933d3
+龍華影劇,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7494b46d
+龍華動畫,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=59f90a6f
+Travel Channel FHD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7e01e22b
+Smithsonian Channel HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7c5fe7e3
+韓國娛樂台 HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=15a749a3
+测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
+测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
+测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
+测试,http://live.lingfeng.win:8880/livee8bcd3a7.m3u8
+测试,http://live.lingfeng.win:8880/live183ccfeb.m3u8
+测试,http://live.lingfeng.win:8880/livebb82f033.m3u8
+测试,http://live.lingfeng.win:8880/livedc1cc94c.m3u8
+测试,http://live.lingfeng.win:8880/live61728c95.m3u8
+测试,http://live.lingfeng.win:8880/live1306d57e.m3u8
+测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
+测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
+测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
+测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
+测试,http://live.lingfeng.win:8880/livee8bcd3a7.m3u8
+测试,http://live.lingfeng.win:8880/live183ccfeb.m3u8
+测试,http://live.lingfeng.win:8880/livebb82f033.m3u8
+测试,http://live.lingfeng.win:8880/livedc1cc94c.m3u8
+测试,http://live.lingfeng.win:8880/live61728c95.m3u8
+测试,http://live.lingfeng.win:8880/live1306d57e.m3u8
+测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
+無線新聞台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f09a54c6
+香港J2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=62a696b0
+明珠台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f0afc501
+翡翠台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b5281b1d
+星河频道,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=15af4323
+电影一台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c26563ac
+无线财经台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=912a42f7
+有线新闻,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bcaf1b44
+有线18,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4bb10da0
+viustv,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=cebb5bb2
+viutv,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=3a9eab5e
+凤凰卫视中文台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a1ddeef5
+凤凰资讯台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=2c3cc674
+凤凰香港台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=b18b32b6
+开电视,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=c8be6539
+Now新闻台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=fd857a18
+Now直播台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=51f52d29
+Now财经台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=eef02241
+Now体育台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=03153d1f
+RHK31,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=3fab4f58
+RHK32,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=f9dff950
+有線603,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=83354a71
+有线财经台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=5306bf7d
+有线体育台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a14232bd
+有线娱乐台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=dd6a7a67
+珠江台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=0a9e2931
+星空,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=97ea8753
+CH5,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e8bcd3a7
+CH8,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=183ccfeb
+CHU,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=bb82f033
+SURIA,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=dc1cc94c
+VST,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=61728c95
+CNA,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=1306d57e
+AEC,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=fa7c5f96
+双星,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e66eb67d
+爱奇艺,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=0ec69da7
+欢喜台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=b2a992de
+全佳,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=d088aff1
+AOD,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=89c5a568
+BBC Earth Lifestyle,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=8cf0fa1b
+小太阳,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=75b8ed18
+Nickelodeon,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e6475dd1
+Nick Jr,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=510f18a7
+Baby TV Eng,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=ad982c88
+Kids TV,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=1f9796b6
+CBeebies,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=427024a6
+Disney Channel,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=55d60ef2
+Disney Junior,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=c93db677
+HBO Malaysia,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=ca7adfe7
+Astro WWE,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=487e91c9
+RTM Sports,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=f1af0654
+Stadium UFC,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=8dbda44a
+NHK-E,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=393f3033
+テレビ朝日,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=656187ef
+テレビ東京,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=71a2e7b2
+TOKYOMX,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=87c4553e
+NHKBS1,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a25a71c0
+NHKBSプレミア Premium,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=194f1440
+BSジャパン 181,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=99ccbe3a
+CNA Japan,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a5cd6046
+J Soprts 1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=194306a5
+J Soprts 2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ff87afd1
+J Soprts 3,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=64dfc669
+J Soprts 4,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=54a075c5
+CCTV1,http://39.135.138.50:18890/PLTV/88888910/224/3221225642/index.index.m3u8
+CCTV2,http://39.135.138.50:18890/PLTV/88888910/224/3221225643/index.index.m3u8
+CCTV3,http://39.135.138.50:18890/PLTV/88888910/224/3221225634/index.index.m3u8
+CCTV4,http://39.135.138.50:18890/PLTV/88888910/224/3221225621/index.index.m3u8
+CCTV5,http://39.135.138.50:18890/PLTV/88888910/224/3221225633/index.index.m3u8
+CCTV5+,http://39.135.138.50:18890/PLTV/88888910/224/3221225706/index.index.m3u8
+CCTV6,http://39.135.138.50:18890/PLTV/88888910/224/3221225632/index.index.m3u8
+CCTV7,http://39.135.138.50:18890/PLTV/88888910/224/3221225644/index.index.m3u8
+CCTV8,http://39.135.138.50:18890/PLTV/88888910/224/3221225631/index.index.m3u8
+CCTV9,http://39.135.138.50:18890/PLTV/88888910/224/3221225646/index.index.m3u8
+CCTV10,http://39.135.138.50:18890/PLTV/88888910/224/3221225636/index.index.m3u8
+CCTV11,http://39.135.138.50:18890/PLTV/88888910/224/3221225628/index.index.m3u8
+CCTV12,http://39.135.138.50:18890/PLTV/88888910/224/3221225637/index.index.m3u8
+CCTV13,http://39.135.138.50:18890/PLTV/88888910/224/3221225638/index.index.m3u8
+CCTV14,http://39.135.138.50:18890/PLTV/88888910/224/3221225639/index.index.m3u8
+CCTV15,http://39.135.138.50:18890/PLTV/88888910/224/3221225641/index.index.m3u8
+CCTV17,http://39.135.138.50:18890/PLTV/88888910/224/3221225908/index.index.m3u8
+东南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225657/index.index.m3u8
+东方卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225659/index.index.m3u8
+江苏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225702/index.index.m3u8
+江西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225705/index.index.m3u8
+河北卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225732/index.index.m3u8
+浙江卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225703/index.index.m3u8
+深圳卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225700/index.index.m3u8
+湖北卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225699/index.index.m3u8
+湖南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225704/index.index.m3u8
+北京卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225674/index.index.m3u8
+北京纪实,http://39.135.138.50:18890/PLTV/88888910/224/3221225676/index.index.m3u8
+上海纪实,http://39.135.138.50:18890/PLTV/88888910/224/3221225655/index.index.m3u8
+四川卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225733/index.index.m3u8
+天津卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225698/index.index.m3u8
+安徽卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225691/index.index.m3u8
+山东卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225697/index.index.m3u8
+山西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225730/index.index.m3u8
+广东卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225701/index.index.m3u8
+广西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225731/index.index.m3u8
+重庆卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225692/index.index.m3u8
+吉林卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225680/index.index.m3u8
+云南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225664/index.index.m3u8
+陕西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225729/index.index.m3u8
+内蒙古卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225667/index.index.m3u8
+青海卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225727/index.index.m3u8
+黑龙江卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225690/index.index.m3u8
+宁夏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225726/index.index.m3u8
+甘肃卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225724/index.index.m3u8
+西藏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225723/index.index.m3u8
+新疆卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225725/index.index.m3u8
+旅游卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225722/index.index.m3u8
+贵州卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225728/index.index.m3u8
+辽宁卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225696/index.index.m3u8
+CHC動作電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.index.m3u8
+CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.index.m3u8
+CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.index.m3u8$JS
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.index.m3u8$JS
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.index.m3u8$JS
+iHOT科技,http://112.15.230.41/PLTV/88888888/224/3221230023/index.index.m3u8
+iHOT玩具,http://112.15.230.41/PLTV/88888888/224/3221230026/index.index.m3u8
+iHOT电竞,http://112.15.230.41/PLTV/88888888/224/3221230029/index.index.m3u8
+iHOT赛车,http://112.15.230.41/PLTV/88888888/224/3221230032/index.index.m3u8
+iHOT体育,http://112.15.230.41/PLTV/88888888/224/3221230034/index.index.m3u8
+iHOT体育,http://112.15.230.41/PLTV/88888888/224/3221230103/index.index.m3u8
+iHOT世界,http://112.15.230.41/PLTV/88888888/224/3221230046/index.index.m3u8
+iHOT怀旧,http://112.15.230.41/PLTV/88888888/224/3221230049/index.index.m3u8
+iHOT旅行,http://112.15.230.41/PLTV/88888888/224/3221230052/index.index.m3u8
+iHOT江湖,http://112.15.230.41/PLTV/88888888/224/3221230074/index.index.m3u8
+iHOT娱乐,http://112.15.230.41/PLTV/88888888/224/3221230077/index.index.m3u8
+iHOT解密,http://112.15.230.41/PLTV/88888888/224/3221230080/index.index.m3u8
+iHOT军武,http://112.15.230.41/PLTV/88888888/224/3221230083/index.index.m3u8
+iHOT幼教,http://112.15.230.41/PLTV/88888888/224/3221230086/index.index.m3u8
+iHOT谍战,http://112.15.230.41/PLTV/88888888/224/3221230092/index.index.m3u8
+iHOT猎奇,http://112.15.230.41/PLTV/88888888/224/3221230097/index.index.m3u8
+iHOT悬疑,http://112.15.230.41/PLTV/88888888/224/3221230098/index.index.m3u8
+iHOT历史,http://112.15.230.41/PLTV/88888888/224/3221230100/index.index.m3u8
+iHOT经典,http://112.15.230.41/PLTV/88888888/224/3221230101/index.index.m3u8
+iHOT都市,http://112.15.230.41/PLTV/88888888/224/3221230104/index.index.m3u8
+iHOT科学,http://112.15.230.41/PLTV/88888888/224/3221230106/index.index.m3u8
+iHOT时尚,http://112.15.230.41/PLTV/88888888/224/3221230109/index.index.m3u8
+iHOT探索,http://112.15.230.41/PLTV/88888888/224/3221230112/index.index.m3u8
+iHOT美食,http://112.15.230.41/PLTV/88888888/224/3221230115/index.index.m3u8
+iHOT家庭,http://112.15.230.41/PLTV/88888888/224/3221230118/index.index.m3u8
+iHOT青春,http://112.15.230.41/PLTV/88888888/224/3221230130/index.index.m3u8
+iHOT动漫,http://112.15.230.41/PLTV/88888888/224/3221230136/index.index.m3u8
+连播好莱坞HD,http://hpull.kktv8.com/livekktv/128600025/playlist.index.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.index.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.index.m3u8|1#http://45.11.92.153/lbq/cjtv88hd.php?id=441
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.index.m3u8
+4K超高清电影,http://60.255.49.202/live/emdy4k_8000.index.m3u8
+Love Nature 4K,http://177.20.208.58:8000/play/a03r/index.index.m3u8|1#http://177.20.208.58:8000/play/a03r/index.index.m3u8
+北京IPTV淘电影 4K,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.index.m3u8|1#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.index.m3u8
+测试,http://live.lingfeng.win:8880/lived318b18c.index.m3u8|1#http://39.135.140.227:6610/PLTV/88888888/224/3221226199/2/index.index.m3u8?fmt=ts2hls
+南国都市 4K,http://149.129.100.78/gztv.php?id=shenghuohttp://ye23.win/iptv/gztv.php?id=shenghuo
+CCTV4k超高清,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.index.m3u8|1#http://live.lingfeng.win:8880/lived318b18c.index.m3u8
+新视觉HD,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.index.m3u8
+极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.index.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.index.m3u8|1#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.index.m3u8
+北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.index.m3u8
+淘电影,http://live.lingfeng.win:8880/livee8bcd3a7.index.m3u8|1#http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.index.m3u8
+有线综合娱乐台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.index.m3u8|1#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.index.m3u8
+CIBN综合,http://117.148.179.160/PLTV/88888888/224/3221231696/index.index.m3u8
+CIBN纪录片,http://117.148.179.154/PLTV/88888888/224/3221231594/index.m3u
+CIBN真人秀,http://117.148.179.168/PLTV/88888888/224/3221231589/index.index.m3u8
+CIBN经典剧场,http://117.148.179.176/PLTV/88888888/224/3221231595/index.index.m3u8
+CIBN古装剧场,http://117.148.179.160/PLTV/88888888/224/3221231625/index.index.m3u8
+CIBN骄阳剧场,http://117.148.179.165/PLTV/88888888/224/3221231745/index.index.m3u8
+sam测试,http://172.106.17.214:30080/Entry/GS|1#http://live.lingfeng.win:8880/live14a7f857.index.m3u8
+sam测试apple1,http://172.106.17.214:30080/Apple/GS|1#http://live.lingfeng.win:8880/lived318b18c.index.m3u8
+CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.index.m3u8
+CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.index.m3u8
+CIBN流金岁月,http://117.148.179.158/PLTV/88888888/224/3221231664/index.index.m3u8
+CIBN时尚生活,http://117.148.179.183/PLTV/88888888/224/3221231489/index.index.m3u8
+阳光卫视,https://stream.isuntv.com/680k/mid_video_index.index.m3u8
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.index.m3u8
+TVS南方卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.index.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.index.m3u8
+亚旅卫视,http://live.lingfeng.win:8880/live183ccfeb.index.m3u8|1#https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.index.m3u8
+黑莓电影,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.index.m3u8
+黑莓动画,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.index.m3u8
+上海纪实人文,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.index.m3u8
+RHK31,https://cdn.hkdtmb.com/hls/31/index.index.m3u8|1#https://cdn.hkdtmb.com/hls/31/index.index.m3u8
+RHK32,https://cdn.hkdtmb.com/hls/32/index.index.m3u8
+CNC,http://source07.v.news.cn/live/CNC_CN/playlist.index.m3u8
+游戏风云,http://source07.v.news.cn/live/CNC_CN/playlist.index.m3u8
+都市剧场,http://112.25.48.68/live/program/live/dsjchd/4000000/mnf.index.m3u8
+全纪实,http://183.207.255.190/live/program/live/qjshd/4000000/mnf.index.m3u8
+广东珠江,http://116.199.5.51:8114/00000000/index.index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+广东经济科教,http://116.199.5.51:8114/00000000/index.index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+峨眉电影,http://60.255.49.202/live/emdygqH265_4000.index.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.index.m3u8
+1HD music,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.index.m3u8
+广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.index.m3u8
+北京淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.index.m3u8
+汕头综合HD,http://wo66.ml:66/6/gd33.php?id=shantouyitaogaoqing_4500|1#http://wo66.ml:66/6/gd33.php?id=shantouyitaogaoqing_4500
+汕头经济生活HD,http://wo66.ml:66/6/gd33.php?id=shantouertaogaoqing_4500
+汕头公共HD,http://wo66.ml:66/6/gd33.php?id=shantousantaogaoqing_4500
+汕头综合HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=029
+汕头经济生活HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=030
+汕头公共HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=031
+HOBOC,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.index.m3u8
+五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.index.m3u8
+CCTV16奥林匹克,http://192.109.98.110/yh.php?id=G_CCTV-16-CQ|1#gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=123
+广东体育台,http://wo66.ml:66/6/gd33.php?id=gdsportsHD_7000|1#http://live.lingfeng.win:8880/live1306d57e.index.m3u8
