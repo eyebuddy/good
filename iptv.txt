@@ -1,378 +1,1539 @@
-探索亚洲,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=37c6ad51
-國家野生,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=dc882466
-HBO-Hit,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=335d6895
-HBO-family,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1a67a2aa
-HBO原創,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3c54101b
-民视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=fd841196
-台视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0610e13c
-CNN,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9050ee2c
-中视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7b007f53
-大爱电视台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0fe40b1c
-华视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3d2107b0
-中视菁采台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=44aa1843
-公视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a98ccb72
-公视台语台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=49ab3435
-好消息,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9e23bf25
-原住民,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8d6f904e
-客家电视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6caa4479
-國家地理,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cab58bd3
-探索頻道,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=592cd26f
-動物星球,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=76011b82
-TLC,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3beb476b
-CN卡通,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7fb19ba9
-迪士尼卡通,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=4356c4fc
-MOMO親子,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e56e53b8
-東森YOYO,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=917ed93a
-緯來綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6bfaef10
-八大第一台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0c1c9c69
-八大綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=41bea7e4
-三立台灣,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=04cace76
-三立都會,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=6fd6bcf8
-卫视中文台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3b15e6b2
-東森綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=d3cc16e5
-东森超视,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=53633d87
-八大娛樂,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ae8d3762
-纬来育乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f1a7b27f
-中天綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cd862c57
-东风37,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c1809a12
-年代MUCH,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9755ce73
-中天娱乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8767613c
-東森戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=35bb9175
-八大戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ecd48897
-TVBS欢乐,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c9692259
-緯來戲劇,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f04a37c7
-高點綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9569303e
-JET综合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0c5bc08e
-壹综合HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=f0546361
-纬来精彩HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9554fc33
-三立財經,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=5ff59fda
-壹新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cc4d59da
-年代新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=3abbaa2d
-东森新闻,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1ecdeb5a
-寰宇新闻,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=1fb0838b
-民视新闻HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ced345d4
-三立新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=0ebc9684
-TVBS新聞HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ea10c602
-TVBS HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e9c339cc
-東森財經,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7a3a85b7
-非凡新聞,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=2187f64b
-美亚电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=558343fa
-Fox HD,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=86d9ff6d
-卫视电影台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=2359ba51
-東森電影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=75d7613b
-緯來電影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=75966caf
-龙祥电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e4a13cc1
-HBO,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=8fdeabec
-东森洋片,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=14561539
-AXN,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=c1c18f78
-好萊塢,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a78680e4
-Fox Movies,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=e2ca442c
-星卫HD电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cfcece47
-Cinemax,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=79be7824
-纬来体育,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=04a6b392
-Eleven Sports1Plus,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=9eec5c46
-Eleven Sports2,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=a4970c8d
-momo綜合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=cb76e2e5
-纬来日本,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=b9c4ab9a
-一电影,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=4dcedbb6
-ELTA综合,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=d28701e1
-ELTA影劇台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=ac25b195
-ELTA娛樂台,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=fbb3b50d
-ELTA体育1,gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=7046aa3f
-ELTA体育2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1d69687e
-ELTA体育3,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e35b6b75
-TRACE Urban,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=3268af10
-TRACE Sport Stars,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=62becbe3
-GINX Esports TV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b80dc7f1
-PET CLUB TV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=8f4e8a07
-信吉电视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9c15735d
-国兴卫视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9cd6fcae
-冠軍,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ca74b5ef
-全大电视,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4237b2dc
-信大,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f154d9c3
-z頻道,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=12158ea6
-NHK,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=8f456766
-TvN,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c3efccf2
-WaKuWaku Japan,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ac1c130a
-星卫娱乐台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=2657344c
-博斯高球2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=331f6d9d
-亞洲旅遊,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9331c00b
-美食星球,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=00740cb7
-靖天日本,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=22b2a3c1
-靖天電影,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b6690265
-博斯高球1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=69e91b16
-AMIMAX,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4d696d82
-霹靂台灣台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7b8dd162
-人間衛視,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=20880537
-台视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c23f3737
-台视综合,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1364de9b
-公視3HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=a804122f
-民視台灣,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=2f2cc57a
-台视财经台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=1088d24f
-华视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=091887ce
-历史H1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ff87afd1
-历史H2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=59d690d3
-亚洲美食,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=32fa8773
-LIFETIME,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f25a92cc
-Mezzo Live,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=a50f3005
-EYE旅游,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bb7e06ef
-HGTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=54506ff9
-NBA动态,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ec8e7fc2
-BBC LIFE,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=74fd4d2a
-BABYfIRST,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=d959b03
-BBC卡通,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e9151843
-BBC Earth,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ea553fec
-BabyTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=5c624ce4
-智林體育台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=93610f6d
-华纳WBTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=9cb32ea0
-CI,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=aad39e7d
-KMTV,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6d88eabe
-三立戏剧,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=e27df090
-卫视洋片,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=716adb39
-中视新闻台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=66836176
-博斯无限,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=da31cc90
-博斯網球,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bdec2954
-博斯运动,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=967c8913
-博斯运动2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=231c4866
-博斯魅力,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=5c2d477b
-靖天戏剧,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ec8952ba
-影迷數位電影台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=77dc798
-ETTODAY,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f21ef8bd
-中天新闻HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=0cb3ebf1
-龍華戲劇,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f1cf84b1
-龍華偶像,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=3e69e95a
-龍華電影,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6253d3a5
-龍華洋片,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=6b96a86f
-龍華經典,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f6b933d3
-龍華影劇,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7494b46d
-龍華動畫,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=59f90a6f
-Travel Channel FHD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7e01e22b
-Smithsonian Channel HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=7c5fe7e3
-韓國娛樂台 HD,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=15a749a3
-测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
-测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
-测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
-测试,http://live.lingfeng.win:8880/livee8bcd3a7.m3u8
-测试,http://live.lingfeng.win:8880/live183ccfeb.m3u8
-测试,http://live.lingfeng.win:8880/livebb82f033.m3u8
-测试,http://live.lingfeng.win:8880/livedc1cc94c.m3u8
-测试,http://live.lingfeng.win:8880/live61728c95.m3u8
-测试,http://live.lingfeng.win:8880/live1306d57e.m3u8
-测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
-测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
-测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
-测试,http://live.lingfeng.win:8880/lived318b18c.m3u8
-测试,http://live.lingfeng.win:8880/livee8bcd3a7.m3u8
-测试,http://live.lingfeng.win:8880/live183ccfeb.m3u8
-测试,http://live.lingfeng.win:8880/livebb82f033.m3u8
-测试,http://live.lingfeng.win:8880/livedc1cc94c.m3u8
-测试,http://live.lingfeng.win:8880/live61728c95.m3u8
-测试,http://live.lingfeng.win:8880/live1306d57e.m3u8
-测试,http://live.lingfeng.win:8880/live14a7f857.m3u8
-無線新聞台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f09a54c6
-香港J2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=62a696b0
-明珠台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=f0afc501
-翡翠台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=b5281b1d
-星河频道,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=15af4323
-电影一台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=c26563ac
-无线财经台,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=912a42f7
-有线新闻,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=bcaf1b44
-有线18,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=4bb10da0
-viustv,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=cebb5bb2
-viutv,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=3a9eab5e
-凤凰卫视中文台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a1ddeef5
-凤凰资讯台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=2c3cc674
-凤凰香港台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=b18b32b6
-开电视,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=c8be6539
-Now新闻台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=fd857a18
-Now直播台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=51f52d29
-Now财经台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=eef02241
-Now体育台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=03153d1f
-RHK31,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=3fab4f58
-RHK32,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=f9dff950
-有線603,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=83354a71
-有线财经台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=5306bf7d
-有线体育台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a14232bd
-有线娱乐台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=dd6a7a67
-珠江台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=0a9e2931
-星空,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=97ea8753
-CH5,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e8bcd3a7
-CH8,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=183ccfeb
-CHU,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=bb82f033
-SURIA,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=dc1cc94c
-VST,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=61728c95
-CNA,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=1306d57e
-AEC,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=fa7c5f96
-双星,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e66eb67d
-爱奇艺,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=0ec69da7
-欢喜台,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=b2a992de
-全佳,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=d088aff1
-AOD,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=89c5a568
-BBC Earth Lifestyle,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=8cf0fa1b
-小太阳,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=75b8ed18
-Nickelodeon,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=e6475dd1
-Nick Jr,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=510f18a7
-Baby TV Eng,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=ad982c88
-Kids TV,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=1f9796b6
-CBeebies,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=427024a6
-Disney Channel,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=55d60ef2
-Disney Junior,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=c93db677
-HBO Malaysia,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=ca7adfe7
-Astro WWE,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=487e91c9
-RTM Sports,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=f1af0654
-Stadium UFC,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=8dbda44a
-NHK-E,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=393f3033
-テレビ朝日,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=656187ef
-テレビ東京,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=71a2e7b2
-TOKYOMX,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=87c4553e
-NHKBS1,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a25a71c0
-NHKBSプレミア Premium,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=194f1440
-BSジャパン 181,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=99ccbe3a
-CNA Japan,gp2p://137.220.244.178:23455/?day=0&acc=137.220.244.178&distribution=a5cd6046
-J Soprts 1,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=194306a5
-J Soprts 2,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=ff87afd1
-J Soprts 3,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=64dfc669
-J Soprts 4,gp2p://118.107.10.5:23455/?day=0&acc=118.107.10.5&distribution=54a075c5
-CCTV1,http://39.135.138.50:18890/PLTV/88888910/224/3221225642/index.index.m3u8
-CCTV2,http://39.135.138.50:18890/PLTV/88888910/224/3221225643/index.index.m3u8
-CCTV3,http://39.135.138.50:18890/PLTV/88888910/224/3221225634/index.index.m3u8
-CCTV4,http://39.135.138.50:18890/PLTV/88888910/224/3221225621/index.index.m3u8
-CCTV5,http://39.135.138.50:18890/PLTV/88888910/224/3221225633/index.index.m3u8
-CCTV5+,http://39.135.138.50:18890/PLTV/88888910/224/3221225706/index.index.m3u8
-CCTV6,http://39.135.138.50:18890/PLTV/88888910/224/3221225632/index.index.m3u8
-CCTV7,http://39.135.138.50:18890/PLTV/88888910/224/3221225644/index.index.m3u8
-CCTV8,http://39.135.138.50:18890/PLTV/88888910/224/3221225631/index.index.m3u8
-CCTV9,http://39.135.138.50:18890/PLTV/88888910/224/3221225646/index.index.m3u8
-CCTV10,http://39.135.138.50:18890/PLTV/88888910/224/3221225636/index.index.m3u8
-CCTV11,http://39.135.138.50:18890/PLTV/88888910/224/3221225628/index.index.m3u8
-CCTV12,http://39.135.138.50:18890/PLTV/88888910/224/3221225637/index.index.m3u8
-CCTV13,http://39.135.138.50:18890/PLTV/88888910/224/3221225638/index.index.m3u8
-CCTV14,http://39.135.138.50:18890/PLTV/88888910/224/3221225639/index.index.m3u8
-CCTV15,http://39.135.138.50:18890/PLTV/88888910/224/3221225641/index.index.m3u8
-CCTV17,http://39.135.138.50:18890/PLTV/88888910/224/3221225908/index.index.m3u8
-东南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225657/index.index.m3u8
-东方卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225659/index.index.m3u8
-江苏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225702/index.index.m3u8
-江西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225705/index.index.m3u8
-河北卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225732/index.index.m3u8
-浙江卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225703/index.index.m3u8
-深圳卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225700/index.index.m3u8
-湖北卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225699/index.index.m3u8
-湖南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225704/index.index.m3u8
-北京卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225674/index.index.m3u8
-北京纪实,http://39.135.138.50:18890/PLTV/88888910/224/3221225676/index.index.m3u8
-上海纪实,http://39.135.138.50:18890/PLTV/88888910/224/3221225655/index.index.m3u8
-四川卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225733/index.index.m3u8
-天津卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225698/index.index.m3u8
-安徽卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225691/index.index.m3u8
-山东卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225697/index.index.m3u8
-山西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225730/index.index.m3u8
-广东卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225701/index.index.m3u8
-广西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225731/index.index.m3u8
-重庆卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225692/index.index.m3u8
-吉林卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225680/index.index.m3u8
-云南卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225664/index.index.m3u8
-陕西卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225729/index.index.m3u8
-内蒙古卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225667/index.index.m3u8
-青海卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225727/index.index.m3u8
-黑龙江卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225690/index.index.m3u8
-宁夏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225726/index.index.m3u8
-甘肃卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225724/index.index.m3u8
-西藏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225723/index.index.m3u8
-新疆卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225725/index.index.m3u8
-旅游卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225722/index.index.m3u8
-贵州卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225728/index.index.m3u8
-辽宁卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225696/index.index.m3u8
-CHC動作電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.index.m3u8
-CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.index.m3u8
-CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.index.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.index.m3u8$JS
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.index.m3u8$JS
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.index.m3u8$JS
-iHOT科技,http://112.15.230.41/PLTV/88888888/224/3221230023/index.index.m3u8
-iHOT玩具,http://112.15.230.41/PLTV/88888888/224/3221230026/index.index.m3u8
-iHOT电竞,http://112.15.230.41/PLTV/88888888/224/3221230029/index.index.m3u8
-iHOT赛车,http://112.15.230.41/PLTV/88888888/224/3221230032/index.index.m3u8
-iHOT体育,http://112.15.230.41/PLTV/88888888/224/3221230034/index.index.m3u8
-iHOT体育,http://112.15.230.41/PLTV/88888888/224/3221230103/index.index.m3u8
-iHOT世界,http://112.15.230.41/PLTV/88888888/224/3221230046/index.index.m3u8
-iHOT怀旧,http://112.15.230.41/PLTV/88888888/224/3221230049/index.index.m3u8
-iHOT旅行,http://112.15.230.41/PLTV/88888888/224/3221230052/index.index.m3u8
-iHOT江湖,http://112.15.230.41/PLTV/88888888/224/3221230074/index.index.m3u8
-iHOT娱乐,http://112.15.230.41/PLTV/88888888/224/3221230077/index.index.m3u8
-iHOT解密,http://112.15.230.41/PLTV/88888888/224/3221230080/index.index.m3u8
-iHOT军武,http://112.15.230.41/PLTV/88888888/224/3221230083/index.index.m3u8
-iHOT幼教,http://112.15.230.41/PLTV/88888888/224/3221230086/index.index.m3u8
-iHOT谍战,http://112.15.230.41/PLTV/88888888/224/3221230092/index.index.m3u8
-iHOT猎奇,http://112.15.230.41/PLTV/88888888/224/3221230097/index.index.m3u8
-iHOT悬疑,http://112.15.230.41/PLTV/88888888/224/3221230098/index.index.m3u8
-iHOT历史,http://112.15.230.41/PLTV/88888888/224/3221230100/index.index.m3u8
-iHOT经典,http://112.15.230.41/PLTV/88888888/224/3221230101/index.index.m3u8
-iHOT都市,http://112.15.230.41/PLTV/88888888/224/3221230104/index.index.m3u8
-iHOT科学,http://112.15.230.41/PLTV/88888888/224/3221230106/index.index.m3u8
-iHOT时尚,http://112.15.230.41/PLTV/88888888/224/3221230109/index.index.m3u8
-iHOT探索,http://112.15.230.41/PLTV/88888888/224/3221230112/index.index.m3u8
-iHOT美食,http://112.15.230.41/PLTV/88888888/224/3221230115/index.index.m3u8
-iHOT家庭,http://112.15.230.41/PLTV/88888888/224/3221230118/index.index.m3u8
-iHOT青春,http://112.15.230.41/PLTV/88888888/224/3221230130/index.index.m3u8
-iHOT动漫,http://112.15.230.41/PLTV/88888888/224/3221230136/index.index.m3u8
-连播好莱坞HD,http://hpull.kktv8.com/livekktv/128600025/playlist.index.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.index.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.index.m3u8|1#http://45.11.92.153/lbq/cjtv88hd.php?id=441
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.index.m3u8
-4K超高清电影,http://60.255.49.202/live/emdy4k_8000.index.m3u8
-Love Nature 4K,http://177.20.208.58:8000/play/a03r/index.index.m3u8|1#http://177.20.208.58:8000/play/a03r/index.index.m3u8
-北京IPTV淘电影 4K,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.index.m3u8|1#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.index.m3u8
-测试,http://live.lingfeng.win:8880/lived318b18c.index.m3u8|1#http://39.135.140.227:6610/PLTV/88888888/224/3221226199/2/index.index.m3u8?fmt=ts2hls
-南国都市 4K,http://149.129.100.78/gztv.php?id=shenghuohttp://ye23.win/iptv/gztv.php?id=shenghuo
-CCTV4k超高清,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.index.m3u8|1#http://live.lingfeng.win:8880/lived318b18c.index.m3u8
-新视觉HD,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.index.m3u8
-极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.index.m3u8
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.index.m3u8|1#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.index.m3u8
-北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.index.m3u8
-淘电影,http://live.lingfeng.win:8880/livee8bcd3a7.index.m3u8|1#http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.index.m3u8
-有线综合娱乐台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.index.m3u8|1#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.index.m3u8
-CIBN综合,http://117.148.179.160/PLTV/88888888/224/3221231696/index.index.m3u8
-CIBN纪录片,http://117.148.179.154/PLTV/88888888/224/3221231594/index.m3u
-CIBN真人秀,http://117.148.179.168/PLTV/88888888/224/3221231589/index.index.m3u8
-CIBN经典剧场,http://117.148.179.176/PLTV/88888888/224/3221231595/index.index.m3u8
-CIBN古装剧场,http://117.148.179.160/PLTV/88888888/224/3221231625/index.index.m3u8
-CIBN骄阳剧场,http://117.148.179.165/PLTV/88888888/224/3221231745/index.index.m3u8
-sam测试,http://172.106.17.214:30080/Entry/GS|1#http://live.lingfeng.win:8880/live14a7f857.index.m3u8
-sam测试apple1,http://172.106.17.214:30080/Apple/GS|1#http://live.lingfeng.win:8880/lived318b18c.index.m3u8
-CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.index.m3u8
-CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.index.m3u8
-CIBN流金岁月,http://117.148.179.158/PLTV/88888888/224/3221231664/index.index.m3u8
-CIBN时尚生活,http://117.148.179.183/PLTV/88888888/224/3221231489/index.index.m3u8
-阳光卫视,https://stream.isuntv.com/680k/mid_video_index.index.m3u8
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.index.m3u8
-TVS南方卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.index.m3u8
-4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.index.m3u8
-亚旅卫视,http://live.lingfeng.win:8880/live183ccfeb.index.m3u8|1#https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.index.m3u8
-黑莓电影,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.index.m3u8
-黑莓动画,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.index.m3u8
-上海纪实人文,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.index.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.index.m3u8|1#https://cdn.hkdtmb.com/hls/31/index.index.m3u8
-RHK32,https://cdn.hkdtmb.com/hls/32/index.index.m3u8
-CNC,http://source07.v.news.cn/live/CNC_CN/playlist.index.m3u8
-游戏风云,http://source07.v.news.cn/live/CNC_CN/playlist.index.m3u8
-都市剧场,http://112.25.48.68/live/program/live/dsjchd/4000000/mnf.index.m3u8
-全纪实,http://183.207.255.190/live/program/live/qjshd/4000000/mnf.index.m3u8
-广东珠江,http://116.199.5.51:8114/00000000/index.index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-广东经济科教,http://116.199.5.51:8114/00000000/index.index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-峨眉电影,http://60.255.49.202/live/emdygqH265_4000.index.m3u8
-欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.index.m3u8
-1HD music,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.index.m3u8
-广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.index.m3u8
-北京淘剧场,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.index.m3u8
-汕头综合HD,http://wo66.ml:66/6/gd33.php?id=shantouyitaogaoqing_4500|1#http://wo66.ml:66/6/gd33.php?id=shantouyitaogaoqing_4500
-汕头经济生活HD,http://wo66.ml:66/6/gd33.php?id=shantouertaogaoqing_4500
-汕头公共HD,http://wo66.ml:66/6/gd33.php?id=shantousantaogaoqing_4500
-汕头综合HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=029
-汕头经济生活HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=030
-汕头公共HD,http://tv.gerss.cn/QQ626112999/gdtv.php?id=031
-HOBOC,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.index.m3u8
-五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.index.m3u8
-CCTV16奥林匹克,http://192.109.98.110/yh.php?id=G_CCTV-16-CQ|1#gp2p://118.107.10.198:23455/?day=0&acc=118.107.10.198&distribution=123
-广东体育台,http://wo66.ml:66/6/gd33.php?id=gdsportsHD_7000|1#http://live.lingfeng.win:8880/live1306d57e.index.m3u8
+UBLIVE-台灣頻道,#genre#
+民視,http://45.11.92.170/play/smart/xziptv.php?id=26
+民視,http://45.11.92.170/play/smart/xziptv.php?id=336
+台視,http://45.11.92.170/play/smart/xziptv.php?id=27
+台視,http://45.11.92.170/play/smart/xziptv.php?id=326
+中視,http://45.11.92.170/play/smart/xziptv.php?id=28
+中視,http://45.11.92.170/play/smart/xziptv.php?id=333
+華視,http://45.11.92.170/play/smart/xziptv.php?id=32
+華視,http://45.11.92.170/play/smart/xziptv.php?id=327
+公視,http://45.11.92.170/play/smart/xziptv.php?id=86
+公視,http://45.11.92.170/play/smart/xziptv.php?id=361
+幸福空間居家,http://45.11.92.170/play/smart/xziptv.php?id=61
+好消息,http://45.11.92.170/play/smart/xziptv.php?id=104
+原住民電視,http://45.11.92.170/play/smart/xziptv.php?id=95
+客家電視,http://45.11.92.170/play/smart/xziptv.php?id=76
+緯來綜合,http://45.11.92.170/play/smart/xziptv.php?id=340
+八大第一,http://45.11.92.170/play/smart/xziptv.php?id=318
+八大綜合,http://45.11.92.170/play/smart/xziptv.php?id=325
+八大綜合,http://45.11.92.170/play/smart/xziptv.php?id=2286
+東風衛視,http://45.11.92.170/play/smart/xziptv.php?id=2152
+三立臺灣,http://45.11.92.170/play/smart/xziptv.php?id=21
+三立臺灣,http://45.11.92.170/play/smart/xziptv.php?id=35
+三立都會,http://45.11.92.170/play/smart/xziptv.php?id=38
+三立都會,http://45.11.92.170/play/smart/xziptv.php?id=1001
+衛視中文,http://45.11.92.170/play/smart/xziptv.php?id=342
+東森綜合,http://45.11.92.170/play/smart/xziptv.php?id=372
+東森綜合,http://45.11.92.170/play/smart/xziptv.php?id=2279
+東森超視,http://45.11.92.170/play/smart/xziptv.php?id=80
+東森購物2,http://45.11.92.170/play/smart/xziptv.php?id=1156
+中天綜合,http://45.11.92.170/play/smart/xziptv.php?id=54
+中天綜合,http://45.11.92.170/play/smart/xziptv.php?id=2277
+中天娛樂,http://45.11.92.170/play/smart/xziptv.php?id=324
+TVBS歡樂,http://45.11.92.170/play/smart/xziptv.php?id=40
+八大精彩,http://45.11.92.170/play/smart/xziptv.php?id=1024
+JET綜合,http://45.11.92.170/play/smart/xziptv.php?id=41
+東森購物1,http://45.11.92.170/play/smart/xziptv.php?id=1155
+TVBS綜合,http://45.11.92.170/play/smart/xziptv.php?id=16
+緯來育樂,http://45.11.92.170/play/smart/xziptv.php?id=338
+緯來育樂,http://45.11.92.170/play/smart/xziptv.php?id=312
+緯來日本,http://45.11.92.170/play/smart/xziptv.php?id=337
+緯來日本,http://45.11.92.170/play/smart/xziptv.php?id=46
+國興衛視,http://45.11.92.170/play/smart/xziptv.php?id=65
+信吉電視,http://45.11.92.170/play/smart/xziptv.php?id=422
+壹電視綜合,http://45.11.92.170/play/smart/xziptv.php?id=305
+八大娱乐,http://45.11.92.170/play/smart/xziptv.php?id=105
+公視3台,http://45.11.92.170/play/smart/xziptv.php?id=1340
+好消息2,http://45.11.92.170/play/smart/xziptv.php?id=363
+高點綜合,http://45.11.92.170/play/smart/xziptv.php?id=99
+中天亞洲,http://45.11.92.170/play/smart/xziptv.php?id=322
+民視綜藝,http://45.11.92.170/play/smart/xziptv.php?id=98
+民視綜藝,http://45.11.92.170/play/smart/xziptv.php?id=2278
+民視第一台,http://45.11.92.170/play/smart/xziptv.php?id=34
+民視第一台,http://45.11.92.170/play/smart/xziptv.php?id=2276
+民視台灣,http://45.11.92.170/play/smart/xziptv.php?id=36
+公視台語,http://45.11.92.170/play/smart/xziptv.php?id=58
+龍華偶像,http://45.11.92.170/play/smart/xziptv.php?id=347
+龍華日韓,http://45.11.92.170/play/smart/xziptv.php?id=382
+豬哥亮歌廳秀,http://45.11.92.170/play/smart/xziptv.php?id=75
+ELTA娛樂台,http://45.11.92.170/play/smart/xziptv.php?id=351
+韓國娛樂台,http://45.11.92.170/play/smart/xziptv.php?id=73
+星衛娛樂,http://45.11.92.170/play/smart/xziptv.php?id=89
+靖天國際,http://45.11.92.170/play/smart/xziptv.php?id=345
+靖天育樂,http://45.11.92.170/play/smart/xziptv.php?id=1029
+靖天日本,http://45.11.92.170/play/smart/xziptv.php?id=108
+靖天歡樂,http://45.11.92.170/play/smart/xziptv.php?id=51
+三立綜合,http://45.11.92.170/play/smart/xziptv.php?id=315
+靖天資訊,http://45.11.92.170/play/smart/xziptv.php?id=49
+中視經典,http://45.11.92.170/play/smart/xziptv.php?id=185
+靖天娛樂,http://45.11.92.170/play/smart/xziptv.php?id=1589
+寰宇綜合,http://45.11.92.170/play/smart/xziptv.php?id=190
+中視菁采,http://45.11.92.170/play/smart/xziptv.php?id=74
+TVBS精采,http://45.11.92.170/play/smart/xziptv.php?id=66
+華藝綜合,http://45.11.92.170/play/smart/xziptv.php?id=310
+年代much,http://45.11.92.170/play/smart/xziptv.php?id=1359
+臺視綜合,http://45.11.92.170/play/smart/xziptv.php?id=309
+ELTA綜合,http://45.11.92.170/play/smart/xziptv.php?id=1137
+番薯電視,http://45.11.92.170/play/smart/xziptv.php?id=29
+TVN,http://45.11.92.170/play/smart/xziptv.php?id=1583
+世新綜合,http://45.11.92.170/play/smart/xziptv.php?id=1048
+東森購物3,http://45.11.92.170/play/smart/xziptv.php?id=1584
+MOMO購物1,http://45.11.92.170/play/smart/xziptv.php?id=1585
+MOMO購物2,http://45.11.92.170/play/smart/xziptv.php?id=1586
+天良綜合,http://45.11.92.170/play/smart/xziptv.php?id=1587
+誠心電視,http://45.11.92.170/play/smart/xziptv.php?id=1590
+美好購物1,http://45.11.92.170/play/smart/xziptv.php?id=1591
+美好購物2,http://45.11.92.170/play/smart/xziptv.php?id=1592
+大立電視,http://45.11.92.170/play/smart/xziptv.php?id=1593
+法國時裝,http://45.11.92.170/play/smart/xziptv.php?id=2287
+TVN台湾版,http://45.11.92.170/play/smart/xziptv.php?id=2288
+三立LIVE新聞,http://45.11.92.170/play/smart/xziptv.php?id=4
+三立LIVE新聞,http://45.11.92.170/play/smart/xziptv.php?id=1008
+東森新聞,http://45.11.92.170/play/smart/xziptv.php?id=9
+東森新聞,http://45.11.92.170/play/smart/xziptv.php?id=1016
+中天新聞,http://45.11.92.170/play/smart/xziptv.php?id=3
+中天新聞,http://45.11.92.170/play/smart/xziptv.php?id=1002
+民視新聞,http://45.11.92.170/play/smart/xziptv.php?id=13
+TVBS新聞,http://45.11.92.170/play/smart/xziptv.php?id=2
+TVBS新聞,http://45.11.92.170/play/smart/xziptv.php?id=1004
+東森財經,http://45.11.92.170/play/smart/xziptv.php?id=12
+華視新聞,http://45.11.92.170/play/smart/xziptv.php?id=6
+iNEWS,http://45.11.92.170/play/smart/xziptv.php?id=8
+台視新聞,http://45.11.92.170/play/smart/xziptv.php?id=1
+年代新聞,http://45.11.92.170/play/smart/xziptv.php?id=1099
+三立国際,http://45.11.92.170/play/smart/xziptv.php?id=2285
+非凡商業,http://45.11.92.170/play/smart/xziptv.php?id=187
+寰宇財經,http://45.11.92.170/play/smart/xziptv.php?id=320
+台視財經,http://45.11.92.170/play/smart/xziptv.php?id=300
+寰宇新聞,http://45.11.92.170/play/smart/xziptv.php?id=304
+壹電視新聞,http://45.11.92.170/play/smart/xziptv.php?id=303
+FRANCE 24,http://45.11.92.170/play/smart/xziptv.php?id=1042
+CBN News,http://45.11.92.170/play/smart/xziptv.php?id=499
+第1商業,http://45.11.92.170/play/smart/xziptv.php?id=186
+Lifetime台湾版,http://45.11.92.170/play/smart/xziptv.php?id=2283
+緯來精彩台,http://45.11.92.170/play/smart/xziptv.php?id=2280
+MOMO追劇,http://45.11.92.170/play/smart/xziptv.php?id=494
+愛爾達影劇,http://45.11.92.170/play/smart/xziptv.php?id=500
+東森戲劇,http://45.11.92.170/play/smart/xziptv.php?id=321
+八大戲劇,http://45.11.92.170/play/smart/xziptv.php?id=81
+緯來戲劇,http://45.11.92.170/play/smart/xziptv.php?id=339
+衛視電影,http://45.11.92.170/play/smart/xziptv.php?id=93
+東森電影,http://45.11.92.170/play/smart/xziptv.php?id=350
+緯來電影,http://45.11.92.170/play/smart/xziptv.php?id=96
+HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=332
+東森洋片,http://45.11.92.170/play/smart/xziptv.php?id=1128
+壹電影,http://45.11.92.170/play/smart/xziptv.php?id=2284
+好萊塢電影,http://45.11.92.170/play/smart/xziptv.php?id=37
+FOX MOVIES,http://45.11.92.170/play/smart/xziptv.php?id=387
+FOX,http://45.11.92.170/play/smart/xziptv.php?id=384
+靖天映畫,http://45.11.92.170/play/smart/xziptv.php?id=349
+靖洋戲劇,http://45.11.92.170/play/smart/xziptv.php?id=319
+EYE戲劇,http://45.11.92.170/play/smart/xziptv.php?id=191
+三立戲劇,http://45.11.92.170/play/smart/xziptv.php?id=64
+霹靂臺灣,http://45.11.92.170/play/smart/xziptv.php?id=1339
+民視影劇,http://45.11.92.170/play/smart/xziptv.php?id=1023
+影迷數位電影,http://45.11.92.170/play/smart/xziptv.php?id=497
+天映經典,http://45.11.92.170/play/smart/xziptv.php?id=2289
+龍華電影,http://45.11.92.170/play/smart/xziptv.php?id=311
+華納電影,http://45.11.92.170/play/smart/xziptv.php?id=83
+金光布袋戲,http://45.11.92.170/play/smart/xziptv.php?id=1060
+緯來體育,http://45.11.92.170/play/smart/xziptv.php?id=52
+Eleven Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=1133
+Eleven Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=301
+ELTA體育1,http://45.11.92.170/play/smart/xziptv.php?id=192
+ELTA體育2,http://45.11.92.170/play/smart/xziptv.php?id=193
+ELTA體育3,http://45.11.92.170/play/smart/xziptv.php?id=194
+Z頻道,http://45.11.92.170/play/smart/xziptv.php?id=1130
+博斯無限,http://45.11.92.170/play/smart/xziptv.php?id=381
+博斯無限2,http://45.11.92.170/play/smart/xziptv.php?id=426
+亞洲旅遊,http://45.11.92.170/play/smart/xziptv.php?id=2299
+BabyFirst,http://45.11.92.170/play/smart/xziptv.php?id=2274
+nick Jr 台湾版,http://45.11.92.170/play/smart/xziptv.php?id=2281
+大愛一臺,http://45.11.92.170/play/smart/xziptv.php?id=11
+海豚綜合,http://45.11.92.170/play/smart/xziptv.php?id=1505
+UBLIVE-港澳頻道,#genre#
+TVB翡翠,http://45.11.92.170/play/smart/xziptv.php?id=30
+TVB翡翠,http://45.11.92.170/play/smart/xziptv.php?id=390
+TVB明珠,http://45.11.92.170/play/smart/xziptv.php?id=391
+無線新聞,http://45.11.92.170/play/smart/xziptv.php?id=45
+無線新聞,http://45.11.92.170/play/smart/xziptv.php?id=394
+有線新聞,http://45.11.92.170/play/smart/xziptv.php?id=395
+Viutv,http://45.11.92.170/play/smart/xziptv.php?id=72
+TVB無線財經,http://45.11.92.170/play/smart/xziptv.php?id=393
+TVB J2,http://45.11.92.170/play/smart/xziptv.php?id=392
+NOW新聞,http://45.11.92.170/play/smart/xziptv.php?id=396
+NOW直播,http://45.11.92.170/play/smart/xziptv.php?id=400
+鳳凰香港,http://45.11.92.170/play/smart/xziptv.php?id=358
+鳳凰衛視,http://45.11.92.170/play/smart/xziptv.php?id=357
+鳳凰衛視,http://45.11.92.170/play/smart/xziptv.php?id=2291
+鳳凰資訊,http://45.11.92.170/play/smart/xziptv.php?id=359
+鳳凰资讯,http://45.11.92.170/play/smart/xziptv.php?id=2292
+星空衛視,http://45.11.92.170/play/smart/xziptv.php?id=56
+港臺31,http://45.11.92.170/play/smart/xziptv.php?id=353
+港臺32,http://45.11.92.170/play/smart/xziptv.php?id=397
+香港開電視,http://45.11.92.170/play/smart/xziptv.php?id=17
+HKC娛樂,,http://45.11.92.170/play/smart/xziptv.php?id=2293
+HKC電影,http://45.11.92.170/play/smart/xziptv.php?id=354
+HKC體育1,http://45.11.92.170/play/smart/xziptv.php?id=401
+HKC體育2,http://45.11.92.170/play/smart/xziptv.php?id=356
+HKS,http://45.11.92.170/play/smart/xziptv.php?id=399
+澳視澳門,http://45.11.92.170/play/smart/xziptv.php?id=23
+澳視葡語,http://45.11.92.170/play/smart/xziptv.php?id=24
+澳門Macau,http://45.11.92.170/play/smart/xziptv.php?id=364
+有線603,http://45.11.92.170/play/smart/xziptv.php?id=398
+廣東珠江,http://45.11.92.170/play/smart/xziptv.php?id=1034
+18台,http://45.11.92.170/play/smart/xziptv.php?id=44
+澳門蓮花,http://45.11.92.170/play/smart/xziptv.php?id=70
+鳳凰電影,http://45.11.92.170/play/smart/xziptv.php?id=19
+Viutv 6,http://45.11.92.170/play/smart/xziptv.php?id=176
+耀才财经,http://45.11.92.170/play/smart/xziptv.php?id=355
+創世電視,http://45.11.92.170/play/smart/xziptv.php?id=1317
+ATV亞視,http://45.11.92.170/play/smart/xziptv.php?id=1457
+陽光衛視,http://45.11.92.170/play/smart/xziptv.php?id=1607
+美亞電影,http://45.11.92.170/play/smart/xziptv.php?id=375
+NOW SPORTS,http://45.11.92.170/play/smart/xziptv.php?id=1358
+嶺南戲曲,http://45.11.92.170/play/smart/xziptv.php?id=1502
+新時代東部,http://45.11.92.170/play/smart/xziptv.php?id=1286
+新時代西部,http://45.11.92.170/play/smart/xziptv.php?id=1287
+城市電視,http://45.11.92.170/play/smart/xziptv.php?id=1289
+新時代2,http://45.11.92.170/play/smart/xziptv.php?id=1288
+TVB經典,http://45.11.92.170/play/smart/xziptv.php?id=1083
+UBLIVE-新聞頻道,#genre#
+三立LIVE新聞,http://45.11.92.170/play/smart/xziptv.php?id=4
+三立LIVE新聞,http://45.11.92.170/play/smart/xziptv.php?id=1008
+東森新聞,http://45.11.92.170/play/smart/xziptv.php?id=9
+東森新聞,http://45.11.92.170/play/smart/xziptv.php?id=1016
+中天新聞,http://45.11.92.170/play/smart/xziptv.php?id=3
+中天新聞,http://45.11.92.170/play/smart/xziptv.php?id=1002
+民視新聞,http://45.11.92.170/play/smart/xziptv.php?id=13
+民視新聞HD,http://45.11.92.170/play/smart/xziptv.php?id=317
+TVBS新聞,http://45.11.92.170/play/smart/xziptv.php?id=2
+TVBS新聞,http://45.11.92.170/play/smart/xziptv.php?id=1004
+東森財經,http://45.11.92.170/play/smart/xziptv.php?id=12
+華視新聞,http://45.11.92.170/play/smart/xziptv.php?id=6
+iNEWS,http://45.11.92.170/play/smart/xziptv.php?id=8
+台視新聞,http://45.11.92.170/play/smart/xziptv.php?id=1
+中視新聞,http://45.11.92.170/play/smart/xziptv.php?id=7
+年代新聞,http://45.11.92.170/play/smart/xziptv.php?id=1099
+三立国際,http://45.11.92.170/play/smart/xziptv.php?id=2285
+非凡商業,http://45.11.92.170/play/smart/xziptv.php?id=187
+非凡新聞,http://45.11.92.170/play/smart/xziptv.php?id=314
+寰宇財經,http://45.11.92.170/play/smart/xziptv.php?id=320
+DW德國之聲,http://45.11.92.170/play/smart/xziptv.php?id=1059
+DW News,http://45.11.92.170/play/smart/xziptv.php?id=14
+VOA美國之音,http://45.11.92.170/play/smart/xziptv.php?id=495
+VOA衛視,http://45.11.92.170/play/smart/xziptv.php?id=22
+台視財經,http://45.11.92.170/play/smart/xziptv.php?id=300
+寰宇新聞,http://45.11.92.170/play/smart/xziptv.php?id=304
+寰宇臺灣,http://45.11.92.170/play/smart/xziptv.php?id=87
+寰宇臺灣,http://45.11.92.170/play/smart/xziptv.php?id=2273
+壹電視新聞,http://45.11.92.170/play/smart/xziptv.php?id=303
+FRANCE 24 English,http://45.11.92.170/play/smart/xziptv.php?id=2231
+FRANCE 24,http://45.11.92.170/play/smart/xziptv.php?id=1042
+新唐人亞太台,http://45.11.92.170/play/smart/xziptv.php?id=10
+CBN News,http://45.11.92.170/play/smart/xziptv.php?id=499
+THE WORLD,http://45.11.92.170/play/smart/xziptv.php?id=1013
+RT News,http://45.11.92.170/play/smart/xziptv.php?id=1025
+TRTWORLD,http://45.11.92.170/play/smart/xziptv.php?id=1022
+Bloomberg Financial,http://45.11.92.170/play/smart/xziptv.php?id=1046
+Al Jazeera,http://45.11.92.170/play/smart/xziptv.php?id=1144
+Bloomberg Europe,http://45.11.92.170/play/smart/xziptv.php?id=370
+第1商業,http://45.11.92.170/play/smart/xziptv.php?id=186
+CNN頭條新聞,http://45.11.92.170/play/smart/xziptv.php?id=43
+CNN國際新聞,http://45.11.92.170/play/smart/xziptv.php?id=420
+BBC World News,http://45.11.92.170/play/smart/xziptv.php?id=421
+運通財經,http://45.11.92.170/play/smart/xziptv.php?id=79
+歐洲新聞,http://45.11.92.170/play/smart/xziptv.php?id=1343
+SBN全球財經,http://45.11.92.170/play/smart/xziptv.php?id=1497
+半島國際新聞,http://45.11.92.170/play/smart/xziptv.php?id=1498
+Lifetime台湾版,http://45.11.92.170/play/smart/xziptv.php?id=2283
+UBLIVE-影視頻道,#genre#
+緯來精彩台,http://45.11.92.170/play/smart/xziptv.php?id=2280
+MOMO追劇,http://45.11.92.170/play/smart/xziptv.php?id=494
+愛爾達影劇,http://45.11.92.170/play/smart/xziptv.php?id=500
+東森戲劇,http://45.11.92.170/play/smart/xziptv.php?id=321
+八大戲劇,http://45.11.92.170/play/smart/xziptv.php?id=81
+緯來戲劇,http://45.11.92.170/play/smart/xziptv.php?id=339
+衛視電影,http://45.11.92.170/play/smart/xziptv.php?id=93
+東森電影,http://45.11.92.170/play/smart/xziptv.php?id=350
+緯來電影,http://45.11.92.170/play/smart/xziptv.php?id=96
+HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=332
+東森洋片,http://45.11.92.170/play/smart/xziptv.php?id=1128
+壹電影,http://45.11.92.170/play/smart/xziptv.php?id=2284
+好萊塢電影,http://45.11.92.170/play/smart/xziptv.php?id=37
+FOX MOVIES,http://45.11.92.170/play/smart/xziptv.php?id=387
+CineMAX,http://45.11.92.170/play/smart/xziptv.php?id=346
+FOX,http://45.11.92.170/play/smart/xziptv.php?id=384
+靖天映畫,http://45.11.92.170/play/smart/xziptv.php?id=349
+靖洋戲劇,http://45.11.92.170/play/smart/xziptv.php?id=319
+EYE戲劇,http://45.11.92.170/play/smart/xziptv.php?id=191
+三立戲劇,http://45.11.92.170/play/smart/xziptv.php?id=64
+FOX ACTION,http://45.11.92.170/play/smart/xziptv.php?id=385
+霹靂臺灣,http://45.11.92.170/play/smart/xziptv.php?id=1339
+美亞電影,http://45.11.92.170/play/smart/xziptv.php?id=375
+民視影劇,http://45.11.92.170/play/smart/xziptv.php?id=1023
+FOX CRIME,http://45.11.92.170/play/smart/xziptv.php?id=386
+FOX Family,http://45.11.92.170/play/smart/xziptv.php?id=383
+HBOSignature,http://45.11.92.170/play/smart/xziptv.php?id=329
+HBO Hits,http://45.11.92.170/play/smart/xziptv.php?id=330
+影迷數位電影,http://45.11.92.170/play/smart/xziptv.php?id=497
+龍華戲劇,http://45.11.92.170/play/smart/xziptv.php?id=365
+龍華經典,http://45.11.92.170/play/smart/xziptv.php?id=100
+龍翔時代,http://45.11.92.170/play/smart/xziptv.php?id=373
+AXN臺灣,http://45.11.92.170/play/smart/xziptv.php?id=423
+天映經典,http://45.11.92.170/play/smart/xziptv.php?id=2289
+天映經典,http://45.11.92.170/play/smart/xziptv.php?id=328
+AMC,http://45.11.92.170/play/smart/xziptv.php?id=92
+星衛電影,http://45.11.92.170/play/smart/xziptv.php?id=496
+公視戲劇,http://45.11.92.170/play/smart/xziptv.php?id=69
+光影歐洲,http://45.11.92.170/play/smart/xziptv.php?id=1157
+AXN亞洲,http://45.11.92.170/play/smart/xziptv.php?id=1066
+Trill恐怖電影,http://45.11.92.170/play/smart/xziptv.php?id=18
+HBO Family,http://45.11.92.170/play/smart/xziptv.php?id=331
+龍華電影,http://45.11.92.170/play/smart/xziptv.php?id=311
+華納電影,http://45.11.92.170/play/smart/xziptv.php?id=83
+金光布袋戲,http://45.11.92.170/play/smart/xziptv.php?id=1060
+衛視西片,http://45.11.92.170/play/smart/xziptv.php?id=369
+CATCHPLAY,http://45.11.92.170/play/smart/xziptv.php?id=362
+Blue Ant Extreme,http://45.11.92.170/play/smart/xziptv.php?id=103
+CHC高清電影,http://45.11.92.170/play/smart/xziptv.php?id=1345
+CHC動作電影,http://45.11.92.170/play/smart/xziptv.php?id=1346
+CHC家庭影院,http://45.11.92.170/play/smart/xziptv.php?id=1347
+CBN每日影院,http://45.11.92.170/play/smart/xziptv.php?id=1348
+SETONE,http://45.11.92.170/play/smart/xziptv.php?id=1349
+GEM,http://45.11.92.170/play/smart/xziptv.php?id=1350
+廣東影視,http://45.11.92.170/play/smart/xziptv.php?id=1499
+嶺南戲曲,http://45.11.92.170/play/smart/xziptv.php?id=1502
+UBLIVE-體育頻道,#genre#
+緯來體育,http://45.11.92.170/play/smart/xziptv.php?id=52
+緯來體育,http://45.11.92.170/play/smart/xziptv.php?id=118
+FOX Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=1131
+FOX Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=1132
+FOX Sport 3,http://45.11.92.170/play/smart/xziptv.php?id=376
+Eleven Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=1133
+Eleven Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=301
+ELEVEN SPORTS PLUS,http://45.11.92.170/play/smart/xziptv.php?id=419
+ELTA體育1,http://45.11.92.170/play/smart/xziptv.php?id=192
+ELTA體育2,http://45.11.92.170/play/smart/xziptv.php?id=193
+ELTA體育3,http://45.11.92.170/play/smart/xziptv.php?id=194
+Z頻道,http://45.11.92.170/play/smart/xziptv.php?id=1130
+博斯無限,http://45.11.92.170/play/smart/xziptv.php?id=381
+博斯無限2,http://45.11.92.170/play/smart/xziptv.php?id=426
+博斯網球,http://45.11.92.170/play/smart/xziptv.php?id=498
+博斯高球1,http://45.11.92.170/play/smart/xziptv.php?id=377
+博斯高球2,http://45.11.92.170/play/smart/xziptv.php?id=378
+博斯運動1,http://45.11.92.170/play/smart/xziptv.php?id=379
+博斯運動2,http://45.11.92.170/play/smart/xziptv.php?id=380
+TRACE Sport Stars,http://45.11.92.170/play/smart/xziptv.php?id=1037
+智林體育,http://45.11.92.170/play/smart/xziptv.php?id=82
+時尚運動X,http://45.11.92.170/play/smart/xziptv.php?id=71
+歐洲體育,http://45.11.92.170/play/smart/xziptv.php?id=1342
+Edge Sport,http://45.11.92.170/play/smart/xziptv.php?id=1341
+Ginx電競,http://45.11.92.170/play/smart/xziptv.php?id=425
+NOW SPORTS,http://45.11.92.170/play/smart/xziptv.php?id=1358
+風雲足球,http://45.11.92.170/play/smart/xziptv.php?id=463
+魅力足球,http://45.11.92.170/play/smart/xziptv.php?id=464
+高爾夫,http://45.11.92.170/play/smart/xziptv.php?id=1503
+jsport1,http://45.11.92.170/play/smart/xziptv.php?id=129
+jsport2,http://45.11.92.170/play/smart/xziptv.php?id=130
+jsport3,http://45.11.92.170/play/smart/xziptv.php?id=131
+jsport4,http://45.11.92.170/play/smart/xziptv.php?id=132
+BT Sport ESPN,http://45.11.92.170/play/smart/xziptv.php?id=168
+BT Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=166
+BT Sport 3,http://45.11.92.170/play/smart/xziptv.php?id=167
+BT Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=165
+Sky Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=171
+Sky Sports 1,http://45.11.92.170/play/smart/xziptv.php?id=172
+Sky Sports F1,http://45.11.92.170/play/smart/xziptv.php?id=182
+Sky Sport 3,http://45.11.92.170/play/smart/xziptv.php?id=183
+Sky Sport 4,http://45.11.92.170/play/smart/xziptv.php?id=417
+Sky Sport 5,http://45.11.92.170/play/smart/xziptv.php?id=418
+Astro Sp2,http://45.11.92.170/play/smart/xziptv.php?id=445
+Astro Sp3,http://45.11.92.170/play/smart/xziptv.php?id=446
+Astro Sp4,http://45.11.92.170/play/smart/xziptv.php?id=447
+Fox Sport 1 vn,http://45.11.92.170/play/smart/xziptv.php?id=2264
+Fox Sport 2 vn,http://45.11.92.170/play/smart/xziptv.php?id=2265
+Fox Sport 3 vn,http://45.11.92.170/play/smart/xziptv.php?id=2266
+UBLIVE-紀實頻道,#genre#
+TVN,http://45.11.92.170/play/smart/xziptv.php?id=1583
+EYE旅遊,http://45.11.92.170/play/smart/xziptv.php?id=1494
+國家地理,http://45.11.92.170/play/smart/xziptv.php?id=302
+探索頻道,http://45.11.92.170/play/smart/xziptv.php?id=1035
+TLC旅遊生活,http://45.11.92.170/play/smart/xziptv.php?id=102
+TLC,http://45.11.92.170/play/smart/xziptv.php?id=2275
+動物星球,http://45.11.92.170/play/smart/xziptv.php?id=367
+民視旅遊,http://45.11.92.170/play/smart/xziptv.php?id=78
+探索亞洲,http://45.11.92.170/play/smart/xziptv.php?id=306
+探索科學,http://45.11.92.170/play/smart/xziptv.php?id=343
+國家野生,http://45.11.92.170/play/smart/xziptv.php?id=1038
+探索EVE,http://45.11.92.170/play/smart/xziptv.php?id=1036
+History,http://45.11.92.170/play/smart/xziptv.php?id=116
+BBC Lifestyle,http://45.11.92.170/play/smart/xziptv.php?id=424
+視納華仁紀實,http://45.11.92.170/play/smart/xziptv.php?id=91
+美食星球,http://45.11.92.170/play/smart/xziptv.php?id=1360
+BBC EARTH,http://45.11.92.170/play/smart/xziptv.php?id=97
+探索動力DMAX,http://45.11.92.170/play/smart/xziptv.php?id=335
+Pet Club,http://45.11.92.170/play/smart/xziptv.php?id=368
+國家人文,http://45.11.92.170/play/smart/xziptv.php?id=334
+國家地理悠人,http://45.11.92.170/play/smart/xziptv.php?id=114
+NASA TV,http://45.11.92.170/play/smart/xziptv.php?id=25
+Earth Views,http://45.11.92.170/play/smart/xziptv.php?id=1017
+NASA Live,http://45.11.92.170/play/smart/xziptv.php?id=196
+Astronaut Spacewalk Earth,http://45.11.92.170/play/smart/xziptv.php?id=1026
+TLC,http://45.11.92.170/play/smart/xziptv.php?id=1206
+UBLIVE-少兒頻道,#genre#
+亞洲旅遊,http://45.11.92.170/play/smart/xziptv.php?id=2299
+CoComelon,http://45.11.92.170/play/smart/xziptv.php?id=2270
+BabyBus,http://45.11.92.170/play/smart/xziptv.php?id=2150
+Talking Tom,http://45.11.92.170/play/smart/xziptv.php?id=20
+Peppa Pig,http://45.11.92.170/play/smart/xziptv.php?id=1344
+CN卡通,http://45.11.92.170/play/smart/xziptv.php?id=107
+MOMO親子台,http://45.11.92.170/play/smart/xziptv.php?id=1149
+MOMO親子,http://45.11.92.170/play/smart/xziptv.php?id=1126
+YOYO TV,http://45.11.92.170/play/smart/xziptv.php?id=293
+東森幼幼,http://45.11.92.170/play/smart/xziptv.php?id=371
+Animax,http://45.11.92.170/play/smart/xziptv.php?id=59
+達文西,http://45.11.92.170/play/smart/xziptv.php?id=68
+曼迪日本,http://45.11.92.170/play/smart/xziptv.php?id=316
+靖洋卡通,http://45.11.92.170/play/smart/xziptv.php?id=348
+BabyFirst,http://45.11.92.170/play/smart/xziptv.php?id=2274
+i-Fun動漫,http://45.11.92.170/play/smart/xziptv.php?id=1127
+愛放2,http://45.11.92.170/play/smart/xziptv.php?id=299
+靖天卡通,http://45.11.92.170/play/smart/xziptv.php?id=344
+Nick Jr.,http://45.11.92.170/play/smart/xziptv.php?id=50
+nick Jr 台湾版,http://45.11.92.170/play/smart/xziptv.php?id=2281
+空中英語教室,http://45.11.92.170/play/smart/xziptv.php?id=313
+ELTV生活英語,http://45.11.92.170/play/smart/xziptv.php?id=323
+龍華動畫,http://45.11.92.170/play/smart/xziptv.php?id=366
+Baby TV,http://45.11.92.170/play/smart/xziptv.php?id=1129
+Treehouse,http://45.11.92.170/play/smart/xziptv.php?id=55
+Nickj,http://45.11.92.170/play/smart/xziptv.php?id=53
+Disney,http://45.11.92.170/play/smart/xziptv.php?id=5
+Disneyxd,http://45.11.92.170/play/smart/xziptv.php?id=31
+Disneyj,http://45.11.92.170/play/smart/xziptv.php?id=47
+Boomerang,http://45.11.92.170/play/smart/xziptv.php?id=57
+BBC CBeebies,http://45.11.92.170/play/smart/xziptv.php?id=1588
+Dreamworks,http://45.11.92.170/play/smart/xziptv.php?id=48
+MY KIDS,http://45.11.92.170/play/smart/xziptv.php?id=1495
+廣東少兒,http://45.11.92.170/play/smart/xziptv.php?id=1500
+嘉佳卡通,http://45.11.92.170/play/smart/xziptv.php?id=1501
+BabyTV,http://45.11.92.170/play/smart/xziptv.php?id=1241
+UBLIVE-音樂宗教,#genre#
+好消息,http://45.11.92.170/play/smart/xziptv.php?id=104
+好消息2,http://45.11.92.170/play/smart/xziptv.php?id=363
+lofi hip hop,http://45.11.92.170/play/smart/xziptv.php?id=1594
+Channel V,http://45.11.92.170/play/smart/xziptv.php?id=151
+Relaxing Jazz Piano,http://45.11.92.170/play/smart/xziptv.php?id=1351
+Beautiful Piano Music,http://45.11.92.170/play/smart/xziptv.php?id=1361
+One World Radio,http://45.11.92.170/play/smart/xziptv.php?id=1153
+Mezzo Live,http://45.11.92.170/play/smart/xziptv.php?id=60
+Hit Fm,http://45.11.92.170/play/smart/xziptv.php?id=1021
+4K Nature,http://45.11.92.170/play/smart/xziptv.php?id=1015
+Coffee Jazz,http://45.11.92.170/play/smart/xziptv.php?id=1019
+Space Ambient,http://45.11.92.170/play/smart/xziptv.php?id=1005
+Rolling Cam Venice,http://45.11.92.170/play/smart/xziptv.php?id=1007
+大愛一臺,http://45.11.92.170/play/smart/xziptv.php?id=11
+大愛二臺,http://45.11.92.170/play/smart/xziptv.php?id=197
+M2O,http://45.11.92.170/play/smart/xziptv.php?id=94
+唯心電視,http://45.11.92.170/play/smart/xziptv.php?id=1150
+人間衛視,http://45.11.92.170/play/smart/xziptv.php?id=101
+Good Life Radio,http://45.11.92.170/play/smart/xziptv.php?id=1152
+大愛海外,http://45.11.92.170/play/smart/xziptv.php?id=184
+Medici Arts,http://45.11.92.170/play/smart/xziptv.php?id=188
+Rainy Jazz,http://45.11.92.170/play/smart/xziptv.php?id=1089
+Tropical House,http://45.11.92.170/play/smart/xziptv.php?id=1090
+Relaxing Music,http://45.11.92.170/play/smart/xziptv.php?id=1087
+Calm Piano Music,http://45.11.92.170/play/smart/xziptv.php?id=1088
+Trace Urban,http://45.11.92.170/play/smart/xziptv.php?id=1003
+佛衛慈悲台,http://45.11.92.170/play/smart/xziptv.php?id=1306
+生命電視,http://45.11.92.170/play/smart/xziptv.php?id=1124
+華藏電視,http://45.11.92.170/play/smart/xziptv.php?id=1053
+海豚綜合,http://45.11.92.170/play/smart/xziptv.php?id=1505
+UBLIVE-大陸頻道,#genre#
+CCTV1,http://45.11.92.170/play/smart/xziptv.php?id=200
+CCTV2,http://45.11.92.170/play/smart/xziptv.php?id=201
+CCTV3,http://45.11.92.170/play/smart/xziptv.php?id=202
+CCTV4,http://45.11.92.170/play/smart/xziptv.php?id=203
+CCTV5,http://45.11.92.170/play/smart/xziptv.php?id=204
+CCTV5plus,http://45.11.92.170/play/smart/xziptv.php?id=205
+CCTV6,http://45.11.92.170/play/smart/xziptv.php?id=206
+CCTV7,http://45.11.92.170/play/smart/xziptv.php?id=207
+CCTV8,http://45.11.92.170/play/smart/xziptv.php?id=208
+CCTV9,http://45.11.92.170/play/smart/xziptv.php?id=209
+CCTV10,http://45.11.92.170/play/smart/xziptv.php?id=210
+CCTV11,http://45.11.92.170/play/smart/xziptv.php?id=211
+CCTV12,http://45.11.92.170/play/smart/xziptv.php?id=212
+CCTV13,http://45.11.92.170/play/smart/xziptv.php?id=213
+CCTV14,http://45.11.92.170/play/smart/xziptv.php?id=214
+CCTV15,http://45.11.92.170/play/smart/xziptv.php?id=215
+福州电视,http://45.11.92.170/play/smart/xziptv.php?id=216
+浙江卫视,http://45.11.92.170/play/smart/xziptv.php?id=217
+江苏卫视,http://45.11.92.170/play/smart/xziptv.php?id=218
+南方卫视,http://45.11.92.170/play/smart/xziptv.php?id=219
+北京卫视,http://45.11.92.170/play/smart/xziptv.php?id=220
+CCTVNEWS,http://45.11.92.170/play/smart/xziptv.php?id=221
+CCTV娱乐,http://45.11.92.170/play/smart/xziptv.php?id=222
+海峡卫视,http://45.11.92.170/play/smart/xziptv.php?id=223
+东方卫视,http://45.11.92.170/play/smart/xziptv.php?id=224
+湖南卫视,http://45.11.92.170/play/smart/xziptv.php?id=226
+东南卫视,http://45.11.92.170/play/smart/xziptv.php?id=228
+辽宁卫视,http://45.11.92.170/play/smart/xziptv.php?id=229
+深圳卫视,http://45.11.92.170/play/smart/xziptv.php?id=230
+广东卫视,http://45.11.92.170/play/smart/xziptv.php?id=231
+安徽卫视,http://45.11.92.170/play/smart/xziptv.php?id=232
+四川卫视,http://45.11.92.170/play/smart/xziptv.php?id=233
+山东卫视,http://45.11.92.170/play/smart/xziptv.php?id=234
+廣東影視,http://45.11.92.170/play/smart/xziptv.php?id=1499
+廣東少兒,http://45.11.92.170/play/smart/xziptv.php?id=1500
+嘉佳卡通,http://45.11.92.170/play/smart/xziptv.php?id=1501
+嶺南戲曲,http://45.11.92.170/play/smart/xziptv.php?id=1502
+高爾夫,http://45.11.92.170/play/smart/xziptv.php?id=1503
+福州电视台,http://45.11.92.170/play/smart/xziptv.php?id=2297
+福建电视台,http://45.11.92.170/play/smart/xziptv.php?id=2296
+青田电视台,http://45.11.92.170/play/smart/xziptv.php?id=2295
+温州电视台,http://45.11.92.170/play/smart/xziptv.php?id=2294
+UBLIVE-にっぽん,#genre#
+フジone,http://45.11.92.170/play/smart/xziptv.php?id=2300
+フジ two,http://45.11.92.170/play/smart/xziptv.php?id=2301
+G+,http://45.11.92.170/play/smart/xziptv.php?id=2298
+テレ朝チャンネル1,http://45.11.92.170/play/smart/xziptv.php?id=2271
+エンタメーテレ,http://45.11.92.170/play/smart/xziptv.php?id=2272
+NHK総合,http://45.11.92.170/play/smart/xziptv.php?id=2153
+NHK教育,http://45.11.92.170/play/smart/xziptv.php?id=2198
+日本テレビ,http://45.11.92.170/play/smart/xziptv.php?id=2199
+テレビasahi,http://45.11.92.170/play/smart/xziptv.php?id=2200
+TBS,http://45.11.92.170/play/smart/xziptv.php?id=2201
+テレビ東京,http://45.11.92.170/play/smart/xziptv.php?id=2202
+フジテレビ,http://45.11.92.170/play/smart/xziptv.php?id=2203
+TOKYO MX 1,http://45.11.92.170/play/smart/xziptv.php?id=2204
+TOKYO MX 2,http://45.11.92.170/play/smart/xziptv.php?id=2205
+SUN,http://45.11.92.170/play/smart/xziptv.php?id=2206
+毎日放送,http://45.11.92.170/play/smart/xziptv.php?id=2207
+ABC,http://45.11.92.170/play/smart/xziptv.php?id=2208
+テレビ大阪 TVO,http://45.11.92.170/play/smart/xziptv.php?id=2209
+Kansai TV,http://45.11.92.170/play/smart/xziptv.php?id=2210
+YTV,http://45.11.92.170/play/smart/xziptv.php?id=2211
+WOW1,http://45.11.92.170/play/smart/xziptv.php?id=2212
+WOW2,http://45.11.92.170/play/smart/xziptv.php?id=2213
+WOW3,http://45.11.92.170/play/smart/xziptv.php?id=2214
+STAR1,http://45.11.92.170/play/smart/xziptv.php?id=2215
+STAR2,http://45.11.92.170/play/smart/xziptv.php?id=2216
+STAR3,http://45.11.92.170/play/smart/xziptv.php?id=2217
+BSスカパー,http://45.11.92.170/play/smart/xziptv.php?id=2218
+BS日本映画専門Ch,http://45.11.92.170/play/smart/xziptv.php?id=2219
+WOWOWプラス,http://45.11.92.170/play/smart/xziptv.php?id=2220
+Disney,http://45.11.92.170/play/smart/xziptv.php?id=2221
+MTV,http://45.11.92.170/play/smart/xziptv.php?id=2222
+MUSIC ON! TV,http://45.11.92.170/play/smart/xziptv.php?id=2223
+チャンネルNECO,http://45.11.92.170/play/smart/xziptv.php?id=2224
+NHK World,http://45.11.92.170/play/smart/xziptv.php?id=117
+NHK-G,http://45.11.92.170/play/smart/xziptv.php?id=121
+NHKE,http://45.11.92.170/play/smart/xziptv.php?id=120
+BS-TBS,http://45.11.92.170/play/smart/xziptv.php?id=242
+BSプレミアム,http://45.11.92.170/play/smart/xziptv.php?id=239
+BS日テレ,http://45.11.92.170/play/smart/xziptv.php?id=240
+BS朝日,http://45.11.92.170/play/smart/xziptv.php?id=241
+BSテレビ東京,http://45.11.92.170/play/smart/xziptv.php?id=243
+BS-FUJI,http://45.11.92.170/play/smart/xziptv.php?id=244
+BS1,http://45.11.92.170/play/smart/xziptv.php?id=128
+関西テレビ,http://45.11.92.170/play/smart/xziptv.php?id=235
+サンテレビ,http://45.11.92.170/play/smart/xziptv.php?id=238
+読売テレビ,http://45.11.92.170/play/smart/xziptv.php?id=198
+旅チャンネル,http://45.11.92.170/play/smart/xziptv.php?id=292
+ABC朝日,http://45.11.92.170/play/smart/xziptv.php?id=237
+時代劇の専門家,http://45.11.92.170/play/smart/xziptv.php?id=287
+TV Tokyo,http://45.11.92.170/play/smart/xziptv.php?id=123
+jsport1,http://45.11.92.170/play/smart/xziptv.php?id=129
+jsport2,http://45.11.92.170/play/smart/xziptv.php?id=130
+jsport3,http://45.11.92.170/play/smart/xziptv.php?id=131
+jsport4,http://45.11.92.170/play/smart/xziptv.php?id=132
+FU JI,http://45.11.92.170/play/smart/xziptv.php?id=122
+TV asahi,http://45.11.92.170/play/smart/xziptv.php?id=125
+大阪TV,http://45.11.92.170/play/smart/xziptv.php?id=126
+wowo1,http://45.11.92.170/play/smart/xziptv.php?id=133
+wowo2,http://45.11.92.170/play/smart/xziptv.php?id=134
+wowo3,http://45.11.92.170/play/smart/xziptv.php?id=135
+STAR1,http://45.11.92.170/play/smart/xziptv.php?id=136
+STAR2,http://45.11.92.170/play/smart/xziptv.php?id=137
+STAR3,http://45.11.92.170/play/smart/xziptv.php?id=138
+ABC朝日,http://45.11.92.170/play/smart/xziptv.php?id=127
+NTV,http://45.11.92.170/play/smart/xziptv.php?id=119
+NTV News24,http://45.11.92.170/play/smart/xziptv.php?id=42
+毎日放送,http://45.11.92.170/play/smart/xziptv.php?id=199
+Golf Network,http://45.11.92.170/play/smart/xziptv.php?id=249
+HTB北海道,http://45.11.92.170/play/smart/xziptv.php?id=39
+GaoRa,http://45.11.92.170/play/smart/xziptv.php?id=296
+JapaNews24,http://45.11.92.170/play/smart/xziptv.php?id=1043
+TBS,http://45.11.92.170/play/smart/xziptv.php?id=124
+animax,http://45.11.92.170/play/smart/xziptv.php?id=139
+Green,http://45.11.92.170/play/smart/xziptv.php?id=140
+KIDS,http://45.11.92.170/play/smart/xziptv.php?id=289
+衛星劇場,http://45.11.92.170/play/smart/xziptv.php?id=298
+KBC NEWS24,http://45.11.92.170/play/smart/xziptv.php?id=297
+CN,http://45.11.92.170/play/smart/xziptv.php?id=1296
+SKY A,http://45.11.92.170/play/smart/xziptv.php?id=247
+Discovery,http://45.11.92.170/play/smart/xziptv.php?id=290
+MUSIC JAPAN,http://45.11.92.170/play/smart/xziptv.php?id=288
+UBLIVE-한국,#genre#
+TVN,http://45.11.92.170/play/smart/xziptv.php?id=295
+연합뉴스TV,http://45.11.92.170/play/smart/xziptv.php?id=1039
+KBS WORLD 24,http://45.11.92.170/play/smart/xziptv.php?id=1040
+YTN,http://45.11.92.170/play/smart/xziptv.php?id=1061
+KBS1,http://45.11.92.170/play/smart/xziptv.php?id=174
+KBS2,http://45.11.92.170/play/smart/xziptv.php?id=250
+MBC,http://45.11.92.170/play/smart/xziptv.php?id=251
+SBS,http://45.11.92.170/play/smart/xziptv.php?id=252
+SBS FUNE,http://45.11.92.170/play/smart/xziptv.php?id=254
+SBS CNBC,http://45.11.92.170/play/smart/xziptv.php?id=255
+MBN,http://45.11.92.170/play/smart/xziptv.php?id=257
+KBS24,http://45.11.92.170/play/smart/xziptv.php?id=260
+KBSW,http://45.11.92.170/play/smart/xziptv.php?id=1100
+Channel A,http://45.11.92.170/play/smart/xziptv.php?id=258
+SBS PLus,http://45.11.92.170/play/smart/xziptv.php?id=262
+KBSNLife,http://45.11.92.170/play/smart/xziptv.php?id=263
+KBSN Plus,http://45.11.92.170/play/smart/xziptv.php?id=264
+KBSKids,http://45.11.92.170/play/smart/xziptv.php?id=1582
+MBC스포츠,http://45.11.92.170/play/smart/xziptv.php?id=265
+JTBC골프,http://45.11.92.170/play/smart/xziptv.php?id=268
+JTBC,http://45.11.92.170/play/smart/xziptv.php?id=253
+KBS joy,http://45.11.92.170/play/smart/xziptv.php?id=1154
+OCN,http://45.11.92.170/play/smart/xziptv.php?id=488
+iNet,http://45.11.92.170/play/smart/xziptv.php?id=490
+CTS,http://45.11.92.170/play/smart/xziptv.php?id=491
+Spotv,http://45.11.92.170/play/smart/xziptv.php?id=266
+Spotv2,http://45.11.92.170/play/smart/xziptv.php?id=267
+THE K-POP,http://45.11.92.170/play/smart/xziptv.php?id=493
+SBS골프,http://45.11.92.170/play/smart/xziptv.php?id=486
+한국경제,http://45.11.92.170/play/smart/xziptv.php?id=1064
+YTN,http://45.11.92.170/play/smart/xziptv.php?id=1065
+YTN dmb,http://45.11.92.170/play/smart/xziptv.php?id=492
+YTN 사이언스,http://45.11.92.170/play/smart/xziptv.php?id=1605
+CNTV,http://45.11.92.170/play/smart/xziptv.php?id=256
+OCNMOVIES,http://45.11.92.170/play/smart/xziptv.php?id=1020
+TV CHOSUN,http://45.11.92.170/play/smart/xziptv.php?id=489
+SBS Sports,http://45.11.92.170/play/smart/xziptv.php?id=487
+Mnet,http://45.11.92.170/play/smart/xziptv.php?id=1136
+MBCevery1,http://45.11.92.170/play/smart/xziptv.php?id=476
+Tconvers,http://45.11.92.170/play/smart/xziptv.php?id=1134
+KBS Drama,http://45.11.92.170/play/smart/xziptv.php?id=1062
+채널A,http://45.11.92.170/play/smart/xziptv.php?id=1092
+EBS 2,http://45.11.92.170/play/smart/xziptv.php?id=1093
+EBS Kids,http://45.11.92.170/play/smart/xziptv.php?id=1094
+EBS English,http://45.11.92.170/play/smart/xziptv.php?id=1095
+EBSPlus 1,http://45.11.92.170/play/smart/xziptv.php?id=1096
+EBSPlus 2,http://45.11.92.170/play/smart/xziptv.php?id=1097
+EBS1,http://45.11.92.170/play/smart/xziptv.php?id=1098
+SBS Star,http://45.11.92.170/play/smart/xziptv.php?id=1101
+KBC,http://45.11.92.170/play/smart/xziptv.php?id=1307
+MTN,http://45.11.92.170/play/smart/xziptv.php?id=1504
+UBLIVE-美國頻道,#genre#
+CNN頭條新聞,http://45.11.92.170/play/smart/xziptv.php?id=43
+CNN國際新聞,http://45.11.92.170/play/smart/xziptv.php?id=420
+FOXHD,http://45.11.92.170/play/smart/xziptv.php?id=1506
+CNN,http://45.11.92.170/play/smart/xziptv.php?id=1507
+ABC News,http://45.11.92.170/play/smart/xziptv.php?id=1508
+NBC,http://45.11.92.170/play/smart/xziptv.php?id=1509
+Fox News,http://45.11.92.170/play/smart/xziptv.php?id=1510
+Fox Business,http://45.11.92.170/play/smart/xziptv.php?id=1511
+Hbo Family,http://45.11.92.170/play/smart/xziptv.php?id=1512
+Hbo East,http://45.11.92.170/play/smart/xziptv.php?id=1513
+Hbo One,http://45.11.92.170/play/smart/xziptv.php?id=1514
+Travel ch,http://45.11.92.170/play/smart/xziptv.php?id=1515
+Coking,http://45.11.92.170/play/smart/xziptv.php?id=1516
+Bloomberg,http://45.11.92.170/play/smart/xziptv.php?id=1517
+Cinemax,http://45.11.92.170/play/smart/xziptv.php?id=1518
+Tennis chan,http://45.11.92.170/play/smart/xziptv.php?id=1519
+Nat Geo,http://45.11.92.170/play/smart/xziptv.php?id=1520
+Nat Geo Wild,http://45.11.92.170/play/smart/xziptv.php?id=1521
+Babytv,http://45.11.92.170/play/smart/xziptv.php?id=1522
+Mlb net,http://45.11.92.170/play/smart/xziptv.php?id=1523
+TNT,http://45.11.92.170/play/smart/xziptv.php?id=1524
+Bravo,http://45.11.92.170/play/smart/xziptv.php?id=1525
+Food network,http://45.11.92.170/play/smart/xziptv.php?id=1526
+Fight network,http://45.11.92.170/play/smart/xziptv.php?id=1527
+Diy network,http://45.11.92.170/play/smart/xziptv.php?id=1528
+Discovery,http://45.11.92.170/play/smart/xziptv.php?id=1529
+History,http://45.11.92.170/play/smart/xziptv.php?id=1530
+World Fishing,http://45.11.92.170/play/smart/xziptv.php?id=1531
+VH1,http://45.11.92.170/play/smart/xziptv.php?id=1532
+TLC,http://45.11.92.170/play/smart/xziptv.php?id=1533
+NHL net,http://45.11.92.170/play/smart/xziptv.php?id=1534
+Hallmark,http://45.11.92.170/play/smart/xziptv.php?id=1535
+E,http://45.11.92.170/play/smart/xziptv.php?id=1536
+Syfy,http://45.11.92.170/play/smart/xziptv.php?id=1537
+HGTV,http://45.11.92.170/play/smart/xziptv.php?id=1538
+NBC Golf,http://45.11.92.170/play/smart/xziptv.php?id=1539
+law and crime,http://45.11.92.170/play/smart/xziptv.php?id=1540
+Msnbc,http://45.11.92.170/play/smart/xziptv.php?id=1541
+Goltv,http://45.11.92.170/play/smart/xziptv.php?id=1542
+TVG,http://45.11.92.170/play/smart/xziptv.php?id=1543
+Willow Cricket,http://45.11.92.170/play/smart/xziptv.php?id=1544
+TBS,http://45.11.92.170/play/smart/xziptv.php?id=1545
+MTV,http://45.11.92.170/play/smart/xziptv.php?id=1546
+PBS,http://45.11.92.170/play/smart/xziptv.php?id=1547
+WE TV,http://45.11.92.170/play/smart/xziptv.php?id=1550
+FX,http://45.11.92.170/play/smart/xziptv.php?id=1551
+Lifetime,http://45.11.92.170/play/smart/xziptv.php?id=1553
+Bet,http://45.11.92.170/play/smart/xziptv.php?id=1554
+CNBC,http://45.11.92.170/play/smart/xziptv.php?id=1555
+CW,http://45.11.92.170/play/smart/xziptv.php?id=1557
+Animal,http://45.11.92.170/play/smart/xziptv.php?id=1558
+AE,http://45.11.92.170/play/smart/xziptv.php?id=1559
+Freeform,http://45.11.92.170/play/smart/xziptv.php?id=1560
+Game Show Network,http://45.11.92.170/play/smart/xziptv.php?id=1562
+Investigation Discovery,http://45.11.92.170/play/smart/xziptv.php?id=1564
+Lifetime Movie Network,http://45.11.92.170/play/smart/xziptv.php?id=1565
+Showtime,http://45.11.92.170/play/smart/xziptv.php?id=1568
+StarZ,http://45.11.92.170/play/smart/xziptv.php?id=1569
+USA Network,http://45.11.92.170/play/smart/xziptv.php?id=1571
+wwe-network,http://45.11.92.170/play/smart/xziptv.php?id=1572
+Nickelodeon,http://45.11.92.170/play/smart/xziptv.php?id=1573
+DisneyJr,http://45.11.92.170/play/smart/xziptv.php?id=1578
+DisneyXD,http://45.11.92.170/play/smart/xziptv.php?id=1579
+Disney,http://45.11.92.170/play/smart/xziptv.php?id=1581
+NBC2,http://45.11.92.170/play/smart/xziptv.php?id=460
+Newsmax,http://45.11.92.170/play/smart/xziptv.php?id=156
+First TV,http://45.11.92.170/play/smart/xziptv.php?id=1143
+People,http://45.11.92.170/play/smart/xziptv.php?id=143
+Right Now,http://45.11.92.170/play/smart/xziptv.php?id=144
+Bloomberg Television,http://45.11.92.170/play/smart/xziptv.php?id=1058
+American Horrors,http://45.11.92.170/play/smart/xziptv.php?id=1054
+30A TV,http://45.11.92.170/play/smart/xziptv.php?id=1052
+Atlanta,http://45.11.92.170/play/smart/xziptv.php?id=1055
+Panama City,http://45.11.92.170/play/smart/xziptv.php?id=1056
+Pawleys Island,http://45.11.92.170/play/smart/xziptv.php?id=1057
+NewsNet,http://45.11.92.170/play/smart/xziptv.php?id=1216
+BT Sport ESPN,http://45.11.92.170/play/smart/xziptv.php?id=168
+BT Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=166
+BT Sport 3,http://45.11.92.170/play/smart/xziptv.php?id=167
+BT Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=165
+UBLIVE-美國測試,#genre#
+IFC,http://45.11.92.170/play/smart/xziptv.php?id=1362
+ESPN NEWS,http://45.11.92.170/play/smart/xziptv.php?id=1363
+CBS Sport,http://45.11.92.170/play/smart/xziptv.php?id=1364
+Fight Box,http://45.11.92.170/play/smart/xziptv.php?id=1365
+Fight Network,http://45.11.92.170/play/smart/xziptv.php?id=1366
+Sportsman,http://45.11.92.170/play/smart/xziptv.php?id=1367
+Outdoor,http://45.11.92.170/play/smart/xziptv.php?id=1368
+SEC Network,http://45.11.92.170/play/smart/xziptv.php?id=1369
+PBS Kids,http://45.11.92.170/play/smart/xziptv.php?id=1370
+WGN,http://45.11.92.170/play/smart/xziptv.php?id=1372
+FX,http://45.11.92.170/play/smart/xziptv.php?id=1373
+TruTV,http://45.11.92.170/play/smart/xziptv.php?id=1375
+Fuse,http://45.11.92.170/play/smart/xziptv.php?id=1376
+FX Movie,http://45.11.92.170/play/smart/xziptv.php?id=1380
+Comet,http://45.11.92.170/play/smart/xziptv.php?id=1381
+CNN USA,http://45.11.92.170/play/smart/xziptv.php?id=1102
+FOX News,http://45.11.92.170/play/smart/xziptv.php?id=1103
+NBC,http://45.11.92.170/play/smart/xziptv.php?id=1217
+FOX,http://45.11.92.170/play/smart/xziptv.php?id=1218
+CNBC,http://45.11.92.170/play/smart/xziptv.php?id=1106
+5 Star Max,http://45.11.92.170/play/smart/xziptv.php?id=1174
+Action Max,http://45.11.92.170/play/smart/xziptv.php?id=1175
+MoreMax,http://45.11.92.170/play/smart/xziptv.php?id=1176
+Hallmark Drama,http://45.11.92.170/play/smart/xziptv.php?id=1178
+Hallmark Movie,http://45.11.92.170/play/smart/xziptv.php?id=1179
+TCM,http://45.11.92.170/play/smart/xziptv.php?id=1180
+Starz in Black,http://45.11.92.170/play/smart/xziptv.php?id=1181
+ESPN 1,http://45.11.92.170/play/smart/xziptv.php?id=1182
+ESPN 2,http://45.11.92.170/play/smart/xziptv.php?id=1183
+NBC Sport,http://45.11.92.170/play/smart/xziptv.php?id=1184
+NBA TV US,http://45.11.92.170/play/smart/xziptv.php?id=1185
+Fox Sport 1,http://45.11.92.170/play/smart/xziptv.php?id=1186
+Fox Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=1187
+NFL Network,http://45.11.92.170/play/smart/xziptv.php?id=1189
+Golf,http://45.11.92.170/play/smart/xziptv.php?id=1190
+WWE,http://45.11.92.170/play/smart/xziptv.php?id=1191
+UFC PASS,http://45.11.92.170/play/smart/xziptv.php?id=1192
+Bein Sports USA,http://45.11.92.170/play/smart/xziptv.php?id=1195
+ESPN U,http://45.11.92.170/play/smart/xziptv.php?id=1196
+Big Ten Network,http://45.11.92.170/play/smart/xziptv.php?id=1197
+Discovery Channel,http://45.11.92.170/play/smart/xziptv.php?id=1198
+National Geographic,http://45.11.92.170/play/smart/xziptv.php?id=1200
+Animal Planet,http://45.11.92.170/play/smart/xziptv.php?id=1203
+History,http://45.11.92.170/play/smart/xziptv.php?id=1204
+SMITHSONIAN,http://45.11.92.170/play/smart/xziptv.php?id=1205
+TLC,http://45.11.92.170/play/smart/xziptv.php?id=1206
+Disney,http://45.11.92.170/play/smart/xziptv.php?id=1208
+Disney XD,http://45.11.92.170/play/smart/xziptv.php?id=1209
+Disney Junior,http://45.11.92.170/play/smart/xziptv.php?id=1210
+Cartoon Network US,http://45.11.92.170/play/smart/xziptv.php?id=1211
+Nick Junior,http://45.11.92.170/play/smart/xziptv.php?id=1213
+Boomerang,http://45.11.92.170/play/smart/xziptv.php?id=1214
+Universal Kids,http://45.11.92.170/play/smart/xziptv.php?id=1215
+CBS,http://45.11.92.170/play/smart/xziptv.php?id=1219
+CW,http://45.11.92.170/play/smart/xziptv.php?id=1220
+E!,http://45.11.92.170/play/smart/xziptv.php?id=1222
+LifeTime US,http://45.11.92.170/play/smart/xziptv.php?id=1226
+Arts and Entertainment,http://45.11.92.170/play/smart/xziptv.php?id=1227
+AMC,http://45.11.92.170/play/smart/xziptv.php?id=1228
+WE TV,http://45.11.92.170/play/smart/xziptv.php?id=1229
+USA Network,http://45.11.92.170/play/smart/xziptv.php?id=1230
+BET,http://45.11.92.170/play/smart/xziptv.php?id=1231
+Lifetime Movie Network,http://45.11.92.170/play/smart/xziptv.php?id=1232
+VH-1,http://45.11.92.170/play/smart/xziptv.php?id=1233
+OWN US,http://45.11.92.170/play/smart/xziptv.php?id=1235
+GSN,http://45.11.92.170/play/smart/xziptv.php?id=1236
+Cooking Channel,http://45.11.92.170/play/smart/xziptv.php?id=1238
+FYI,http://45.11.92.170/play/smart/xziptv.php?id=1240
+BabyTV,http://45.11.92.170/play/smart/xziptv.php?id=1241
+TVB1,http://45.11.92.170/play/smart/xziptv.php?id=1242
+TVB DRAMA,http://45.11.92.170/play/smart/xziptv.php?id=1243
+TVBJ1,http://45.11.92.170/play/smart/xziptv.php?id=1244
+TVBE,http://45.11.92.170/play/smart/xziptv.php?id=1245
+NOWTV,http://45.11.92.170/play/smart/xziptv.php?id=1246
+MSNBC,http://45.11.92.170/play/smart/xziptv.php?id=1104
+The Weather Nation,http://45.11.92.170/play/smart/xziptv.php?id=1105
+Bloomberg,http://45.11.92.170/play/smart/xziptv.php?id=1107
+Fox Business,http://45.11.92.170/play/smart/xziptv.php?id=1108
+HBO Comedy,http://45.11.92.170/play/smart/xziptv.php?id=1109
+HBO 1 US,http://45.11.92.170/play/smart/xziptv.php?id=1110
+HBO 2 US,http://45.11.92.170/play/smart/xziptv.php?id=1111
+HBO Signature,http://45.11.92.170/play/smart/xziptv.php?id=1112
+HBO Family,http://45.11.92.170/play/smart/xziptv.php?id=1113
+ShowTime 1,http://45.11.92.170/play/smart/xziptv.php?id=1114
+ShowTime 2,http://45.11.92.170/play/smart/xziptv.php?id=1115
+ShowCase US,http://45.11.92.170/play/smart/xziptv.php?id=1116
+Starz Comedy,http://45.11.92.170/play/smart/xziptv.php?id=1118
+Starz Edge,http://45.11.92.170/play/smart/xziptv.php?id=1119
+Starz Kids Family,http://45.11.92.170/play/smart/xziptv.php?id=1120
+Starz Encore,http://45.11.92.170/play/smart/xziptv.php?id=1121
+Starz Encore Westerns,http://45.11.92.170/play/smart/xziptv.php?id=1122
+UBLIVE-加拿大,#genre#
+CP 24 Canada,http://45.11.92.170/play/smart/xziptv.php?id=1247
+The Weather Network,http://45.11.92.170/play/smart/xziptv.php?id=1251
+CBC,http://45.11.92.170/play/smart/xziptv.php?id=1252
+CTV,http://45.11.92.170/play/smart/xziptv.php?id=1253
+CHCH,http://45.11.92.170/play/smart/xziptv.php?id=1256
+CTV 2,http://45.11.92.170/play/smart/xziptv.php?id=1257
+OMNI 1,http://45.11.92.170/play/smart/xziptv.php?id=1258
+OMNI 2,http://45.11.92.170/play/smart/xziptv.php?id=1259
+TVO,http://45.11.92.170/play/smart/xziptv.php?id=1260
+Discovery Canada,http://45.11.92.170/play/smart/xziptv.php?id=1261
+TLC Canada,http://45.11.92.170/play/smart/xziptv.php?id=1262
+Love Nature,http://45.11.92.170/play/smart/xziptv.php?id=1263
+Food Network Canada,http://45.11.92.170/play/smart/xziptv.php?id=1265
+Cooking Channel Canada,http://45.11.92.170/play/smart/xziptv.php?id=1266
+CTV Comedy,http://45.11.92.170/play/smart/xziptv.php?id=1267
+CTV Sci-Fi,http://45.11.92.170/play/smart/xziptv.php?id=1268
+Crave 1,http://45.11.92.170/play/smart/xziptv.php?id=1269
+Crave 2,http://45.11.92.170/play/smart/xziptv.php?id=1270
+Crave 3,http://45.11.92.170/play/smart/xziptv.php?id=1271
+TSN 3,http://45.11.92.170/play/smart/xziptv.php?id=1275
+TSN 4,http://45.11.92.170/play/smart/xziptv.php?id=1276
+TSN 5,http://45.11.92.170/play/smart/xziptv.php?id=1277
+SportNet ON,http://45.11.92.170/play/smart/xziptv.php?id=1278
+SportNet One,http://45.11.92.170/play/smart/xziptv.php?id=1279
+SportNet World,http://45.11.92.170/play/smart/xziptv.php?id=1280
+SportNet 360,http://45.11.92.170/play/smart/xziptv.php?id=1281
+NBA CA,http://45.11.92.170/play/smart/xziptv.php?id=1282
+TreeHouse,http://45.11.92.170/play/smart/xziptv.php?id=1283
+Teletoon,http://45.11.92.170/play/smart/xziptv.php?id=1284
+YTV,http://45.11.92.170/play/smart/xziptv.php?id=1285
+新時代東部,http://45.11.92.170/play/smart/xziptv.php?id=1286
+新時代西部,http://45.11.92.170/play/smart/xziptv.php?id=1287
+城市電視,http://45.11.92.170/play/smart/xziptv.php?id=1289
+新時代2,http://45.11.92.170/play/smart/xziptv.php?id=1288
+TSN 2,http://45.11.92.170/play/smart/xziptv.php?id=1274
+TSN 1,http://45.11.92.170/play/smart/xziptv.php?id=1273
+Global,http://45.11.92.170/play/smart/xziptv.php?id=1254
+City,http://45.11.92.170/play/smart/xziptv.php?id=1255
+HGTV Canada,http://45.11.92.170/play/smart/xziptv.php?id=1264
+Business Network News,http://45.11.92.170/play/smart/xziptv.php?id=1250
+CTV News,http://45.11.92.170/play/smart/xziptv.php?id=1249
+CBC News,http://45.11.92.170/play/smart/xziptv.php?id=1248
+Crave 4,http://45.11.92.170/play/smart/xziptv.php?id=1272
+UBLIVE-英國頻道,#genre#
+BBC World News,http://45.11.92.170/play/smart/xziptv.php?id=421
+BBC one,http://45.11.92.170/play/smart/xziptv.php?id=1382
+BBC four cbeebies,http://45.11.92.170/play/smart/xziptv.php?id=1383
+BBC three cbbc,http://45.11.92.170/play/smart/xziptv.php?id=1384
+BBC two,http://45.11.92.170/play/smart/xziptv.php?id=1385
+True entertainment,http://45.11.92.170/play/smart/xziptv.php?id=1386
+Discovery turbo,http://45.11.92.170/play/smart/xziptv.php?id=1387
+Sky greats,http://45.11.92.170/play/smart/xziptv.php?id=1388
+Channel 5,http://45.11.92.170/play/smart/xziptv.php?id=1391
+BBC red button,http://45.11.92.170/play/smart/xziptv.php?id=1393
+Citv,http://45.11.92.170/play/smart/xziptv.php?id=1394
+E4,http://45.11.92.170/play/smart/xziptv.php?id=1397
+Alibi,http://45.11.92.170/play/smart/xziptv.php?id=1398
+CBS action,http://45.11.92.170/play/smart/xziptv.php?id=1399
+5 star,http://45.11.92.170/play/smart/xziptv.php?id=1400
+Itv 1,http://45.11.92.170/play/smart/xziptv.php?id=1401
+Itv 2,http://45.11.92.170/play/smart/xziptv.php?id=1402
+Itv 3,http://45.11.92.170/play/smart/xziptv.php?id=1403
+Itv 4,http://45.11.92.170/play/smart/xziptv.php?id=1404
+4seven,http://45.11.92.170/play/smart/xziptv.php?id=1405
+Sky docu,http://45.11.92.170/play/smart/xziptv.php?id=1406
+Russia Today,http://45.11.92.170/play/smart/xziptv.php?id=1407
+Comedy Central,http://45.11.92.170/play/smart/xziptv.php?id=1408
+Rte1,http://45.11.92.170/play/smart/xziptv.php?id=1409
+Rte2,http://45.11.92.170/play/smart/xziptv.php?id=1410
+Premiersp,http://45.11.92.170/play/smart/xziptv.php?id=1411
+Freesports,http://45.11.92.170/play/smart/xziptv.php?id=1412
+History,http://45.11.92.170/play/smart/xziptv.php?id=1413
+CNBC,http://45.11.92.170/play/smart/xziptv.php?id=1414
+Aljazeera,http://45.11.92.170/play/smart/xziptv.php?id=1415
+Tv3 virgin,http://45.11.92.170/play/smart/xziptv.php?id=1416
+Home,http://45.11.92.170/play/smart/xziptv.php?id=1417
+Dave,http://45.11.92.170/play/smart/xziptv.php?id=1418
+Film 4,http://45.11.92.170/play/smart/xziptv.php?id=1419
+More 4,http://45.11.92.170/play/smart/xziptv.php?id=1420
+Food Network,http://45.11.92.170/play/smart/xziptv.php?id=1421
+Gold,http://45.11.92.170/play/smart/xziptv.php?id=1422
+Syfy,http://45.11.92.170/play/smart/xziptv.php?id=1423
+Discovery,http://45.11.92.170/play/smart/xziptv.php?id=1424
+Discovery science,http://45.11.92.170/play/smart/xziptv.php?id=1425
+Discovery investigation,http://45.11.92.170/play/smart/xziptv.php?id=1426
+Tg4,http://45.11.92.170/play/smart/xziptv.php?id=1427
+Real live,http://45.11.92.170/play/smart/xziptv.php?id=1428
+Cartoonito,http://45.11.92.170/play/smart/xziptv.php?id=1429
+Watch,http://45.11.92.170/play/smart/xziptv.php?id=1430
+Challenge,http://45.11.92.170/play/smart/xziptv.php?id=1431
+Vault,http://45.11.92.170/play/smart/xziptv.php?id=1432
+Pick,http://45.11.92.170/play/smart/xziptv.php?id=1433
+Nat Geo Wild,http://45.11.92.170/play/smart/xziptv.php?id=1434
+Nick jr,http://45.11.92.170/play/smart/xziptv.php?id=1435
+Quest,http://45.11.92.170/play/smart/xziptv.php?id=1436
+Sky News,http://45.11.92.170/play/smart/xziptv.php?id=1041
+Sky News,http://45.11.92.170/play/smart/xziptv.php?id=169
+BBC News,http://45.11.92.170/play/smart/xziptv.php?id=164
+BBC World News,http://45.11.92.170/play/smart/xziptv.php?id=1308
+Sky Sport 2,http://45.11.92.170/play/smart/xziptv.php?id=171
+Sky Sports 1,http://45.11.92.170/play/smart/xziptv.php?id=172
+Sky Sports F1,http://45.11.92.170/play/smart/xziptv.php?id=182
+Sky Sport 3,http://45.11.92.170/play/smart/xziptv.php?id=183
+Sky Sport 4,http://45.11.92.170/play/smart/xziptv.php?id=417
+Sky Sport 5,http://45.11.92.170/play/smart/xziptv.php?id=418
+Nickelodeon UK,http://45.11.92.170/play/smart/xziptv.php?id=1305
+UBLIVE-意大利,#genre#
+Rai 3,http://45.11.92.170/play/smart/xziptv.php?id=2158
+Rete 4,http://45.11.92.170/play/smart/xziptv.php?id=2161
+Rai News 24,http://45.11.92.170/play/smart/xziptv.php?id=2162
+Mediaset Extra,http://45.11.92.170/play/smart/xziptv.php?id=2163
+Italia 2,http://45.11.92.170/play/smart/xziptv.php?id=2166
+Canale 5,http://45.11.92.170/play/smart/xziptv.php?id=2168
+Rai MOVIE,http://45.11.92.170/play/smart/xziptv.php?id=2169
+TOP CALCIO 24,http://45.11.92.170/play/smart/xziptv.php?id=1595
+Rai Italia,http://45.11.92.170/play/smart/xziptv.php?id=1596
+Sky sport uno,http://45.11.92.170/play/smart/xziptv.php?id=1597
+Sky sport serie A,http://45.11.92.170/play/smart/xziptv.php?id=1598
+Inter TV,http://45.11.92.170/play/smart/xziptv.php?id=1599
+Deejay TV,http://45.11.92.170/play/smart/xziptv.php?id=1601
+Style Channel,http://45.11.92.170/play/smart/xziptv.php?id=1602
+Rai 1,http://45.11.92.170/play/smart/xziptv.php?id=1610
+Rai 2,http://45.11.92.170/play/smart/xziptv.php?id=1611
+Rai 3,http://45.11.92.170/play/smart/xziptv.php?id=1612
+Rai Sport,http://45.11.92.170/play/smart/xziptv.php?id=1613
+Rai Italia,http://45.11.92.170/play/smart/xziptv.php?id=1614
+Canale 5,http://45.11.92.170/play/smart/xziptv.php?id=1615
+Italia 1,http://45.11.92.170/play/smart/xziptv.php?id=1616
+Food Network,http://45.11.92.170/play/smart/xziptv.php?id=1617
+HGTV,http://45.11.92.170/play/smart/xziptv.php?id=1618
+Sky Atlantic,http://45.11.92.170/play/smart/xziptv.php?id=1619
+RAI SPORT+,http://45.11.92.170/play/smart/xziptv.php?id=1794
+UBLIVE-新馬頻道,#genre#
+CNA 24,http://45.11.92.170/play/smart/xziptv.php?id=15
+CERIA,http://45.11.92.170/play/smart/xziptv.php?id=1161
+TVN,http://45.11.92.170/play/smart/xziptv.php?id=1170
+Arena,http://45.11.92.170/play/smart/xziptv.php?id=1172
+CRICKET,http://45.11.92.170/play/smart/xziptv.php?id=1173
+Astro Awani,http://45.11.92.170/play/smart/xziptv.php?id=440
+天映頻道,http://45.11.92.170/play/smart/xziptv.php?id=441
+全佳,http://45.11.92.170/play/smart/xziptv.php?id=427
+KIX,http://45.11.92.170/play/smart/xziptv.php?id=430
+歡喜,http://45.11.92.170/play/smart/xziptv.php?id=432
+Suria,http://45.11.92.170/play/smart/xziptv.php?id=434
+雙星,http://45.11.92.170/play/smart/xziptv.php?id=431
+AEC,http://45.11.92.170/play/smart/xziptv.php?id=433
+華麗,http://45.11.92.170/play/smart/xziptv.php?id=429
+TV2,http://45.11.92.170/play/smart/xziptv.php?id=436
+TV3,http://45.11.92.170/play/smart/xziptv.php?id=437
+TV9,http://45.11.92.170/play/smart/xziptv.php?id=438
+NTV7,http://45.11.92.170/play/smart/xziptv.php?id=439
+TV8,http://45.11.92.170/play/smart/xziptv.php?id=442
+小太陽,http://45.11.92.170/play/smart/xziptv.php?id=443
+AOD,http://45.11.92.170/play/smart/xziptv.php?id=428
+TV1,http://45.11.92.170/play/smart/xziptv.php?id=435
+Astro Sp2,http://45.11.92.170/play/smart/xziptv.php?id=445
+Astro Sp3,http://45.11.92.170/play/smart/xziptv.php?id=446
+Astro Sp4,http://45.11.92.170/play/smart/xziptv.php?id=447
+UBLIVE-馬來新頻,#genre#
+ASTRO RIA HD,http://45.11.92.170/play/smart/xziptv.php?id=1844
+ASTRO PRIMA HD,http://45.11.92.170/play/smart/xziptv.php?id=1845
+ASTRO OASIS HD,http://45.11.92.170/play/smart/xziptv.php?id=1846
+ASTRO WARNA HD,http://45.11.92.170/play/smart/xziptv.php?id=1847
+ASTRO NAURA,http://45.11.92.170/play/smart/xziptv.php?id=1848
+TV ALHIJRAH,http://45.11.92.170/play/smart/xziptv.php?id=1849
+GO SHOP RUUMA,http://45.11.92.170/play/smart/xziptv.php?id=1850
+GO SHOP GAAYA,http://45.11.92.170/play/smart/xziptv.php?id=1851
+SUN MUSIC,http://45.11.92.170/play/smart/xziptv.php?id=1852
+CHUTTI TV,http://45.11.92.170/play/smart/xziptv.php?id=1853
+ADITHYA,http://45.11.92.170/play/smart/xziptv.php?id=1854
+ZEE Tamil HD,http://45.11.92.170/play/smart/xziptv.php?id=1855
+VINMEEN HD,http://45.11.92.170/play/smart/xziptv.php?id=1856
+STAR VIJAY HD,http://45.11.92.170/play/smart/xziptv.php?id=1857
+COLORS TAMIL,http://45.11.92.170/play/smart/xziptv.php?id=1858
+SUN TV HD,http://45.11.92.170/play/smart/xziptv.php?id=1859
+BOLLYONE HD,http://45.11.92.170/play/smart/xziptv.php?id=1860
+iQIYI HD,http://45.11.92.170/play/smart/xziptv.php?id=1861
+GO SHOP 2,http://45.11.92.170/play/smart/xziptv.php?id=1862
+XIAO TAI YANG HD,http://45.11.92.170/play/smart/xziptv.php?id=1863
+AEC HD,http://45.11.92.170/play/smart/xziptv.php?id=1864
+SHUANG XING HD,http://45.11.92.170/play/smart/xziptv.php?id=1865
+QUAN JIA HD,http://45.11.92.170/play/smart/xziptv.php?id=1866
+CELESTIAL HD,http://45.11.92.170/play/smart/xziptv.php?id=1867
+TVB JADE,http://45.11.92.170/play/smart/xziptv.php?id=1868
+AOD 351 HD,http://45.11.92.170/play/smart/xziptv.php?id=1869
+CTI ASIA,http://45.11.92.170/play/smart/xziptv.php?id=1870
+TVB E-NEWS,http://45.11.92.170/play/smart/xziptv.php?id=1871
+TVB XING HE HD,http://45.11.92.170/play/smart/xziptv.php?id=1872
+TVBS ASIA HD,http://45.11.92.170/play/smart/xziptv.php?id=1873
+CCM,http://45.11.92.170/play/smart/xziptv.php?id=1874
+HUA HEE DAI HD,http://45.11.92.170/play/smart/xziptv.php?id=1875
+CCTV4 HD,http://45.11.92.170/play/smart/xziptv.php?id=1876
+AOD 352 HD,http://45.11.92.170/play/smart/xziptv.php?id=1877
+AOD 353 HD,http://45.11.92.170/play/smart/xziptv.php?id=1878
+AOD 354 HD,http://45.11.92.170/play/smart/xziptv.php?id=1879
+AOD 355 HD,http://45.11.92.170/play/smart/xziptv.php?id=1880
+KBS World HD,http://45.11.92.170/play/smart/xziptv.php?id=1881
+ONE HD,http://45.11.92.170/play/smart/xziptv.php?id=1882
+Oh!K HD,http://45.11.92.170/play/smart/xziptv.php?id=1883
+tvN HD,http://45.11.92.170/play/smart/xziptv.php?id=1884
+HITS MOVIES HD,http://45.11.92.170/play/smart/xziptv.php?id=1885
+HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=1886
+CINEMAX HD,http://45.11.92.170/play/smart/xziptv.php?id=1887
+tvN Movies,http://45.11.92.170/play/smart/xziptv.php?id=1888
+ASTRO AWANI,http://45.11.92.170/play/smart/xziptv.php?id=1889
+BNC,http://45.11.92.170/play/smart/xziptv.php?id=1890
+CGTN,http://45.11.92.170/play/smart/xziptv.php?id=1891
+CNN HD,http://45.11.92.170/play/smart/xziptv.php?id=1892
+BBC News HD,http://45.11.92.170/play/smart/xziptv.php?id=1893
+AL JAZEERA HD,http://45.11.92.170/play/smart/xziptv.php?id=1894
+SKY NEWS HD,http://45.11.92.170/play/smart/xziptv.php?id=1895
+CNA HD,http://45.11.92.170/play/smart/xziptv.php?id=1896
+CNBC,http://45.11.92.170/play/smart/xziptv.php?id=1897
+BLOOMBERG TV,http://45.11.92.170/play/smart/xziptv.php?id=1898
+ABC AUSTRALIA,http://45.11.92.170/play/smart/xziptv.php?id=1899
+NGW HD,http://45.11.92.170/play/smart/xziptv.php?id=1900
+NAT GEO HD,http://45.11.92.170/play/smart/xziptv.php?id=1901
+DISCOVERY HD,http://45.11.92.170/play/smart/xziptv.php?id=1902
+DISCOVERY ASIA,http://45.11.92.170/play/smart/xziptv.php?id=1903
+DISC SCI HD,http://45.11.92.170/play/smart/xziptv.php?id=1904
+HISTORY HD,http://45.11.92.170/play/smart/xziptv.php?id=1905
+ANIMAL PLANET HD,http://45.11.92.170/play/smart/xziptv.php?id=1906
+TUTOR TV UPSR,http://45.11.92.170/play/smart/xziptv.php?id=1907
+TUTOR TV PT3,http://45.11.92.170/play/smart/xziptv.php?id=1908
+TUTOR TV SPM,http://45.11.92.170/play/smart/xziptv.php?id=1909
+TVIQ,http://45.11.92.170/play/smart/xziptv.php?id=1910
+ASTRO CERIA HD,http://45.11.92.170/play/smart/xziptv.php?id=1911
+DISNEY XD HD,http://45.11.92.170/play/smart/xziptv.php?id=1912
+DISNEY JUNIOR,http://45.11.92.170/play/smart/xziptv.php?id=1913
+DISNEY CHANNEL HD,http://45.11.92.170/play/smart/xziptv.php?id=1914
+CARTOON NTWK HD,http://45.11.92.170/play/smart/xziptv.php?id=1915
+NICKELODEON HD,http://45.11.92.170/play/smart/xziptv.php?id=1916
+AXN HD,http://45.11.92.170/play/smart/xziptv.php?id=1918
+ASTRO HELLO,http://45.11.92.170/play/smart/xziptv.php?id=1919
+KIX HD,http://45.11.92.170/play/smart/xziptv.php?id=1920
+HITS HD,http://45.11.92.170/play/smart/xziptv.php?id=1921
+TLC HD,http://45.11.92.170/play/smart/xziptv.php?id=1922
+FOOD NTWK HD,http://45.11.92.170/play/smart/xziptv.php?id=1923
+AFN HD,http://45.11.92.170/play/smart/xziptv.php?id=1924
+NATGEO PEOPLE,http://45.11.92.170/play/smart/xziptv.php?id=1925
+WARNER TV,http://45.11.92.170/play/smart/xziptv.php?id=1926
+C&I HD,http://45.11.92.170/play/smart/xziptv.php?id=1927
+HGTV HD,http://45.11.92.170/play/smart/xziptv.php?id=1928
+DMAX HD,http://45.11.92.170/play/smart/xziptv.php?id=1929
+COMEDY CENTRAL,http://45.11.92.170/play/smart/xziptv.php?id=1930
+MTV,http://45.11.92.170/play/smart/xziptv.php?id=1931
+ANIMAX,http://45.11.92.170/play/smart/xziptv.php?id=1932
+eGG Network,http://45.11.92.170/play/smart/xziptv.php?id=1933
+ASTRO ARENA HD,http://45.11.92.170/play/smart/xziptv.php?id=1934
+COLORS HD,http://45.11.92.170/play/smart/xziptv.php?id=1935
+VAANAVIL,http://45.11.92.170/play/smart/xziptv.php?id=1936
+FOX SPORTS HD,http://45.11.92.170/play/smart/xziptv.php?id=1937
+FOX SPORTS 2 HD,http://45.11.92.170/play/smart/xziptv.php?id=1938
+FOX SPORTS 3 HD,http://45.11.92.170/play/smart/xziptv.php?id=1939
+beIN SPORTS,http://45.11.92.170/play/smart/xziptv.php?id=1940
+bEIN MAX,http://45.11.92.170/play/smart/xziptv.php?id=1941
+EUROSPORT HD,http://45.11.92.170/play/smart/xziptv.php?id=1942
+WWE NETWORK,http://45.11.92.170/play/smart/xziptv.php?id=1943
+GOLF CHANNEL HD,http://45.11.92.170/play/smart/xziptv.php?id=1944
+ASTRO RUGBY PASS TV,http://45.11.92.170/play/smart/xziptv.php?id=1945
+ASTRO CRICKET,http://45.11.92.170/play/smart/xziptv.php?id=1946
+ANIPLUS HD,http://45.11.92.170/play/smart/xziptv.php?id=1947
+KPLUS HD,http://45.11.92.170/play/smart/xziptv.php?id=1948
+DW HD,http://45.11.92.170/play/smart/xziptv.php?id=1949
+FRANCE24 HD,http://45.11.92.170/play/smart/xziptv.php?id=1950
+TV1,http://45.11.92.170/play/smart/xziptv.php?id=1954
+TV2,http://45.11.92.170/play/smart/xziptv.php?id=1955
+Baby TV,http://45.11.92.170/play/smart/xziptv.php?id=1956
+Boomerang HD,http://45.11.92.170/play/smart/xziptv.php?id=1961
+Cinema World HD,http://45.11.92.170/play/smart/xziptv.php?id=1962
+Colors Cineplex,http://45.11.92.170/play/smart/xziptv.php?id=1963
+Dreamworks HD,http://45.11.92.170/play/smart/xziptv.php?id=1964
+RTM Sports,http://45.11.92.170/play/smart/xziptv.php?id=1969
+Sony SetMAX,http://45.11.92.170/play/smart/xziptv.php?id=1972
+Astro Rania HD,http://45.11.92.170/play/smart/xziptv.php?id=1975
+Astro Aura HD,http://45.11.92.170/play/smart/xziptv.php?id=1976
+DAAI TV,http://45.11.92.170/play/smart/xziptv.php?id=1977
+NET TV,http://45.11.92.170/play/smart/xziptv.php?id=1978
+ANTV,http://45.11.92.170/play/smart/xziptv.php?id=1979
+SCTV,http://45.11.92.170/play/smart/xziptv.php?id=1980
+Trans TV,http://45.11.92.170/play/smart/xziptv.php?id=1981
+Trans 7,http://45.11.92.170/play/smart/xziptv.php?id=1982
+Rajawali TV,http://45.11.92.170/play/smart/xziptv.php?id=1983
+NET TV FHD,http://45.11.92.170/play/smart/xziptv.php?id=1984
+JTV,http://45.11.92.170/play/smart/xziptv.php?id=1985
+Bali TV,http://45.11.92.170/play/smart/xziptv.php?id=1986
+Dunia Lain,http://45.11.92.170/play/smart/xziptv.php?id=1987
+Trans TV FHD,http://45.11.92.170/play/smart/xziptv.php?id=1988
+Trans 7 FHD,http://45.11.92.170/play/smart/xziptv.php?id=1989
+SCTV HD,http://45.11.92.170/play/smart/xziptv.php?id=1990
+U Channel,http://45.11.92.170/play/smart/xziptv.php?id=1991
+Life,http://45.11.92.170/play/smart/xziptv.php?id=1994
+Indosiar,http://45.11.92.170/play/smart/xziptv.php?id=1995
+Hope Channel,http://45.11.92.170/play/smart/xziptv.php?id=1999
+TV ONE,http://45.11.92.170/play/smart/xziptv.php?id=2001
+Kompas TV,http://45.11.92.170/play/smart/xziptv.php?id=2002
+TVRI,http://45.11.92.170/play/smart/xziptv.php?id=2003
+CNN Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=2004
+Metro TV,http://45.11.92.170/play/smart/xziptv.php?id=2005
+Berita Satu News,http://45.11.92.170/play/smart/xziptv.php?id=2006
+CNBC Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=2007
+Metro TV HD,http://45.11.92.170/play/smart/xziptv.php?id=2008
+Thrill,http://45.11.92.170/play/smart/xziptv.php?id=2010
+Celestial Movies,http://45.11.92.170/play/smart/xziptv.php?id=2011
+Zee Bioskop,http://45.11.92.170/play/smart/xziptv.php?id=2012
+KIX HD,http://45.11.92.170/play/smart/xziptv.php?id=2013
+AXN,http://45.11.92.170/play/smart/xziptv.php?id=2014
+FOX Life HD,http://45.11.92.170/play/smart/xziptv.php?id=2015
+FOX HD,http://45.11.92.170/play/smart/xziptv.php?id=2016
+FOX Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=2017
+FOX Action Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=2018
+HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=2019
+HBO Hits HD,http://45.11.92.170/play/smart/xziptv.php?id=2021
+HBO Family HD,http://45.11.92.170/play/smart/xziptv.php?id=2022
+FOX Crime HD,http://45.11.92.170/play/smart/xziptv.php?id=2023
+Star Chinese Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=2025
+Blue Ant Extreme HD,http://45.11.92.170/play/smart/xziptv.php?id=2026
+LifeTime HD,http://45.11.92.170/play/smart/xziptv.php?id=2027
+HBO Signature HD,http://45.11.92.170/play/smart/xziptv.php?id=2028
+Bioskop Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=2029
+Hits Movie SD,http://45.11.92.170/play/smart/xziptv.php?id=2030
+Cinema World,http://45.11.92.170/play/smart/xziptv.php?id=2031
+HITS HD,http://45.11.92.170/play/smart/xziptv.php?id=2032
+FOX Action Movies FHD,http://45.11.92.170/play/smart/xziptv.php?id=2033
+HBO FHD,http://45.11.92.170/play/smart/xziptv.php?id=2034
+HBO Signature FHD,http://45.11.92.170/play/smart/xziptv.php?id=2035
+Warner TV ID HD,http://45.11.92.170/play/smart/xziptv.php?id=2036
+Star Chinese Movies Legend,http://45.11.92.170/play/smart/xziptv.php?id=2037
+CCM,http://45.11.92.170/play/smart/xziptv.php?id=2038
+Cinemax ID,http://45.11.92.170/play/smart/xziptv.php?id=2039
+Red By HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=2040
+FMN,http://45.11.92.170/play/smart/xziptv.php?id=2041
+HBO Hits FHD,http://45.11.92.170/play/smart/xziptv.php?id=2042
+FOX Family Movies ID,http://45.11.92.170/play/smart/xziptv.php?id=2043
+HBO SD,http://45.11.92.170/play/smart/xziptv.php?id=2044
+HBO Hits SD,http://45.11.92.170/play/smart/xziptv.php?id=2045
+HBO Signature SD,http://45.11.92.170/play/smart/xziptv.php?id=2046
+HBO Family SD,http://45.11.92.170/play/smart/xziptv.php?id=2047
+Cinemax SD,http://45.11.92.170/play/smart/xziptv.php?id=2048
+FLIK HD,http://45.11.92.170/play/smart/xziptv.php?id=2049
+Galaxy Premium SD,http://45.11.92.170/play/smart/xziptv.php?id=2050
+Galaxy SD,http://45.11.92.170/play/smart/xziptv.php?id=2051
+ATV,http://45.11.92.170/play/smart/xziptv.php?id=2052
+HBO Family FHD,http://45.11.92.170/play/smart/xziptv.php?id=2053
+Cinemax FHD,http://45.11.92.170/play/smart/xziptv.php?id=2054
+IMC SD,http://45.11.92.170/play/smart/xziptv.php?id=2055
+Nat Geo HD,http://45.11.92.170/play/smart/xziptv.php?id=2056
+Nat Geo Wild HD,http://45.11.92.170/play/smart/xziptv.php?id=2057
+Discovery Channel HD,http://45.11.92.170/play/smart/xziptv.php?id=2058
+Crime Investigation,http://45.11.92.170/play/smart/xziptv.php?id=2059
+Discovery Shed,http://45.11.92.170/play/smart/xziptv.php?id=2060
+Nat Geo People HD,http://45.11.92.170/play/smart/xziptv.php?id=2063
+History HD,http://45.11.92.170/play/smart/xziptv.php?id=2064
+Discovery Asia,http://45.11.92.170/play/smart/xziptv.php?id=2065
+History FHD,http://45.11.92.170/play/smart/xziptv.php?id=2066
+Lingua Channel,http://45.11.92.170/play/smart/xziptv.php?id=2067
+Smithsonian Channel,http://45.11.92.170/play/smart/xziptv.php?id=2068
+Da Vinci Learning,http://45.11.92.170/play/smart/xziptv.php?id=2069
+Ruang Terampil,http://45.11.92.170/play/smart/xziptv.php?id=2070
+TV Edukasi,http://45.11.92.170/play/smart/xziptv.php?id=2071
+Love Nature 4K,http://45.11.92.170/play/smart/xziptv.php?id=2072
+Aniplus,http://45.11.92.170/play/smart/xziptv.php?id=2073
+Animax,http://45.11.92.170/play/smart/xziptv.php?id=2074
+Disney Junior,http://45.11.92.170/play/smart/xziptv.php?id=2076
+Baby TV,http://45.11.92.170/play/smart/xziptv.php?id=2077
+Boomerang ID,http://45.11.92.170/play/smart/xziptv.php?id=2078
+Nick Jr ID,http://45.11.92.170/play/smart/xziptv.php?id=2080
+Cartoon Network ID HD,http://45.11.92.170/play/smart/xziptv.php?id=2081
+Dunia Anak,http://45.11.92.170/play/smart/xziptv.php?id=2082
+Nickelodeon ID,http://45.11.92.170/play/smart/xziptv.php?id=2083
+Toonmax,http://45.11.92.170/play/smart/xziptv.php?id=2084
+Baby First,http://45.11.92.170/play/smart/xziptv.php?id=2085
+My Kidz,http://45.11.92.170/play/smart/xziptv.php?id=2086
+Duck TV,http://45.11.92.170/play/smart/xziptv.php?id=2087
+Disney Channel ID,http://45.11.92.170/play/smart/xziptv.php?id=2088
+Zoo Moo HD,http://45.11.92.170/play/smart/xziptv.php?id=2089
+Horee,http://45.11.92.170/play/smart/xziptv.php?id=2090
+Dream Works HD,http://45.11.92.170/play/smart/xziptv.php?id=2091
+XingXong,http://45.11.92.170/play/smart/xziptv.php?id=2092
+CBeebies,http://45.11.92.170/play/smart/xziptv.php?id=2093
+Fox Sports 1 HD,http://45.11.92.170/play/smart/xziptv.php?id=2094
+Fox Sports 3 HD,http://45.11.92.170/play/smart/xziptv.php?id=2095
+Fox Sports 2 HD,http://45.11.92.170/play/smart/xziptv.php?id=2096
+BeIN Sport 1 ID,http://45.11.92.170/play/smart/xziptv.php?id=2097
+BeIN Sport 2 ID,http://45.11.92.170/play/smart/xziptv.php?id=2098
+Badminton 1,http://45.11.92.170/play/smart/xziptv.php?id=2102
+Badminton 2,http://45.11.92.170/play/smart/xziptv.php?id=2103
+Fashion TV,http://45.11.92.170/play/smart/xziptv.php?id=2104
+TLC HD,http://45.11.92.170/play/smart/xziptv.php?id=2105
+HGTV,http://45.11.92.170/play/smart/xziptv.php?id=2106
+Waku Waku Japan HD,http://45.11.92.170/play/smart/xziptv.php?id=2107
+AFN HD,http://45.11.92.170/play/smart/xziptv.php?id=2108
+Citra Drama,http://45.11.92.170/play/smart/xziptv.php?id=2109
+Every Good Game,http://45.11.92.170/play/smart/xziptv.php?id=2110
+Blue Ant Entertainment HD,http://45.11.92.170/play/smart/xziptv.php?id=2111
+Insert,http://45.11.92.170/play/smart/xziptv.php?id=2112
+Eat & Go,http://45.11.92.170/play/smart/xziptv.php?id=2113
+.idku,http://45.11.92.170/play/smart/xziptv.php?id=2114
+BBC Lifestyle HD,http://45.11.92.170/play/smart/xziptv.php?id=2115
+K Plus,http://45.11.92.170/play/smart/xziptv.php?id=2116
+Sony ONE,http://45.11.92.170/play/smart/xziptv.php?id=2117
+TVN ID,http://45.11.92.170/play/smart/xziptv.php?id=2118
+S GEM HD,http://45.11.92.170/play/smart/xziptv.php?id=2119
+tVN Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=2120
+KBS World HD,http://45.11.92.170/play/smart/xziptv.php?id=2121
+K Drama,http://45.11.92.170/play/smart/xziptv.php?id=2122
+Channel V HD,http://45.11.92.170/play/smart/xziptv.php?id=2123
+Prambors TV,http://45.11.92.170/play/smart/xziptv.php?id=2124
+ONE African TV,http://45.11.92.170/play/smart/xziptv.php?id=2125
+Citra Dangdut,http://45.11.92.170/play/smart/xziptv.php?id=2126
+MTV LIVE HD,http://45.11.92.170/play/smart/xziptv.php?id=2127
+i konser,http://45.11.92.170/play/smart/xziptv.php?id=2128
+Makkah TV,http://45.11.92.170/play/smart/xziptv.php?id=2129
+Rodja TV,http://45.11.92.170/play/smart/xziptv.php?id=2130
+Madina TV,http://45.11.92.170/play/smart/xziptv.php?id=2131
+TV Mu,http://45.11.92.170/play/smart/xziptv.php?id=2132
+Ahsan TV,http://45.11.92.170/play/smart/xziptv.php?id=2133
+Reformed 21,http://45.11.92.170/play/smart/xziptv.php?id=2134
+Bloomberg TV Asia,http://45.11.92.170/play/smart/xziptv.php?id=2135
+DW TV Asia,http://45.11.92.170/play/smart/xziptv.php?id=2136
+France 24,http://45.11.92.170/play/smart/xziptv.php?id=2137
+BBC World News HD,http://45.11.92.170/play/smart/xziptv.php?id=2138
+Channel News Asia,http://45.11.92.170/play/smart/xziptv.php?id=2139
+CNN Int,http://45.11.92.170/play/smart/xziptv.php?id=2140
+CGTN News,http://45.11.92.170/play/smart/xziptv.php?id=2141
+Russia Today,http://45.11.92.170/play/smart/xziptv.php?id=2142
+Aljazeera EN,http://45.11.92.170/play/smart/xziptv.php?id=2143
+NHK World Japan,http://45.11.92.170/play/smart/xziptv.php?id=2144
+TV 5 Monde Asie,http://45.11.92.170/play/smart/xziptv.php?id=2145
+Golf Channel FHD,http://45.11.92.170/play/smart/xziptv.php?id=2146
+Fight Sports,http://45.11.92.170/play/smart/xziptv.php?id=2147
+UFC FHD,http://45.11.92.170/play/smart/xziptv.php?id=2148
+NBA TV HD,http://45.11.92.170/play/smart/xziptv.php?id=2149
+UBLIVE-新馬測試,#genre#
+BOO,http://45.11.92.170/play/smart/xziptv.php?id=1437
+CCM,http://45.11.92.170/play/smart/xziptv.php?id=1438
+CELESTIAL,http://45.11.92.170/play/smart/xziptv.php?id=1439
+Citra,http://45.11.92.170/play/smart/xziptv.php?id=1440
+Fox_Action_Movies,http://45.11.92.170/play/smart/xziptv.php?id=1441
+Fox_Family_Movies,http://45.11.92.170/play/smart/xziptv.php?id=1442
+Fox_Movies,http://45.11.92.170/play/smart/xziptv.php?id=1443
+Hua Hee Dai,http://45.11.92.170/play/smart/xziptv.php?id=1444
+iQIYI,http://45.11.92.170/play/smart/xziptv.php?id=1445
+KIX,http://45.11.92.170/play/smart/xziptv.php?id=1446
+PRIMA,http://45.11.92.170/play/smart/xziptv.php?id=1448
+Quan Jia,http://45.11.92.170/play/smart/xziptv.php?id=1449
+SCM,http://45.11.92.170/play/smart/xziptv.php?id=1450
+sony_one,http://45.11.92.170/play/smart/xziptv.php?id=1451
+TV8,http://45.11.92.170/play/smart/xziptv.php?id=1455
+Channel8,http://45.11.92.170/play/smart/xziptv.php?id=142
+Channel5,http://45.11.92.170/play/smart/xziptv.php?id=141
+AOD351,http://45.11.92.170/play/smart/xziptv.php?id=1050
+AOD352,http://45.11.92.170/play/smart/xziptv.php?id=450
+AOD353,http://45.11.92.170/play/smart/xziptv.php?id=1067
+AOD354,http://45.11.92.170/play/smart/xziptv.php?id=1068
+AOD355,http://45.11.92.170/play/smart/xziptv.php?id=1069
+ASSP1_HD,http://45.11.92.170/play/smart/xziptv.php?id=1070
+ASSP2_HD,http://45.11.92.170/play/smart/xziptv.php?id=1071
+ASSP3_HD,http://45.11.92.170/play/smart/xziptv.php?id=1072
+ASSP4_HD,http://45.11.92.170/play/smart/xziptv.php?id=1074
+AEC,http://45.11.92.170/play/smart/xziptv.php?id=1073
+AFN,http://45.11.92.170/play/smart/xziptv.php?id=195
+Channel U,http://45.11.92.170/play/smart/xziptv.php?id=1077
+Vasantham,http://45.11.92.170/play/smart/xziptv.php?id=1078
+TVB星河,http://45.11.92.170/play/smart/xziptv.php?id=1079
+小太陽,http://45.11.92.170/play/smart/xziptv.php?id=1080
+WWE,http://45.11.92.170/play/smart/xziptv.php?id=1081
+TVB經典,http://45.11.92.170/play/smart/xziptv.php?id=1083
+TVB Jade,http://45.11.92.170/play/smart/xziptv.php?id=1084
+衛視卡式臺,http://45.11.92.170/play/smart/xziptv.php?id=1085
+雙星,http://45.11.92.170/play/smart/xziptv.php?id=1086
+Suria,http://45.11.92.170/play/smart/xziptv.php?id=1076
+OKEY,http://45.11.92.170/play/smart/xziptv.php?id=1075
+AWANI,http://45.11.92.170/play/smart/xziptv.php?id=1151
+AXN,http://45.11.92.170/play/smart/xziptv.php?id=1044
+BNC,http://45.11.92.170/play/smart/xziptv.php?id=1045
+UBLIVE-菲律賓,#genre#
+CinemaOne,http://45.11.92.170/play/smart/xziptv.php?id=1333
+Jeepney,http://45.11.92.170/play/smart/xziptv.php?id=1335
+MYX,http://45.11.92.170/play/smart/xziptv.php?id=1336
+GMA,http://45.11.92.170/play/smart/xziptv.php?id=1337
+TV5,http://45.11.92.170/play/smart/xziptv.php?id=1338
+UBLIVE-泰國頻道,#genre#
+7HD,http://45.11.92.170/play/smart/xziptv.php?id=2228
+One HD,http://45.11.92.170/play/smart/xziptv.php?id=2229
+3 HD,http://45.11.92.170/play/smart/xziptv.php?id=2230
+Workpoint,http://45.11.92.170/play/smart/xziptv.php?id=2232
+GMM25,http://45.11.92.170/play/smart/xziptv.php?id=2233
+8 channel,http://45.11.92.170/play/smart/xziptv.php?id=2234
+Thairat,http://45.11.92.170/play/smart/xziptv.php?id=2235
+Amarin TV,http://45.11.92.170/play/smart/xziptv.php?id=2236
+MoNo,http://45.11.92.170/play/smart/xziptv.php?id=2237
+Thaipbs,http://45.11.92.170/play/smart/xziptv.php?id=2238
+PPTV,http://45.11.92.170/play/smart/xziptv.php?id=2240
+Sabaidee TV,http://45.11.92.170/play/smart/xziptv.php?id=2241
+Police TV,http://45.11.92.170/play/smart/xziptv.php?id=2242
+Esan TV,http://45.11.92.170/play/smart/xziptv.php?id=2243
+RS Mall,http://45.11.92.170/play/smart/xziptv.php?id=2244
+Nation TV,http://45.11.92.170/play/smart/xziptv.php?id=2245
+M Channel,http://45.11.92.170/play/smart/xziptv.php?id=2246
+JKN,http://45.11.92.170/play/smart/xziptv.php?id=2247
+Thailand ch3,http://45.11.92.170/play/smart/xziptv.php?id=1839
+Thailand ch7,http://45.11.92.170/play/smart/xziptv.php?id=1840
+Thailand ch8,http://45.11.92.170/play/smart/xziptv.php?id=1841
+Gmm 25,http://45.11.92.170/play/smart/xziptv.php?id=1842
+Mono 29,http://45.11.92.170/play/smart/xziptv.php?id=1843
+NEWS1,http://45.11.92.170/play/smart/xziptv.php?id=1608
+NBT Central,http://45.11.92.170/play/smart/xziptv.php?id=1609
+Thairath TV,http://45.11.92.170/play/smart/xziptv.php?id=1139
+Channel 8,http://45.11.92.170/play/smart/xziptv.php?id=1140
+Thai PBS,http://45.11.92.170/play/smart/xziptv.php?id=1047
+UBLIVE-印尼頻道,#genre#
+TVRI,http://45.11.92.170/play/smart/xziptv.php?id=1473
+Rcti,http://45.11.92.170/play/smart/xziptv.php?id=1474
+Kompass,http://45.11.92.170/play/smart/xziptv.php?id=1475
+Indosiar,http://45.11.92.170/play/smart/xziptv.php?id=1478
+Antv,http://45.11.92.170/play/smart/xziptv.php?id=1479
+TV9,http://45.11.92.170/play/smart/xziptv.php?id=1480
+Mnctv,http://45.11.92.170/play/smart/xziptv.php?id=1481
+Trans7,http://45.11.92.170/play/smart/xziptv.php?id=1482
+Transtv,http://45.11.92.170/play/smart/xziptv.php?id=1483
+JTV,http://45.11.92.170/play/smart/xziptv.php?id=1484
+Metrotv,http://45.11.92.170/play/smart/xziptv.php?id=1485
+Sctv,http://45.11.92.170/play/smart/xziptv.php?id=1486
+TVone,http://45.11.92.170/play/smart/xziptv.php?id=1487
+OChannel,http://45.11.92.170/play/smart/xziptv.php?id=1488
+Balitv,http://45.11.92.170/play/smart/xziptv.php?id=1489
+TVMU,http://45.11.92.170/play/smart/xziptv.php?id=1490
+DAAI TV,http://45.11.92.170/play/smart/xziptv.php?id=1621
+NET TV,http://45.11.92.170/play/smart/xziptv.php?id=1622
+ANTV,http://45.11.92.170/play/smart/xziptv.php?id=1623
+SCTV,http://45.11.92.170/play/smart/xziptv.php?id=1624
+Trans TV,http://45.11.92.170/play/smart/xziptv.php?id=1625
+Trans 7,http://45.11.92.170/play/smart/xziptv.php?id=1626
+Rajawali TV,http://45.11.92.170/play/smart/xziptv.php?id=1627
+NET TV FHD,http://45.11.92.170/play/smart/xziptv.php?id=1628
+JTV,http://45.11.92.170/play/smart/xziptv.php?id=1629
+SCTV HD,http://45.11.92.170/play/smart/xziptv.php?id=1634
+U Channel,http://45.11.92.170/play/smart/xziptv.php?id=1635
+Indosiar,http://45.11.92.170/play/smart/xziptv.php?id=1639
+Hope Channel,http://45.11.92.170/play/smart/xziptv.php?id=1643
+Antara TV,http://45.11.92.170/play/smart/xziptv.php?id=1644
+TV ONE,http://45.11.92.170/play/smart/xziptv.php?id=1645
+Kompas TV,http://45.11.92.170/play/smart/xziptv.php?id=1646
+TVRI,http://45.11.92.170/play/smart/xziptv.php?id=1647
+CNN Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=1648
+Metro TV,http://45.11.92.170/play/smart/xziptv.php?id=1649
+Berita Satu News,http://45.11.92.170/play/smart/xziptv.php?id=1650
+CNBC Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=1651
+Thrill,http://45.11.92.170/play/smart/xziptv.php?id=1654
+Celestial Movies,http://45.11.92.170/play/smart/xziptv.php?id=1655
+KIX HD,http://45.11.92.170/play/smart/xziptv.php?id=1657
+AXN,http://45.11.92.170/play/smart/xziptv.php?id=1658
+FOX Life HD,http://45.11.92.170/play/smart/xziptv.php?id=1659
+FOX HD,http://45.11.92.170/play/smart/xziptv.php?id=1660
+FOX Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=1661
+FOX Action Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=1662
+HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=1663
+Star World,http://45.11.92.170/play/smart/xziptv.php?id=1664
+HBO Hits HD,http://45.11.92.170/play/smart/xziptv.php?id=1665
+HBO Family HD,http://45.11.92.170/play/smart/xziptv.php?id=1666
+FOX Crime HD,http://45.11.92.170/play/smart/xziptv.php?id=1667
+Reserved,http://45.11.92.170/play/smart/xziptv.php?id=1668
+Star Chinese Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=1669
+Blue Ant Extreme HD,http://45.11.92.170/play/smart/xziptv.php?id=1670
+LifeTime HD,http://45.11.92.170/play/smart/xziptv.php?id=1671
+HBO Signature HD,http://45.11.92.170/play/smart/xziptv.php?id=1672
+Bioskop Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=1673
+Hits Movie SD,http://45.11.92.170/play/smart/xziptv.php?id=1674
+HITS HD,http://45.11.92.170/play/smart/xziptv.php?id=1676
+Warner TV ID HD,http://45.11.92.170/play/smart/xziptv.php?id=1680
+Star Chinese Movies Legend,http://45.11.92.170/play/smart/xziptv.php?id=1681
+Cinemax ID,http://45.11.92.170/play/smart/xziptv.php?id=1683
+Red By HBO HD,http://45.11.92.170/play/smart/xziptv.php?id=1684
+FOX Family Movies ID,http://45.11.92.170/play/smart/xziptv.php?id=1687
+HBO SD,http://45.11.92.170/play/smart/xziptv.php?id=1688
+HBO Hits SD,http://45.11.92.170/play/smart/xziptv.php?id=1689
+HBO Signature SD,http://45.11.92.170/play/smart/xziptv.php?id=1690
+HBO Family SD,http://45.11.92.170/play/smart/xziptv.php?id=1691
+FLIK HD,http://45.11.92.170/play/smart/xziptv.php?id=1693
+Galaxy Premium SD,http://45.11.92.170/play/smart/xziptv.php?id=1694
+Galaxy SD,http://45.11.92.170/play/smart/xziptv.php?id=1695
+ATV,http://45.11.92.170/play/smart/xziptv.php?id=1696
+Nat Geo HD,http://45.11.92.170/play/smart/xziptv.php?id=1700
+Nat Geo Wild HD,http://45.11.92.170/play/smart/xziptv.php?id=1701
+Discovery Channel HD,http://45.11.92.170/play/smart/xziptv.php?id=1702
+Crime Investigation,http://45.11.92.170/play/smart/xziptv.php?id=1703
+Discovery Shed,http://45.11.92.170/play/smart/xziptv.php?id=1704
+Animal Planet HD,http://45.11.92.170/play/smart/xziptv.php?id=1705
+Nat Geo People HD,http://45.11.92.170/play/smart/xziptv.php?id=1707
+History HD,http://45.11.92.170/play/smart/xziptv.php?id=1708
+Discovery Asia,http://45.11.92.170/play/smart/xziptv.php?id=1709
+Lingua Channel,http://45.11.92.170/play/smart/xziptv.php?id=1711
+Da Vinci Learning,http://45.11.92.170/play/smart/xziptv.php?id=1713
+TV Edukasi,http://45.11.92.170/play/smart/xziptv.php?id=1715
+Love Nature 4K,http://45.11.92.170/play/smart/xziptv.php?id=1716
+Aniplus,http://45.11.92.170/play/smart/xziptv.php?id=1717
+Animax,http://45.11.92.170/play/smart/xziptv.php?id=1718
+Disney Junior,http://45.11.92.170/play/smart/xziptv.php?id=1720
+Boomerang ID,http://45.11.92.170/play/smart/xziptv.php?id=1722
+Disney Channel,http://45.11.92.170/play/smart/xziptv.php?id=1723
+Nick Jr ID,http://45.11.92.170/play/smart/xziptv.php?id=1724
+Cartoon Network ID HD,http://45.11.92.170/play/smart/xziptv.php?id=1725
+Dunia Anak,http://45.11.92.170/play/smart/xziptv.php?id=1726
+Nickelodeon ID,http://45.11.92.170/play/smart/xziptv.php?id=1727
+Toonmax,http://45.11.92.170/play/smart/xziptv.php?id=1728
+Baby First,http://45.11.92.170/play/smart/xziptv.php?id=1729
+My Kidz,http://45.11.92.170/play/smart/xziptv.php?id=1730
+Duck TV,http://45.11.92.170/play/smart/xziptv.php?id=1731
+Disney Channel ID,http://45.11.92.170/play/smart/xziptv.php?id=1732
+Zoo Moo HD,http://45.11.92.170/play/smart/xziptv.php?id=1733
+Horee,http://45.11.92.170/play/smart/xziptv.php?id=1734
+Dream Works HD,http://45.11.92.170/play/smart/xziptv.php?id=1735
+XingXong,http://45.11.92.170/play/smart/xziptv.php?id=1736
+CBeebies,http://45.11.92.170/play/smart/xziptv.php?id=1737
+Fox Sports 1 HD,http://45.11.92.170/play/smart/xziptv.php?id=1738
+Fox Sports 3 HD,http://45.11.92.170/play/smart/xziptv.php?id=1739
+Fox Sports 2 HD,http://45.11.92.170/play/smart/xziptv.php?id=1740
+BeIN Sport 1 ID,http://45.11.92.170/play/smart/xziptv.php?id=1741
+BeIN Sport 2 ID,http://45.11.92.170/play/smart/xziptv.php?id=1742
+Fashion TV,http://45.11.92.170/play/smart/xziptv.php?id=1748
+TLC HD,http://45.11.92.170/play/smart/xziptv.php?id=1749
+HGTV,http://45.11.92.170/play/smart/xziptv.php?id=1750
+Waku Waku Japan HD,http://45.11.92.170/play/smart/xziptv.php?id=1751
+AFN HD,http://45.11.92.170/play/smart/xziptv.php?id=1752
+Citra Drama,http://45.11.92.170/play/smart/xziptv.php?id=1753
+Every Good Game,http://45.11.92.170/play/smart/xziptv.php?id=1754
+Blue Ant Entertainment HD,http://45.11.92.170/play/smart/xziptv.php?id=1755
+Insert,http://45.11.92.170/play/smart/xziptv.php?id=1756
+Eat & Go,http://45.11.92.170/play/smart/xziptv.php?id=1757
+BBC Lifestyle HD,http://45.11.92.170/play/smart/xziptv.php?id=1759
+K Plus,http://45.11.92.170/play/smart/xziptv.php?id=1760
+Sony ONE,http://45.11.92.170/play/smart/xziptv.php?id=1761
+TVN ID,http://45.11.92.170/play/smart/xziptv.php?id=1762
+S GEM HD,http://45.11.92.170/play/smart/xziptv.php?id=1763
+tVN Movies HD,http://45.11.92.170/play/smart/xziptv.php?id=1764
+KBS World HD,http://45.11.92.170/play/smart/xziptv.php?id=1765
+K Drama,http://45.11.92.170/play/smart/xziptv.php?id=1766
+Channel V HD,http://45.11.92.170/play/smart/xziptv.php?id=1767
+Prambors TV,http://45.11.92.170/play/smart/xziptv.php?id=1768
+ONE African TV,http://45.11.92.170/play/smart/xziptv.php?id=1769
+Citra Dangdut,http://45.11.92.170/play/smart/xziptv.php?id=1770
+MTV LIVE HD,http://45.11.92.170/play/smart/xziptv.php?id=1771
+Makkah TV,http://45.11.92.170/play/smart/xziptv.php?id=1773
+Rodja TV,http://45.11.92.170/play/smart/xziptv.php?id=1774
+Madina TV,http://45.11.92.170/play/smart/xziptv.php?id=1775
+TV Mu,http://45.11.92.170/play/smart/xziptv.php?id=1776
+Bloomberg TV Asia,http://45.11.92.170/play/smart/xziptv.php?id=1779
+France 24,http://45.11.92.170/play/smart/xziptv.php?id=1781
+BBC World News HD,http://45.11.92.170/play/smart/xziptv.php?id=1782
+Channel News Asia,http://45.11.92.170/play/smart/xziptv.php?id=1783
+CNN Int,http://45.11.92.170/play/smart/xziptv.php?id=1784
+CGTN News,http://45.11.92.170/play/smart/xziptv.php?id=1785
+Russia Today,http://45.11.92.170/play/smart/xziptv.php?id=1786
+Aljazeera EN,http://45.11.92.170/play/smart/xziptv.php?id=1787
+NHK World Japan,http://45.11.92.170/play/smart/xziptv.php?id=1788
+Fight Sports,http://45.11.92.170/play/smart/xziptv.php?id=1791
+Jakarta Globe,http://45.11.92.170/play/smart/xziptv.php?id=1142
+CNN Indonesia,http://45.11.92.170/play/smart/xziptv.php?id=1145
+UBLIVE-越南頻道,#genre#
+HTV7 HD,http://45.11.92.170/play/smart/xziptv.php?id=2251
+HTV9 HD,http://45.11.92.170/play/smart/xziptv.php?id=2253
+HTV1,http://45.11.92.170/play/smart/xziptv.php?id=2254
+HTV2 HD,http://45.11.92.170/play/smart/xziptv.php?id=2255
+Max by HBO,http://45.11.92.170/play/smart/xziptv.php?id=2261
+Disney Chanel,http://45.11.92.170/play/smart/xziptv.php?id=2262
+Bóng Đá TV,http://45.11.92.170/play/smart/xziptv.php?id=2263
+Fox Sport 1 vn,http://45.11.92.170/play/smart/xziptv.php?id=2264
+Fox Sport 2 vn,http://45.11.92.170/play/smart/xziptv.php?id=2265
+Fox Sport 3 vn,http://45.11.92.170/play/smart/xziptv.php?id=2266
+PTP,http://45.11.92.170/play/smart/xziptv.php?id=1293
+QRT,http://45.11.92.170/play/smart/xziptv.php?id=1294
+THBT,http://45.11.92.170/play/smart/xziptv.php?id=1295
+ANTV,http://45.11.92.170/play/smart/xziptv.php?id=1300
+ANTV HD,http://45.11.92.170/play/smart/xziptv.php?id=1301
+HBTV,http://45.11.92.170/play/smart/xziptv.php?id=1302
+KienGiangTV,http://45.11.92.170/play/smart/xziptv.php?id=1309
+KienGiangTV1,http://45.11.92.170/play/smart/xziptv.php?id=1310
+ANTV,http://45.11.92.170/play/smart/xziptv.php?id=1312
+BenTreTV,http://45.11.92.170/play/smart/xziptv.php?id=1313
+Da Nang TV1,http://45.11.92.170/play/smart/xziptv.php?id=1316
+KhanhHoaTV,http://45.11.92.170/play/smart/xziptv.php?id=1318
+KienGiangTV,http://45.11.92.170/play/smart/xziptv.php?id=1319
+KienGiangTV1,http://45.11.92.170/play/smart/xziptv.php?id=1320
+PhuYenTV,http://45.11.92.170/play/smart/xziptv.php?id=1323
+LongAnTV,http://45.11.92.170/play/smart/xziptv.php?id=1321
+LA34,http://45.11.92.170/play/smart/xziptv.php?id=1291
+VITV,http://45.11.92.170/play/smart/xziptv.php?id=1299
+UBLIVE-भारत,#genre#
+Sun TV,http://45.11.92.170/play/smart/xziptv.php?id=1458
+Star Vijay,http://45.11.92.170/play/smart/xziptv.php?id=1459
+Zee Tamil,http://45.11.92.170/play/smart/xziptv.php?id=1460
+Zee Business,http://45.11.92.170/play/smart/xziptv.php?id=1461
+Thanthi TV,http://45.11.92.170/play/smart/xziptv.php?id=1462
+Raj Musix,http://45.11.92.170/play/smart/xziptv.php?id=1463
+Zee Actions,http://45.11.92.170/play/smart/xziptv.php?id=1464
+KTV Tamil,http://45.11.92.170/play/smart/xziptv.php?id=1465
+Zee TV HD,http://45.11.92.170/play/smart/xziptv.php?id=1466
+Zee Cinema HD,http://45.11.92.170/play/smart/xziptv.php?id=1467
+Colors HD,http://45.11.92.170/play/smart/xziptv.php?id=1468
+Starplus,http://45.11.92.170/play/smart/xziptv.php?id=1469
+Picture,http://45.11.92.170/play/smart/xziptv.php?id=1470
+Asianet,http://45.11.92.170/play/smart/xziptv.php?id=1471
+Times Now,http://45.11.92.170/play/smart/xziptv.php?id=1472
+TV9 Marathi,http://45.11.92.170/play/smart/xziptv.php?id=1125
+NDTV India,http://45.11.92.170/play/smart/xziptv.php?id=1030
+NDTV,http://45.11.92.170/play/smart/xziptv.php?id=1028
+ZeeNews,http://45.11.92.170/play/smart/xziptv.php?id=465
+UBLIVE-私密頻道,#genre#
+Dorcel XXX,http://45.11.92.170/play/smart/xziptv.php?id=2248
+Penthouse TV,http://45.11.92.170/play/smart/xziptv.php?id=2249
+松視1,http://45.11.92.170/play/smart/xziptv.php?id=402
+松視2,http://45.11.92.170/play/smart/xziptv.php?id=403
+松視3,http://45.11.92.170/play/smart/xziptv.php?id=404
+香蕉台,http://45.11.92.170/play/smart/xziptv.php?id=408
+潘朵拉完美,http://45.11.92.170/play/smart/xziptv.php?id=410
+潘朵拉粉紅,http://45.11.92.170/play/smart/xziptv.php?id=411
+彩虹電影,http://45.11.92.170/play/smart/xziptv.php?id=413
+彩虹K,http://45.11.92.170/play/smart/xziptv.php?id=406
+彩虹E,http://45.11.92.170/play/smart/xziptv.php?id=405
+一本道,http://45.11.92.170/play/smart/xziptv.php?id=414
+二本道,http://45.11.92.170/play/smart/xziptv.php?id=415
+東京熱,http://45.11.92.170/play/smart/xziptv.php?id=416
+HOT,http://45.11.92.170/play/smart/xziptv.php?id=407
+happy,http://45.11.92.170/play/smart/xziptv.php?id=412
+驚豔台,http://45.11.92.170/play/smart/xziptv.php?id=409
+Erox HD,http://45.11.92.170/play/smart/xziptv.php?id=456
+Dorcel HD,http://45.11.92.170/play/smart/xziptv.php?id=454
+Babes TV HD,http://45.11.92.170/play/smart/xziptv.php?id=458
+Hustler HD,http://45.11.92.170/play/smart/xziptv.php?id=451
+SCT Classic,http://45.11.92.170/play/smart/xziptv.php?id=462
+Redlight HD,http://45.11.92.170/play/smart/xziptv.php?id=452
+SEX ATION HD,http://45.11.92.170/play/smart/xziptv.php?id=459
+Super One HD,http://45.11.92.170/play/smart/xziptv.php?id=457
+Prıvate TV,http://45.11.92.170/play/smart/xziptv.php?id=453
+Passie,http://45.11.92.170/play/smart/xziptv.php?id=461
+Vivid Red HD,http://45.11.92.170/play/smart/xziptv.php?id=455
